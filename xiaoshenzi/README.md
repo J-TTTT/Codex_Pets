@@ -1,6 +1,6 @@
 # 小神子
 
-已完成本地安装：`C:\Users\56180\.codex\pets\xiaoshenzi`。
+本地安装路径：`C:\Users\NAMES\.codex\pets\xiaoshenzi`。
 
 以提供的八重神子插画为参考，使用内置 imagegen 制作，按 hatch-pet v2 规范合成。
 
