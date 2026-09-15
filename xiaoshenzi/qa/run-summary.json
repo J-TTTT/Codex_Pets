@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "displayName": "小神子",
+  "started_at": "2026-09-15T05:35:00Z",
+  "completed_at": "2026-09-15T06:45:27.2457499Z",
+  "run_dir": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi",
+  "spritesheet": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\spritesheet.webp",
+  "validation": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\qa\\validation-extended.json",
+  "chroma_despill": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\qa\\chroma-despill-extended.json",
+  "contact_sheet": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\qa\\contact-sheet-extended.png",
+  "direction_sheet": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\qa\\look-directions.png",
+  "direction_semantics": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\qa\\direction-semantics.json",
+  "blind_direction_validation": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\qa\\direction-blind-validation.json",
+  "blind_review_resolution": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\qa\\blind-review-resolution.json",
+  "continuity": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\qa\\look-continuity.json",
+  "review": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\outputs\\xiaoshenzi\\qa\\review.json",
+  "package": "C:\\Users\\56180\\.codex\\pets\\xiaoshenzi",
+  "installed_hash_verified": true,
+  "sha256": "35363B17A918F0CB5FDD19197B28F074330656196514EC619F7DA3CD69B7163C",
+  "generation": "built-in imagegen",
+  "qa": "deterministic v2/alpha/despill; independent standard and final visual QA; three isolated direction blind reviews; intermediate warnings accepted with recorded evidence"
+}
