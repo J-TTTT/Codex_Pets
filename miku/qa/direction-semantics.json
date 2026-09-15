@@ -1,0 +1,135 @@
+{
+  "ok": true,
+  "reviewed_by": "independent miku_final_qa",
+  "coordinate_note": "Landmark judgments are visual estimates, not measured tracking.",
+  "directions": {
+    "135": {
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "horizontal_evidence": "Right head/face bias",
+      "vertical_evidence": "Downward gaze",
+      "reason": "Right head/face bias; Downward gaze; coherent ordered loop."
+    },
+    "180": {
+      "expected": "down",
+      "observed": "down",
+      "verdict": "pass",
+      "horizontal_evidence": "Face and nose centered",
+      "vertical_evidence": "Lowered eyes/nose and tucked chin",
+      "reason": "Face and nose centered; Lowered eyes/nose and tucked chin; coherent ordered loop."
+    },
+    "225": {
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "horizontal_evidence": "Left-facing head and nose",
+      "vertical_evidence": "Downward gaze",
+      "reason": "Left-facing head and nose; Downward gaze; coherent ordered loop."
+    },
+    "270": {
+      "expected": "left",
+      "observed": "left",
+      "verdict": "pass",
+      "horizontal_evidence": "Nose tip visibly left of skull center",
+      "vertical_evidence": "Near-level gaze",
+      "reason": "Nose tip visibly left of skull center; Near-level gaze; coherent ordered loop."
+    },
+    "315": {
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "horizontal_evidence": "Residual left face bias",
+      "vertical_evidence": "Raised gaze and chin",
+      "reason": "Residual left face bias; Raised gaze and chin; coherent ordered loop."
+    },
+    "000": {
+      "expected": "up",
+      "observed": "up",
+      "verdict": "pass",
+      "horizontal_evidence": "Centered nose/face",
+      "vertical_evidence": "Elevated gaze and raised chin",
+      "reason": "Centered nose/face; Elevated gaze and raised chin; coherent ordered loop."
+    },
+    "022.5": {
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "warning",
+      "horizontal_evidence": "Slight right nose/face bias",
+      "vertical_evidence": "Gaze above center",
+      "reason": "Independent labeled review confirms both intended axes and coherent ordered loop; isolated blind uncertainty retained as minor warning."
+    },
+    "045": {
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "horizontal_evidence": "Face and nose biased screen-right",
+      "vertical_evidence": "Eyes and chin raised",
+      "reason": "Face and nose biased screen-right; Eyes and chin raised; coherent ordered loop."
+    },
+    "067.5": {
+      "expected": "up-right",
+      "observed": "up-right",
+      "verdict": "pass",
+      "horizontal_evidence": "Nose and face clearly screen-right",
+      "vertical_evidence": "Gaze slightly above level",
+      "reason": "Nose and face clearly screen-right; Gaze slightly above level; coherent ordered loop."
+    },
+    "090": {
+      "expected": "right",
+      "observed": "right",
+      "verdict": "pass",
+      "horizontal_evidence": "Nose tip visibly right of skull center",
+      "vertical_evidence": "Near-level gaze",
+      "reason": "Nose tip visibly right of skull center; Near-level gaze; coherent ordered loop."
+    },
+    "112.5": {
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "warning",
+      "horizontal_evidence": "Right-facing face plane and right nose bias",
+      "vertical_evidence": "Gaze below level",
+      "reason": "Independent labeled review confirms both intended axes and coherent ordered loop; isolated blind uncertainty retained as minor warning."
+    },
+    "157.5": {
+      "expected": "down-right",
+      "observed": "down-right",
+      "verdict": "pass",
+      "horizontal_evidence": "Slight right face bias near frontal",
+      "vertical_evidence": "Lowered gaze and chin",
+      "reason": "Slight right face bias near frontal; Lowered gaze and chin; coherent ordered loop."
+    },
+    "202.5": {
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "pass",
+      "horizontal_evidence": "Left face bias",
+      "vertical_evidence": "Downward gaze",
+      "reason": "Left face bias; Downward gaze; coherent ordered loop."
+    },
+    "247.5": {
+      "expected": "down-left",
+      "observed": "down-left",
+      "verdict": "warning",
+      "horizontal_evidence": "Left nose and face plane",
+      "vertical_evidence": "Slightly downward gaze",
+      "reason": "Independent labeled review confirms both intended axes and coherent ordered loop; isolated blind uncertainty retained as minor warning."
+    },
+    "292.5": {
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "pass",
+      "horizontal_evidence": "Left head and face",
+      "vertical_evidence": "Slightly upward gaze",
+      "reason": "Left head and face; Slightly upward gaze; coherent ordered loop."
+    },
+    "337.5": {
+      "expected": "up-left",
+      "observed": "up-left",
+      "verdict": "warning",
+      "horizontal_evidence": "Slight left face bias near frontal",
+      "vertical_evidence": "Raised gaze and chin",
+      "reason": "Independent labeled review confirms both intended axes and coherent ordered loop; isolated blind uncertainty retained as minor warning."
+    }
+  }
+}

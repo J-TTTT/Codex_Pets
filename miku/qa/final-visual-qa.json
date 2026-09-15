@@ -1,0 +1,12 @@
+{
+  "visual_qa": "pass",
+  "reviewed_by": "independent miku_final_qa",
+  "qa_note": "Extended contact sheet, direction sheet, and standard previews preserve approved chibi anime Miku identity, twin-tails, cel shading, proportions and palette. Hands-down idle has blink/breath; wave gesture only; runs face correctly and alternate; running expresses thinking; review, waiting, failed and jumping remain distinct. Strict v2 and despill passed.",
+  "review_warnings": [
+    "Intermediate blind warnings at022.5,112.5,247.5,337.5 resolved by labeled correct quadrants and coherent ordered loop.",
+    "Alpha-hole warnings correspond to normal negative space between hair, limbs, skirt and boots, not cut bands.",
+    "292.5 to315 metric outlier has no visible snap, reversal or identity drift."
+  ],
+  "repair_rows": [],
+  "repair_notes": "none"
+}

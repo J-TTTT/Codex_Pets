@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Miku · 动画预览</title>
+<style>
+body{font:16px/1.6 system-ui,sans-serif;background:#10242b;color:#edfafa;margin:0;padding:40px}main{max-width:1100px;margin:auto}h1{font-size:36px;margin:0}p{color:#b1d8dc}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px}.card{background:#1c343e;border:1px solid #34545c;border-radius:18px;text-align:center;padding:16px}.card img{width:192px;height:208px;object-fit:contain;max-width:100%}h2{font-size:17px;margin:8px 0 0}.sub{font-size:13px;color:#a2bfc7;margin:0}a{color:#7ce0df}
+</style><main><h1>Miku</h1><p>安静、乖巧的青绿色双马尾智能拍档 · 9 个标准动作与 16 个注视方向</p><div class="grid" id="grid"></div><p>预览使用与安装素材相同的动画帧。安装素材为真正透明的 WebP 图集。</p><a href="qa/contact-sheet-extended.png">查看完整帧表</a> · <a href="qa/look-directions.png">查看注视方向</a></main>
+<script>
+const states=[['idle','待机','轻轻呼吸与眨眼'],['waving','打招呼','轻柔挥手'],['running-right','向右移动','小步跑动'],['running-left','向左移动','小步跑动'],['jumping','跳跃','开心跃起与缓冲'],['waiting','等待回应','安静期待'],['running','工作','认真思考'],['review','检查结果','专注观察'],['failed','失败','轻轻失落'],['look-directions','注视方向','顺时针 16 个方向']];
+document.getElementById('grid').innerHTML=states.map(([id,title,sub])=>`<section class="card"><img src="previews/${id}.gif" alt="${title}"><h2>${title}</h2><p class="sub">${sub}</p></section>`).join('');
+</script></html>

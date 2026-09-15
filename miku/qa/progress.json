@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-09-15T07:19:03.1948873Z",
+  "stage": "complete",
+  "retries": [
+    "waving transport retry",
+    "waiting oversized silhouettes repair",
+    "look-row-9: touching twin-tail silhouettes caused invalid pose-group registration",
+    "look-row-10 source331-336px tall exceeded immutable row9 registration; target290-300px full figures",
+    "look-row-10 second size prompt failed at337-341px; strategy changed to in-place editing of approved row9, immutable scale assembly passed"
+  ],
+  "failures": [
+    "waiting connected twin-tails caused sparse component frames; regenerate with more whitespace"
+  ],
+  "notes": "Only approved Miku reference, manually chose green key to preserve teal hair and magenta accessories.",
+  "base_approved": true,
+  "updated_at": "2026-09-15T08:35:29.6483115Z",
+  "passed_standard_rows": 9,
+  "checklist": [
+    "Getting Miku ready: complete",
+    "Imagining Miku main look: complete",
+    "Picturing Miku poses: complete",
+    "Hatching Miku: complete"
+  ],
+  "elapsed_minutes": 77.1
+}
