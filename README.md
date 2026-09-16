@@ -6,13 +6,13 @@
 
 ## 认识你的拍档
 
-| Yae-Miko · Yae-Miko | Miku · Miku | Raiden-Shogun · Raiden-Shogun |
+| 八重神子 · Yae-Miko | 初音未来 · Miku | 雷电将军 · Raiden-Shogun |
 | :---: | :---: | :---: |
 | ![Yae-Miko待机](Yae-Miko/previews/idle.gif) | ![Miku 待机](Miku/previews/idle.gif) | ![Raiden-Shogun 待机](Raiden-Shogun/previews/idle.gif) |
 | 樱粉长发、狐耳与白红巫女服。温柔聪慧，带一点狡黠的笑意。 | 青绿色长双马尾与经典灰黑服装。安静乖巧，带一点天然呆。 | 深紫长辫、紫花金饰与和风服装。沉静端庄，动作温柔克制。 |
 | [全部动画](Yae-Miko/previews/) · [角色说明](Yae-Miko/README.md) | [全部动画](Miku/previews/) · [角色说明](Miku/README.md) | [全部动画](Raiden-Shogun/previews/) · [角色说明](Raiden-Shogun/README.md) |
 
-| La-Signora · La-Signora | Arlecchino · Arlecchino | Il-Capitano · Il-Capitano |
+| 女士 · La-Signora | 仆人 · Arlecchino | 队长 · Il-Capitano |
 | :---: | :---: | :---: |
 | ![La-Signora 待机](La-Signora/previews/idle.gif) | ![Arlecchino 待机](Arlecchino/previews/idle.gif) | ![Il-Capitano 待机](Il-Capitano/previews/idle.gif) |
 | 浅金卷发、黑色半面面具、黑红礼服与白色毛领。优雅从容，带一点俏皮。 | 黑白层次发型、红色叉形瞳孔与黑白灰礼服。冷静利落，带着不张扬的温柔。 | 全覆式深色头盔、金色装饰、厚实毛领与披风。沉稳可靠，通过头盔和肢体传达情绪。 |
