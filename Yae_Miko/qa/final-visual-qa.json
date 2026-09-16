@@ -1,0 +1,15 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "Independent final review confirms identity, palette, silhouette, outfit, baseline, transparency, cardinal meanings and state semantics. No repair rows remain.",
+  "review_warnings": [
+    "Blind horizontal-6 disagreement for 135/225 is minor: labeled normal-size loop confirms correct down-right/down-left quadrants without reversal.",
+    "Blind vertical-4 ambiguity for 112.5/067.5 is minor: vertical cues are subtle but visible in the coherent labeled loop.",
+    "Alpha-hole candidates at y175-177 align with intentional negative space between legs, hair and costume, not accidental holes inside filled body.",
+    "157.5->180 metric outlier and 13.3px center shift are pose changes without conspicuous snap or registration break.",
+    "337.5->000 area-ratio outlier reflects up-facing versus near-front geometry without visible pop.",
+    "Row10 is modestly smaller in contact sheet but independent normal-size review finds no conspicuous scale pop."
+  ],
+  "repair_rows": [],
+  "reviewed_by": "independent final_qa worker",
+  "method": "Labeled normal-size contact sequences, ordered look GIF first-frame plus full labeled sequence, prior independent standard sequence review, deterministic reports."
+}

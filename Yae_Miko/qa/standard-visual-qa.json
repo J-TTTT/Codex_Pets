@@ -1,0 +1,7 @@
+{
+  "standard_visual_qa": "pass",
+  "reviewed_by": "standard_qa independent worker",
+  "qa_note": "All nine rows preserve identity, face, outfit, proportions, palette and silhouette. Visible idle microvariation; correct alternating directional gait; distinct state actions; no crops, overlaps, registration jumps, unintended scale popping or broken loops.",
+  "repair_rows": [],
+  "reviewed_at": "2026-09-15T06:05:08.0470348Z"
+}
