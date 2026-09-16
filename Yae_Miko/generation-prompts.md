@@ -1,8 +1,8 @@
-# 小神子生成提示词
+# 八重神子生成提示词
 生成方式：内置 imagegen。所有素材按 hatch-pet v2 管线合成与验收。
 
 ## base-pet
-Create one clean full-body reference sprite for Codex pet 小神子.
+Create one clean full-body reference sprite for Codex pet Yae_Miko.
 
 Pet identity: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. Idle breathing blink ears and hair sway; playful wave; small-step directional running; happy jump; waiting expectant head tilt; task running thoughtful hand near chin; review focused observation; failed gently drooping ears and slight chagrin..
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
@@ -12,7 +12,7 @@ Place a single centered pose on a perfectly flat pure cyan #00FFFF chroma-key ba
 
 
 ## failed
-Create one horizontal animation strip for Codex pet `xiaoshenzi`, state `failed`.
+Create one horizontal animation strip for Codex pet `Yae_Miko`, state `failed`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -34,7 +34,7 @@ Persona-specific action: Gently drooping fox ears and a little chagrin, no tears
 
 
 ## idle
-Create one horizontal animation strip for Codex pet `xiaoshenzi`, state `idle`.
+Create one horizontal animation strip for Codex pet `Yae_Miko`, state `idle`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -60,7 +60,7 @@ Persona-specific action: Tiny visible breathing, one blink, gentle hair and fox-
 
 
 ## jumping
-Create one horizontal animation strip for Codex pet `xiaoshenzi`, state `jumping`.
+Create one horizontal animation strip for Codex pet `Yae_Miko`, state `jumping`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -99,7 +99,7 @@ Eight left-to-right slots:
 These correspond to clockwise attention targets 180,202.5,225,247.5,270,292.5,315,337.5, not body rotation angles. Head yaw stays restrained (roughly 0 to35 degrees); feet and torso remain planted. Follow qa/look-mechanics.md. Interpolate one coherent family with stable face proportions, head size, baseline, costume and attachments. Keep each COMPLETE silhouette INCLUDING HAIR at most70% of its invisible equal-width slot. Wide uninterrupted cyan gutters between every complete pose, no touching hair. Flat pure cyan #00FFFF background, matching attached layout guide spacing only. No labels, grid, text, effects, shadows, props, rear views or whole-body rotations. Draw all8 poses together, never stitch independently generated cells.
 
 ## look-row-9
-Create one horizontal look-direction strip for Codex pet `xiaoshenzi`, atlas row 9.
+Create one horizontal look-direction strip for Codex pet `Yae_Miko`, atlas row 9.
 
 Use the attached canonical base, completed standard contact sheet, layout guide, and approved four-cardinal strip for identity, scale, registration, spacing, direction semantics, and cross-row continuity. Read `qa/look-mechanics.md` and follow its pet-specific movement and eye/prop mechanics. The approved cardinal strip is authoritative for the up, screen-right, down, and screen-left pose families. Interpolate the intermediate directions as even 22.5-degree steps between those anchors.
 
@@ -138,7 +138,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 
 ## review
-Create one horizontal animation strip for Codex pet `xiaoshenzi`, state `review`.
+Create one horizontal animation strip for Codex pet `Yae_Miko`, state `review`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -159,7 +159,7 @@ Persona-specific action: Focused observation through slight forward lean and nar
 
 
 ## running-left
-Create one horizontal animation strip for Codex pet `xiaoshenzi`, state `running-left`.
+Create one horizontal animation strip for Codex pet `Yae_Miko`, state `running-left`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -181,7 +181,7 @@ Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide mark
 
 
 ## running-right
-Create one horizontal animation strip for Codex pet `xiaoshenzi`, state `running-right`.
+Create one horizontal animation strip for Codex pet `Yae_Miko`, state `running-right`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -203,7 +203,7 @@ Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide mark
 
 
 ## running
-Create one horizontal animation strip for Codex pet `xiaoshenzi`, state `running`.
+Create one horizontal animation strip for Codex pet `Yae_Miko`, state `running`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -224,7 +224,7 @@ Persona-specific action: Serious thoughtful expression, hand near chin, feet pla
 
 
 ## waiting
-Create one horizontal animation strip for Codex pet `xiaoshenzi`, state `waiting`.
+Create one horizontal animation strip for Codex pet `Yae_Miko`, state `waiting`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -247,7 +247,7 @@ REPAIR: Previous six poses overlapped through the long hair. Make each COMPLETE 
 
 
 ## waving
-Create one horizontal animation strip for Codex pet `xiaoshenzi`, state `waving`.
+Create one horizontal animation strip for Codex pet `Yae_Miko`, state `waving`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -268,7 +268,7 @@ Persona-specific action: Playful friendly hand wave with a gentle sly smile.
 
 
 ## look-cardinals
-Create one horizontal four-cardinal anchor strip for Codex pet `xiaoshenzi`.
+Create one horizontal four-cardinal anchor strip for Codex pet `Yae_Miko`.
 
 Use the attached canonical base, completed standard contact sheet, and layout guide for exact identity, style, scale, baseline, face construction, materials, palette, markings, props, and spacing. Read `qa/look-mechanics.md` and use the pet's natural gaze mechanism.
 
