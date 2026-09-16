@@ -24,12 +24,12 @@
 
 | 角色 | 当前仓库文件夹 | 设置中的名称 |
 | --- | --- | --- |
-| Yae-Miko | [Yae-Miko](Yae-Miko/) | Yae-Miko |
-| Miku | [Miku](Miku/) | Miku |
-| Raiden-Shogun | [Raiden-Shogun](Raiden-Shogun/) | Raiden-Shogun |
-| La-Signora | [La-Signora](La-Signora/) | La-Signora |
-| Arlecchino | [Arlecchino](Arlecchino/) | Arlecchino |
-| Il-Capitano | [Il-Capitano](Il-Capitano/) | Il-Capitano |
+| 八重神子 | [Yae-Miko](Yae-Miko/) | Yae-Miko |
+| 初音未来 | [Miku](Miku/) | Miku |
+| 雷电将军 | [Raiden-Shogun](Raiden-Shogun/) | Raiden-Shogun |
+| 女士 | [La-Signora](La-Signora/) | La-Signora |
+| 仆人 | [Arlecchino](Arlecchino/) | Arlecchino |
+| 队长 | [Il-Capitano](Il-Capitano/) | Il-Capitano |
 
 
 ## 特点
