@@ -1,11 +1,11 @@
 {
   "ok": true,
   "spriteVersionNumber": 2,
-  "package": "C:\\Users\\56180\\.codex\\pets\\il-capitano",
+  "package": "Il-Capitano",
   "installed_at": "2026-09-16T12:03:35.6840651Z",
   "hash_verified": true,
   "spritesheet_sha256": "380CFE1D8315F5164270413603A3A205827B2EF8FEE024484D386CFC96D31F9F",
-  "run_dir": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano",
+  "run_dir": "artifacts/Il-Capitano",
   "spritesheet": "final/spritesheet-extended.webp",
   "validation": "final/validation-extended.json",
   "chroma_despill": "qa/chroma-despill-extended.json",

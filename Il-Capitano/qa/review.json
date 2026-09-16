@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames",
+  "frames_root": "work/Il-Capitano/frames",
   "states": [
     "idle",
     "running-right",
@@ -26,7 +26,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\idle\\00.png",
+          "file": "work/Il-Capitano/frames/idle/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18232,
@@ -41,7 +41,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\idle\\01.png",
+          "file": "work/Il-Capitano/frames/idle/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19168,
@@ -56,7 +56,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\idle\\02.png",
+          "file": "work/Il-Capitano/frames/idle/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18558,
@@ -71,7 +71,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\idle\\03.png",
+          "file": "work/Il-Capitano/frames/idle/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19228,
@@ -86,7 +86,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\idle\\04.png",
+          "file": "work/Il-Capitano/frames/idle/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19112,
@@ -101,7 +101,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\idle\\05.png",
+          "file": "work/Il-Capitano/frames/idle/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18541,
@@ -127,7 +127,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-right\\00.png",
+          "file": "work/Il-Capitano/frames/running-right/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19140,
@@ -142,7 +142,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-right\\01.png",
+          "file": "work/Il-Capitano/frames/running-right/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19572,
@@ -157,7 +157,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-right\\02.png",
+          "file": "work/Il-Capitano/frames/running-right/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20593,
@@ -172,7 +172,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-right\\03.png",
+          "file": "work/Il-Capitano/frames/running-right/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20522,
@@ -187,7 +187,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-right\\04.png",
+          "file": "work/Il-Capitano/frames/running-right/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19908,
@@ -202,7 +202,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-right\\05.png",
+          "file": "work/Il-Capitano/frames/running-right/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19387,
@@ -217,7 +217,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-right\\06.png",
+          "file": "work/Il-Capitano/frames/running-right/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20304,
@@ -232,7 +232,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-right\\07.png",
+          "file": "work/Il-Capitano/frames/running-right/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20178,
@@ -258,7 +258,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-left\\00.png",
+          "file": "work/Il-Capitano/frames/running-left/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20753,
@@ -273,7 +273,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-left\\01.png",
+          "file": "work/Il-Capitano/frames/running-left/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19350,
@@ -288,7 +288,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-left\\02.png",
+          "file": "work/Il-Capitano/frames/running-left/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20448,
@@ -303,7 +303,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-left\\03.png",
+          "file": "work/Il-Capitano/frames/running-left/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19982,
@@ -318,7 +318,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-left\\04.png",
+          "file": "work/Il-Capitano/frames/running-left/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19896,
@@ -333,7 +333,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-left\\05.png",
+          "file": "work/Il-Capitano/frames/running-left/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19790,
@@ -348,7 +348,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-left\\06.png",
+          "file": "work/Il-Capitano/frames/running-left/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19944,
@@ -363,7 +363,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running-left\\07.png",
+          "file": "work/Il-Capitano/frames/running-left/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19771,
@@ -389,7 +389,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waving\\00.png",
+          "file": "work/Il-Capitano/frames/waving/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19623,
@@ -404,7 +404,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waving\\01.png",
+          "file": "work/Il-Capitano/frames/waving/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19534,
@@ -419,7 +419,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waving\\02.png",
+          "file": "work/Il-Capitano/frames/waving/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20259,
@@ -434,7 +434,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waving\\03.png",
+          "file": "work/Il-Capitano/frames/waving/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21111,
@@ -460,7 +460,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\jumping\\00.png",
+          "file": "work/Il-Capitano/frames/jumping/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 23713,
@@ -475,7 +475,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\jumping\\01.png",
+          "file": "work/Il-Capitano/frames/jumping/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18896,
@@ -490,7 +490,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\jumping\\02.png",
+          "file": "work/Il-Capitano/frames/jumping/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19373,
@@ -505,7 +505,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\jumping\\03.png",
+          "file": "work/Il-Capitano/frames/jumping/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19208,
@@ -520,7 +520,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\jumping\\04.png",
+          "file": "work/Il-Capitano/frames/jumping/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 23886,
@@ -546,7 +546,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\failed\\00.png",
+          "file": "work/Il-Capitano/frames/failed/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16737,
@@ -561,7 +561,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\failed\\01.png",
+          "file": "work/Il-Capitano/frames/failed/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17298,
@@ -576,7 +576,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\failed\\02.png",
+          "file": "work/Il-Capitano/frames/failed/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19234,
@@ -591,7 +591,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\failed\\03.png",
+          "file": "work/Il-Capitano/frames/failed/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20756,
@@ -606,7 +606,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\failed\\04.png",
+          "file": "work/Il-Capitano/frames/failed/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 23264,
@@ -621,7 +621,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\failed\\05.png",
+          "file": "work/Il-Capitano/frames/failed/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18991,
@@ -636,7 +636,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\failed\\06.png",
+          "file": "work/Il-Capitano/frames/failed/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17501,
@@ -651,7 +651,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\failed\\07.png",
+          "file": "work/Il-Capitano/frames/failed/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16892,
@@ -677,7 +677,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waiting\\00.png",
+          "file": "work/Il-Capitano/frames/waiting/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17961,
@@ -692,7 +692,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waiting\\01.png",
+          "file": "work/Il-Capitano/frames/waiting/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17983,
@@ -707,7 +707,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waiting\\02.png",
+          "file": "work/Il-Capitano/frames/waiting/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20364,
@@ -722,7 +722,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waiting\\03.png",
+          "file": "work/Il-Capitano/frames/waiting/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17461,
@@ -737,7 +737,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waiting\\04.png",
+          "file": "work/Il-Capitano/frames/waiting/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17863,
@@ -752,7 +752,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\waiting\\05.png",
+          "file": "work/Il-Capitano/frames/waiting/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17331,
@@ -778,7 +778,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running\\00.png",
+          "file": "work/Il-Capitano/frames/running/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17076,
@@ -793,7 +793,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running\\01.png",
+          "file": "work/Il-Capitano/frames/running/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16537,
@@ -808,7 +808,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running\\02.png",
+          "file": "work/Il-Capitano/frames/running/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18834,
@@ -823,7 +823,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running\\03.png",
+          "file": "work/Il-Capitano/frames/running/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16864,
@@ -838,7 +838,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running\\04.png",
+          "file": "work/Il-Capitano/frames/running/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19639,
@@ -853,7 +853,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\running\\05.png",
+          "file": "work/Il-Capitano/frames/running/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16978,
@@ -879,7 +879,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\review\\00.png",
+          "file": "work/Il-Capitano/frames/review/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17653,
@@ -894,7 +894,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\review\\01.png",
+          "file": "work/Il-Capitano/frames/review/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17508,
@@ -909,7 +909,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\review\\02.png",
+          "file": "work/Il-Capitano/frames/review/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17333,
@@ -924,7 +924,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\review\\03.png",
+          "file": "work/Il-Capitano/frames/review/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17713,
@@ -939,7 +939,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\review\\04.png",
+          "file": "work/Il-Capitano/frames/review/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20341,
@@ -954,7 +954,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\frames\\review\\05.png",
+          "file": "work/Il-Capitano/frames/review/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20673,

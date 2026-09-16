@@ -1,16 +1,16 @@
-# Raiden_Shogun
+# Raiden-Shogun
 
-以用户确认的 Q 版雷电将军为唯一外观依据，保留紫色动漫眼睛、长辫、紫花金饰、和风服装及不对称设计。双手空着，动作沉静轻柔。左右跑动分别生成。
+以用户确认的 Q 版Raiden-Shogun为唯一外观依据，保留紫色动漫眼睛、长辫、紫花金饰、和风服装及不对称设计。双手空着，动作沉静轻柔。左右跑动分别生成。
 
 ## 在 Codex 中选择
 
 1. 按 **Ctrl+,** 打开设置，进入 **智能拍档 / Pets**。
-2. 点击 **刷新 / Refresh**，选择 **Raiden_Shogun**。
+2. 点击 **刷新 / Refresh**，选择 **Raiden-Shogun**。
 3. 在输入框输入 **/pet**，或在命令菜单选择 **Show pet**，显示浮动拍档。
 
 也可以从应用底部的个人菜单进入 Pets。官方操作说明：[Pets](https://learn.chatgpt.com/docs/pets?surface=app)。
 
-本地安装目录：`C:\Users\56180\.codex\pets\raiden-shogun`。
+本地安装目录：`Raiden-Shogun`。
 
 ## 素材
 

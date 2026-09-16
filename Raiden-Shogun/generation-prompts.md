@@ -1,12 +1,12 @@
-# Raiden_Shogun generation prompts
+# Raiden-Shogun generation prompts
 
-Generated with the built-in image generation tool, grounded in the approved Raiden_Shogun reference.
+Generated with the built-in image generation tool, grounded in the approved Raiden-Shogun reference.
 
 ## base-pet.md
 
-Create one clean full-body reference sprite for Codex pet Raiden_Shogun.
+Create one clean full-body reference sprite for Codex pet Raiden-Shogun.
 
-Pet identity: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror..
+Pet identity: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror..
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 
 
@@ -15,7 +15,7 @@ Place a single centered pose on a perfectly flat pure user-selected #00FF00 chro
 
 ## 000.md
 
-Repair one cardinal anchor for Codex pet `raiden-shogun`: `000` means looking up.
+Repair one cardinal anchor for Codex pet `Raiden-Shogun`: `000` means looking up.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Keep the face broadly frontal and point the eyes and natural head mechanism toward the TOP edge. Screen coordinates are viewer-relative.
 
@@ -26,7 +26,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## 090.md
 
-Repair one cardinal anchor for Codex pet `raiden-shogun`: `090` means looking right.
+Repair one cardinal anchor for Codex pet `Raiden-Shogun`: `090` means looking right.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Put the nose tip, pupils, face surface, or natural aiming feature on the screen-right side of the head center. Screen coordinates are viewer-relative.
 
@@ -37,7 +37,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## 180.md
 
-Repair one cardinal anchor for Codex pet `raiden-shogun`: `180` means looking down.
+Repair one cardinal anchor for Codex pet `Raiden-Shogun`: `180` means looking down.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Keep the face broadly frontal and point the eyes and natural head mechanism toward the BOTTOM edge. Screen coordinates are viewer-relative.
 
@@ -48,7 +48,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## 270.md
 
-Repair one cardinal anchor for Codex pet `raiden-shogun`: `270` means looking left.
+Repair one cardinal anchor for Codex pet `Raiden-Shogun`: `270` means looking left.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Put the nose tip, pupils, face surface, or natural aiming feature on the screen-left side of the head center. Screen coordinates are viewer-relative.
 
@@ -59,9 +59,9 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## look-cardinals.md
 
-Four cardinals MUST be UP, SCREEN-RIGHT, DOWN, SCREEN-LEFT in that order. Preserve exact canonical Raiden_Shogun identity and asymmetric braid/flower/armor. Arms relaxed down, feet/body fixed. UP liftedchin/high eyes; RIGHT nose/face and eyes clearly image-right; DOWN tuckedchin/lowvisibleeyes; LEFT nose/face and eyes clearly image-left. Natural head/neck yaw and pitch, no body rotation or mirroring. Read qa/look-mechanics.md. Four SMALL whole figures, broad puregreen margins above/below and between; keep entiregoldtip/braid/sleeves/feet within each of4 equal-width invisible slots. No guide marks.
+Four cardinals MUST be UP, SCREEN-RIGHT, DOWN, SCREEN-LEFT in that order. Preserve exact canonical Raiden-Shogun identity and asymmetric braid/flower/armor. Arms relaxed down, feet/body fixed. UP liftedchin/high eyes; RIGHT nose/face and eyes clearly image-right; DOWN tuckedchin/lowvisibleeyes; LEFT nose/face and eyes clearly image-left. Natural head/neck yaw and pitch, no body rotation or mirroring. Read qa/look-mechanics.md. Four SMALL whole figures, broad puregreen margins above/below and between; keep entiregoldtip/braid/sleeves/feet within each of4 equal-width invisible slots. No guide marks.
 
-Create one horizontal four-cardinal anchor strip for Codex pet `raiden-shogun`.
+Create one horizontal four-cardinal anchor strip for Codex pet `Raiden-Shogun`.
 
 Use the attached canonical base, completed standard contact sheet, and layout guide for exact identity, style, scale, baseline, face construction, materials, palette, markings, props, and spacing. Read `qa/look-mechanics.md` and use the pet's natural gaze mechanism.
 
@@ -76,7 +76,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## look-up-repair.md
 
-Create ONE whole-body Raiden_Shogun UP-looking cardinal reference. This is a precise head/eye pose edit of the canonical character, not a redesign. Canonical and original are identity; standard contact fixes body proportions; four-pose strip fixes the stable planted body and other correct directions.
+Create ONE whole-body Raiden-Shogun UP-looking cardinal reference. This is a precise head/eye pose edit of the canonical character, not a redesign. Canonical and original are identity; standard contact fixes body proportions; four-pose strip fixes the stable planted body and other correct directions.
 
 The previous first pose looked neutral. Make upward attention unmistakable: gently tip the head BACK at the neck and lift the chin so the underside/neck connection is subtly more visible. Her purple irises and pupils visibly aim toward the TOP of the original anime eye apertures, with eyelids/brows following coherently. Keep eyes open, rounded face unchanged, tiny closed gentle smile. She is looking at something ABOVE the viewer's head, not at the viewer. Preserve natural anime eye structure and face proportions, do not add or replace eye layers or round googly eyes.
 
@@ -84,9 +84,9 @@ Keep torso, skirt, feet, relaxed lowered hands, head SIZE and braid root anchore
 
 ## failed.md
 
-Create Codex pet row `failed` for `raiden-shogun`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `failed` for `Raiden-Shogun`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -102,9 +102,9 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## idle.md
 
-Create Codex pet row `idle` for `raiden-shogun`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `idle` for `Raiden-Shogun`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -124,9 +124,9 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## jumping.md
 
-Create Codex pet row `jumping` for `raiden-shogun`: exactly 5 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `jumping` for `Raiden-Shogun`: exactly 5 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -142,7 +142,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## look-row-10.md
 
-Create Codex v2 pet look row 10 for `raiden-shogun` as exactly 8 full-body frames in this order: 180, 202.5, 225, 247.5, 270, 292.5, 315, 337.5.
+Create Codex v2 pet look row 10 for `Raiden-Shogun` as exactly 8 full-body frames in this order: 180, 202.5, 225, 247.5, 270, 292.5, 315, 337.5.
 
 Use the canonical base, standard contact sheet, layout guide, approved four-cardinal strip, and `qa/look-mechanics.md`. Draw the complete eight-pose row as one coherent animation family, interpolating even 22.5-degree steps between the cardinal pose families. Keep the same pet identity, face construction, materials, palette, markings, and props. Each direction must read correctly at pet size and join continuously at the 000 and 180 boundaries.
 
@@ -174,7 +174,7 @@ Use a flat pure user-selected #00FF00 background. One complete unclipped pose pe
 
 ## look-row-9.md
 
-Create Codex v2 pet look row 9 for `raiden-shogun` as exactly 8 full-body frames in this order: 000, 022.5, 045, 067.5, 090, 112.5, 135, 157.5.
+Create Codex v2 pet look row 9 for `Raiden-Shogun` as exactly 8 full-body frames in this order: 000, 022.5, 045, 067.5, 090, 112.5, 135, 157.5.
 
 Use the canonical base, standard contact sheet, layout guide, approved four-cardinal strip, and `qa/look-mechanics.md`. Draw the complete eight-pose row as one coherent animation family, interpolating even 22.5-degree steps between the cardinal pose families. Keep the same pet identity, face construction, materials, palette, markings, and props. Each direction must read correctly at pet size and join continuously at the 000 and 180 boundaries.
 
@@ -206,9 +206,9 @@ Use a flat pure user-selected #00FF00 background. One complete unclipped pose pe
 
 ## review.md
 
-Create Codex pet row `review` for `raiden-shogun`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `review` for `Raiden-Shogun`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -223,9 +223,9 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## running-left.md
 
-Create Codex pet row `running-left` for `raiden-shogun`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running-left` for `Raiden-Shogun`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -242,9 +242,9 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## running-right.md
 
-Create Codex pet row `running-right` for `raiden-shogun`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running-right` for `Raiden-Shogun`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -261,9 +261,9 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## running.md
 
-Create Codex pet row `running` for `raiden-shogun`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running` for `Raiden-Shogun`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -278,9 +278,9 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## waiting.md
 
-Create Codex pet row `waiting` for `raiden-shogun`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `waiting` for `Raiden-Shogun`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -295,9 +295,9 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## waving.md
 
-Create Codex pet row `waving` for `raiden-shogun`: exactly 4 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `waving` for `Raiden-Shogun`: exactly 4 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -316,13 +316,13 @@ USER ACTION: Slight head bow and mildly confused/downcast eyes, then soft upward
 
 LAYOUT: Small complete figures surrounded by broad pure green gutters, fully separated braid/hair/sleeve silhouettes. Use a wide 3:1 canvas with substantial blank green above and below; keep each whole figure under half the canvas height. Do not fill canvas height. Identical body size and aligned soles except intentional running bob/jump. No new accessories, effects, weapons or props.
 
-Create one horizontal animation strip for Codex pet `raiden-shogun`, state `failed`.
+Create one horizontal animation strip for Codex pet `Raiden-Shogun`, state `failed`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 8 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -342,13 +342,13 @@ USER ACTION: Hands naturally lowered. Gentle breath and sleeve/braid micro-sway 
 
 LAYOUT: Small complete figures surrounded by broad pure green gutters, fully separated braid/hair/sleeve silhouettes. Use a wide 3:1 canvas with substantial blank green above and below; keep each whole figure under half the canvas height. Do not fill canvas height. Identical body size and aligned soles except intentional running bob/jump. No new accessories, effects, weapons or props.
 
-Create one horizontal animation strip for Codex pet `raiden-shogun`, state `idle`.
+Create one horizontal animation strip for Codex pet `Raiden-Shogun`, state `idle`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -372,13 +372,13 @@ USER ACTION: Small anticipation bend, short happy rise, peak, descending then so
 
 LAYOUT: Small complete figures surrounded by broad pure green gutters, fully separated braid/hair/sleeve silhouettes. Use a wide 3:1 canvas with substantial blank green above and below; keep each whole figure under half the canvas height. Do not fill canvas height. Identical body size and aligned soles except intentional running bob/jump. No new accessories, effects, weapons or props.
 
-Create one horizontal animation strip for Codex pet `raiden-shogun`, state `jumping`.
+Create one horizontal animation strip for Codex pet `Raiden-Shogun`, state `jumping`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 5 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 5 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -411,7 +411,7 @@ Attentionorder is180DOWN,202.5DOWNslightlyLEFT,225DOWN-LEFT,247.5LEFTslightlyDOW
 
 ## look-row-9.md
 
-Create one coherent horizontal strip of EIGHT whole Raiden_Shogun attention poses. Use all attached images: user-approved reference and canonical for exact character identity, standard contact for unchanged proportions/style/body, layout only invisible spacing, approved four-cardinal strip for direction meaning (UP, RIGHT, DOWN, LEFT). Read qa/look-mechanics.md.
+Create one coherent horizontal strip of EIGHT whole Raiden-Shogun attention poses. Use all attached images: user-approved reference and canonical for exact character identity, standard contact for unchanged proportions/style/body, layout only invisible spacing, approved four-cardinal strip for direction meaning (UP, RIGHT, DOWN, LEFT). Read qa/look-mechanics.md.
 
 Canvas approximately2172x724. Eight small similarly sized complete figures, around280-300pixels tall INCLUDING the gold head ornament and feet. Keep broad flat puregreen #00FF00 blankspace above/below, and clear gutters between all braid/hand/sleeve silhouettes and beyond outer poses. Do not fill canvas height. Complete attachedgoldtip, braid end, sleeves and feet. Same body size, same boot baseline.
 
@@ -433,13 +433,13 @@ USER ACTION: Lean head slightly forward and inspect with tiny gaze shifts and fo
 
 LAYOUT: Small complete figures surrounded by broad pure green gutters, fully separated braid/hair/sleeve silhouettes. Use a wide 3:1 canvas with substantial blank green above and below; keep each whole figure under half the canvas height. Do not fill canvas height. Identical body size and aligned soles except intentional running bob/jump. No new accessories, effects, weapons or props.
 
-Create one horizontal animation strip for Codex pet `raiden-shogun`, state `review`.
+Create one horizontal animation strip for Codex pet `Raiden-Shogun`, state `review`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -458,13 +458,13 @@ USER ACTION: Clear screen-left facing short-step run, alternating legs and light
 
 LAYOUT: Small complete figures surrounded by broad pure green gutters, fully separated braid/hair/sleeve silhouettes. Use a wide 3:1 canvas with substantial blank green above and below; keep each whole figure under half the canvas height. Do not fill canvas height. Identical body size and aligned soles except intentional running bob/jump. No new accessories, effects, weapons or props.
 
-Create one horizontal animation strip for Codex pet `raiden-shogun`, state `running-left`.
+Create one horizontal animation strip for Codex pet `Raiden-Shogun`, state `running-left`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 8 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -485,13 +485,13 @@ USER ACTION: Clear screen-right facing short-step run, alternating legs and ligh
 
 LAYOUT: Small complete figures surrounded by broad pure green gutters, fully separated braid/hair/sleeve silhouettes. Use a wide 3:1 canvas with substantial blank green above and below; keep each whole figure under half the canvas height. Do not fill canvas height. Identical body size and aligned soles except intentional running bob/jump. No new accessories, effects, weapons or props.
 
-Create one horizontal animation strip for Codex pet `raiden-shogun`, state `running-right`.
+Create one horizontal animation strip for Codex pet `Raiden-Shogun`, state `running-right`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 8 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -512,13 +512,13 @@ USER ACTION: Task processing: thoughtful serious focus, tiny nod, one hand near 
 
 LAYOUT: Small complete figures surrounded by broad pure green gutters, fully separated braid/hair/sleeve silhouettes. Use a wide 3:1 canvas with substantial blank green above and below; keep each whole figure under half the canvas height. Do not fill canvas height. Identical body size and aligned soles except intentional running bob/jump. No new accessories, effects, weapons or props.
 
-Create one horizontal animation strip for Codex pet `raiden-shogun`, state `running`.
+Create one horizontal animation strip for Codex pet `Raiden-Shogun`, state `running`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -537,13 +537,13 @@ USER ACTION: Small head tilt, hands together near front, quiet expectant gaze, g
 
 LAYOUT: Small complete figures surrounded by broad pure green gutters, fully separated braid/hair/sleeve silhouettes. Use a wide 3:1 canvas with substantial blank green above and below; keep each whole figure under half the canvas height. Do not fill canvas height. Identical body size and aligned soles except intentional running bob/jump. No new accessories, effects, weapons or props.
 
-Create one horizontal animation strip for Codex pet `raiden-shogun`, state `waiting`.
+Create one horizontal animation strip for Codex pet `Raiden-Shogun`, state `waiting`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -562,13 +562,13 @@ USER ACTION: One hand rises a little, gives a small shy gentle wave, then settle
 
 LAYOUT: Small complete figures surrounded by broad pure green gutters, fully separated braid/hair/sleeve silhouettes. Use a wide 3:1 canvas with substantial blank green above and below; keep each whole figure under half the canvas height. Do not fill canvas height. Identical body size and aligned soles except intentional running bob/jump. No new accessories, effects, weapons or props.
 
-Create one horizontal animation strip for Codex pet `raiden-shogun`, state `waving`.
+Create one horizontal animation strip for Codex pet `Raiden-Shogun`, state `waving`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 4 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 4 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 

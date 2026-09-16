@@ -2,19 +2,19 @@
 
 让六位熟悉的 Q 版角色，陪你一起写代码。
 
-本仓库收录 **6 款日系 Q 版桌面拍档**，使用 `hatch-pet` 制作：**Yae-Miko、Miku、Raiden Shogun、La Signora、Arlecchino、Il Capitano**。每款均包含真正透明的动画图集、**9 个标准动画状态**与 **16 个注视方向**，可安装到支持自定义 v2 拍档的 Codex 桌面应用中。
+本仓库收录 **6 款日系 Q 版桌面拍档**，使用 `hatch-pet` 制作：**Yae-Miko、Miku、Raiden-Shogun、La-Signora、Arlecchino、Il-Capitano**。每款均包含真正透明的动画图集、**9 个标准动画状态**与 **16 个注视方向**，可安装到支持自定义 v2 拍档的 Codex 桌面应用中。
 
 ## 认识你的拍档
 
-| Yae-Miko · Yae-Miko | 初音未来 · Miku | 雷电将军 · Raiden Shogun |
+| Yae-Miko · Yae-Miko | Miku · Miku | Raiden-Shogun · Raiden-Shogun |
 | :---: | :---: | :---: |
-| ![Yae-Miko待机](Yae-Miko/previews/idle.gif) | ![Miku 待机](Miku/previews/idle.gif) | ![Raiden_Shogun 待机](Raiden-Shogun/previews/idle.gif) |
+| ![Yae-Miko待机](Yae-Miko/previews/idle.gif) | ![Miku 待机](Miku/previews/idle.gif) | ![Raiden-Shogun 待机](Raiden-Shogun/previews/idle.gif) |
 | 樱粉长发、狐耳与白红巫女服。温柔聪慧，带一点狡黠的笑意。 | 青绿色长双马尾与经典灰黑服装。安静乖巧，带一点天然呆。 | 深紫长辫、紫花金饰与和风服装。沉静端庄，动作温柔克制。 |
 | [全部动画](Yae-Miko/previews/) · [角色说明](Yae-Miko/README.md) | [全部动画](Miku/previews/) · [角色说明](Miku/README.md) | [全部动画](Raiden-Shogun/previews/) · [角色说明](Raiden-Shogun/README.md) |
 
-| 女士 · La Signora | 仆人 · Arlecchino | 队长 · Il Capitano |
+| La-Signora · La-Signora | Arlecchino · Arlecchino | Il-Capitano · Il-Capitano |
 | :---: | :---: | :---: |
-| ![La Signora 待机](La-Signora/previews/idle.gif) | ![Arlecchino 待机](Arlecchino/previews/idle.gif) | ![Il Capitano 待机](Il-Capitano/previews/idle.gif) |
+| ![La-Signora 待机](La-Signora/previews/idle.gif) | ![Arlecchino 待机](Arlecchino/previews/idle.gif) | ![Il-Capitano 待机](Il-Capitano/previews/idle.gif) |
 | 浅金卷发、黑色半面面具、黑红礼服与白色毛领。优雅从容，带一点俏皮。 | 黑白层次发型、红色叉形瞳孔与黑白灰礼服。冷静利落，带着不张扬的温柔。 | 全覆式深色头盔、金色装饰、厚实毛领与披风。沉稳可靠，通过头盔和肢体传达情绪。 |
 | [全部动画](La-Signora/previews/) · [角色说明](La-Signora/README.md) | [全部动画](Arlecchino/previews/) · [角色说明](Arlecchino/README.md) | [全部动画](Il-Capitano/previews/) · [角色说明](Il-Capitano/README.md) |
 
@@ -25,11 +25,11 @@
 | 角色 | 当前仓库文件夹 | 设置中的名称 |
 | --- | --- | --- |
 | Yae-Miko | [Yae-Miko](Yae-Miko/) | Yae-Miko |
-| 初音未来 | [Miku](Miku/) | Miku |
-| 雷电将军 | [Raiden-Shogun](Raiden-Shogun/) | Raiden_Shogun |
-| 女士 | [La-Signora](La-Signora/) | La Signora |
-| 仆人 | [Arlecchino](Arlecchino/) | Arlecchino |
-| 队长 | [Il-Capitano](Il-Capitano/) | Il Capitano |
+| Miku | [Miku](Miku/) | Miku |
+| Raiden-Shogun | [Raiden-Shogun](Raiden-Shogun/) | Raiden-Shogun |
+| La-Signora | [La-Signora](La-Signora/) | La-Signora |
+| Arlecchino | [Arlecchino](Arlecchino/) | Arlecchino |
+| Il-Capitano | [Il-Capitano](Il-Capitano/) | Il-Capitano |
 
 
 ## 特点
@@ -38,7 +38,7 @@
 - **各有性格的动作**：待机、打招呼、左右跑动、跳跃，以及等待、思考、检查和失败时的不同表现。
 - **16 个注视方向**：从正上方开始，按顺时针每隔 22.5° 排列。
 - **真正透明背景**：安装图集使用带透明通道的 WebP，无背景场景、文字或水印。
-- **保留角色特征**：女士保留半面面具，仆人保留红色叉形瞳孔；队长始终不露五官，头盔内部保持不透明。
+- **保留角色特征**：La-Signora保留半面面具，Arlecchino保留红色叉形瞳孔；Il-Capitano始终不露五官，头盔内部保持不透明。
 - **下载即可安装**：使用现成素材不需要重新生成图片，也不需要安装 Python 或 hatch-pet。
 
 ## 快速开始
@@ -78,11 +78,11 @@
 | 从仓库目录复制 | 建议的本地子目录（pet.json 的 id） |
 | --- | --- |
 | `Yae-Miko/` | `yae-miko/` |
-| `Miku/` | `miku/` |
-| `Raiden-Shogun/` | `raiden-shogun/` |
-| `La-Signora/` | `la-signora/` |
-| `Arlecchino/` | `arlecchino/` |
-| `Il-Capitano/` | `il-capitano/` |
+| `Miku/` | `Miku/` |
+| `Raiden-Shogun/` | `Raiden-Shogun/` |
+| `La-Signora/` | `La-Signora/` |
+| `Arlecchino/` | `Arlecchino/` |
+| `Il-Capitano/` | `Il-Capitano/` |
 
 安装全部六款后的结构如下：
 
@@ -92,19 +92,19 @@
     ├── yae-miko/
     │   ├── pet.json
     │   └── spritesheet.webp
-    ├── miku/
+    ├── Miku/
     │   ├── pet.json
     │   └── spritesheet.webp
-    ├── raiden-shogun/
+    ├── Raiden-Shogun/
     │   ├── pet.json
     │   └── spritesheet.webp
-    ├── la-signora/
+    ├── La-Signora/
     │   ├── pet.json
     │   └── spritesheet.webp
-    ├── arlecchino/
+    ├── Arlecchino/
     │   ├── pet.json
     │   └── spritesheet.webp
-    └── il-capitano/
+    └── Il-Capitano/
         ├── pet.json
         └── spritesheet.webp
 ~~~
@@ -115,7 +115,7 @@
 
 1. 打开 **设置 → 智能拍档 / Pets**，或从底部个人菜单进入 **Pets**。
 2. 点击 **刷新 / Refresh**。
-3. 选择 **Yae-Miko、Miku、Raiden_Shogun、La Signora、Arlecchino** 或 **Il Capitano**。
+3. 选择 **Yae-Miko、Miku、Raiden-Shogun、La-Signora、Arlecchino** 或 **Il-Capitano**。
 4. 在输入框输入 `/pet`，或在命令菜单选择 **Show pet**，显示拍档。
 
 设置中显示的名称由 `pet.json` 的 `displayName` 决定。界面操作可参考 [OpenAI 官方 Pets 使用说明](https://learn.chatgpt.com/docs/pets?surface=app)，不同版本的文字可能略有差异。
@@ -145,7 +145,7 @@
 | `running` | 6 | 工作、思考与专注处理任务 |
 | `review` | 6 | 仔细观察与检查结果 |
 
-`running` 表示处理任务，左右跑动分别使用 `running-right` 和 `running-left`。有可见眼睛的角色可通过眨眼和眼神表达状态；**Il Capitano 使用头盔俯仰与肢体动作，不添加眼睛或其他五官**。
+`running` 表示处理任务，左右跑动分别使用 `running-right` 和 `running-left`。有可见眼睛的角色可通过眨眼和眼神表达状态；**Il-Capitano 使用头盔俯仰与肢体动作，不添加眼睛或其他五官**。
 
 每款另含 16 个注视方向。可在角色的 `previews/` 中查看 GIF；附有 `preview.html` 的角色，下载完整目录后用浏览器打开该文件即可浏览动画合集。GitHub 文件页通常展示 HTML 源码，在线预览可直接查看 GIF。
 

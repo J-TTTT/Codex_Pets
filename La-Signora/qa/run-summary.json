@@ -1,11 +1,11 @@
 {
   "ok": true,
   "spriteVersionNumber": 2,
-  "package": "C:\\Users\\56180\\.codex\\pets\\la-signora",
+  "package": "La-Signora",
   "installed_at": "2026-09-16T08:40:00.0032544Z",
   "hash_verified": true,
   "spritesheet_sha256": "2C52E4851A4918EDF6B1141308B2FD6776D63B374AB8C981A11B944A207A7E88",
-  "run_dir": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora",
+  "run_dir": "artifacts/La-Signora",
   "spritesheet": "final/spritesheet-extended.webp",
   "validation": "final/validation-extended.json",
   "chroma_despill": "qa/chroma-despill-extended.json",

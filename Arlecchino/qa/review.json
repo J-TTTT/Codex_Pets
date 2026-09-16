@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames",
+  "frames_root": "work/Arlecchino/frames",
   "states": [
     "idle",
     "running-right",
@@ -26,7 +26,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\idle\\00.png",
+          "file": "work/Arlecchino/frames/idle/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13361,
@@ -41,7 +41,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\idle\\01.png",
+          "file": "work/Arlecchino/frames/idle/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13424,
@@ -56,7 +56,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\idle\\02.png",
+          "file": "work/Arlecchino/frames/idle/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13580,
@@ -71,7 +71,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\idle\\03.png",
+          "file": "work/Arlecchino/frames/idle/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13463,
@@ -86,7 +86,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\idle\\04.png",
+          "file": "work/Arlecchino/frames/idle/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13644,
@@ -101,7 +101,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\idle\\05.png",
+          "file": "work/Arlecchino/frames/idle/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13430,
@@ -127,7 +127,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-right\\00.png",
+          "file": "work/Arlecchino/frames/running-right/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13871,
@@ -142,7 +142,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-right\\01.png",
+          "file": "work/Arlecchino/frames/running-right/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13951,
@@ -157,7 +157,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-right\\02.png",
+          "file": "work/Arlecchino/frames/running-right/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13522,
@@ -172,7 +172,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-right\\03.png",
+          "file": "work/Arlecchino/frames/running-right/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13724,
@@ -187,7 +187,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-right\\04.png",
+          "file": "work/Arlecchino/frames/running-right/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13925,
@@ -202,7 +202,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-right\\05.png",
+          "file": "work/Arlecchino/frames/running-right/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14031,
@@ -217,7 +217,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-right\\06.png",
+          "file": "work/Arlecchino/frames/running-right/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13839,
@@ -232,7 +232,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-right\\07.png",
+          "file": "work/Arlecchino/frames/running-right/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13849,
@@ -258,7 +258,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-left\\00.png",
+          "file": "work/Arlecchino/frames/running-left/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15732,
@@ -273,7 +273,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-left\\01.png",
+          "file": "work/Arlecchino/frames/running-left/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15183,
@@ -288,7 +288,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-left\\02.png",
+          "file": "work/Arlecchino/frames/running-left/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15016,
@@ -303,7 +303,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-left\\03.png",
+          "file": "work/Arlecchino/frames/running-left/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15509,
@@ -318,7 +318,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-left\\04.png",
+          "file": "work/Arlecchino/frames/running-left/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14936,
@@ -333,7 +333,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-left\\05.png",
+          "file": "work/Arlecchino/frames/running-left/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15365,
@@ -348,7 +348,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-left\\06.png",
+          "file": "work/Arlecchino/frames/running-left/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14815,
@@ -363,7 +363,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running-left\\07.png",
+          "file": "work/Arlecchino/frames/running-left/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15306,
@@ -389,7 +389,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waving\\00.png",
+          "file": "work/Arlecchino/frames/waving/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15083,
@@ -404,7 +404,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waving\\01.png",
+          "file": "work/Arlecchino/frames/waving/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15489,
@@ -419,7 +419,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waving\\02.png",
+          "file": "work/Arlecchino/frames/waving/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15480,
@@ -434,7 +434,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waving\\03.png",
+          "file": "work/Arlecchino/frames/waving/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15045,
@@ -460,7 +460,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\jumping\\00.png",
+          "file": "work/Arlecchino/frames/jumping/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18317,
@@ -475,7 +475,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\jumping\\01.png",
+          "file": "work/Arlecchino/frames/jumping/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16291,
@@ -490,7 +490,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\jumping\\02.png",
+          "file": "work/Arlecchino/frames/jumping/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16326,
@@ -505,7 +505,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\jumping\\03.png",
+          "file": "work/Arlecchino/frames/jumping/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15600,
@@ -520,7 +520,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\jumping\\04.png",
+          "file": "work/Arlecchino/frames/jumping/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18616,
@@ -546,7 +546,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\failed\\00.png",
+          "file": "work/Arlecchino/frames/failed/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13197,
@@ -561,7 +561,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\failed\\01.png",
+          "file": "work/Arlecchino/frames/failed/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13152,
@@ -576,7 +576,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\failed\\02.png",
+          "file": "work/Arlecchino/frames/failed/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13092,
@@ -591,7 +591,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\failed\\03.png",
+          "file": "work/Arlecchino/frames/failed/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13110,
@@ -606,7 +606,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\failed\\04.png",
+          "file": "work/Arlecchino/frames/failed/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13231,
@@ -621,7 +621,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\failed\\05.png",
+          "file": "work/Arlecchino/frames/failed/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12824,
@@ -636,7 +636,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\failed\\06.png",
+          "file": "work/Arlecchino/frames/failed/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13097,
@@ -651,7 +651,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\failed\\07.png",
+          "file": "work/Arlecchino/frames/failed/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13154,
@@ -677,7 +677,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waiting\\00.png",
+          "file": "work/Arlecchino/frames/waiting/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13889,
@@ -692,7 +692,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waiting\\01.png",
+          "file": "work/Arlecchino/frames/waiting/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13629,
@@ -707,7 +707,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waiting\\02.png",
+          "file": "work/Arlecchino/frames/waiting/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13881,
@@ -722,7 +722,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waiting\\03.png",
+          "file": "work/Arlecchino/frames/waiting/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14086,
@@ -737,7 +737,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waiting\\04.png",
+          "file": "work/Arlecchino/frames/waiting/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13764,
@@ -752,7 +752,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\waiting\\05.png",
+          "file": "work/Arlecchino/frames/waiting/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13816,
@@ -778,7 +778,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running\\00.png",
+          "file": "work/Arlecchino/frames/running/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13937,
@@ -793,7 +793,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running\\01.png",
+          "file": "work/Arlecchino/frames/running/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13799,
@@ -808,7 +808,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running\\02.png",
+          "file": "work/Arlecchino/frames/running/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13943,
@@ -823,7 +823,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running\\03.png",
+          "file": "work/Arlecchino/frames/running/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14146,
@@ -838,7 +838,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running\\04.png",
+          "file": "work/Arlecchino/frames/running/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13895,
@@ -853,7 +853,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\running\\05.png",
+          "file": "work/Arlecchino/frames/running/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13862,
@@ -879,7 +879,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\review\\00.png",
+          "file": "work/Arlecchino/frames/review/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14234,
@@ -894,7 +894,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\review\\01.png",
+          "file": "work/Arlecchino/frames/review/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14243,
@@ -909,7 +909,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\review\\02.png",
+          "file": "work/Arlecchino/frames/review/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14300,
@@ -924,7 +924,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\review\\03.png",
+          "file": "work/Arlecchino/frames/review/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14869,
@@ -939,7 +939,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\review\\04.png",
+          "file": "work/Arlecchino/frames/review/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15057,
@@ -954,7 +954,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\frames\\review\\05.png",
+          "file": "work/Arlecchino/frames/review/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14092,

@@ -1,7 +1,7 @@
 {
-  "pet_id": "la-signora",
-  "display_name": "La Signora",
-  "description": "\u4ece\u5bb9\u4f18\u96c5\u3001\u6d45\u91d1\u5377\u53d1\u4e0e\u9ed1\u8272\u534a\u9762\u9762\u5177\u7684\u4e8c\u6b21\u5143 Q \u7248\u667a\u80fd\u62cd\u6863\u3002.",
+  "pet_id": "La-Signora",
+  "display_name": "La-Signora",
+  "description": "从容优雅、浅金卷发与黑色半面面具的二次元 Q 版智能拍档。.",
   "created_at": "2026-09-16T07:04:05.892696+00:00",
   "sprite_version_number": 2,
   "atlas": {
@@ -248,13 +248,13 @@
   ],
   "references": [
     {
-      "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\references\\reference-01.png",
+      "path": "work/La-Signora/references/reference-01.png",
       "width": 1144,
       "height": 1375,
       "mode": "RGB",
       "format": "PNG",
-      "source_path": "C:\\Users\\56180\\AppData\\Local\\Temp\\codex-clipboard-2d02b010-eea1-4975-b5b3-56403794518b.png",
-      "copied_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\references\\reference-01.png"
+      "source_path": "artifacts/codex-clipboard-2d02b010-eea1-4975-b5b3-56403794518b.png",
+      "copied_path": "work/La-Signora/references/reference-01.png"
     }
   ],
   "chroma_key": {
@@ -267,7 +267,7 @@
     "name": "user-selected",
     "selection": "manual"
   },
-  "pet_notes": "Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.",
+  "pet_notes": "Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.",
   "style_preset": "auto",
   "style_notes": "Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change.",
   "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..",

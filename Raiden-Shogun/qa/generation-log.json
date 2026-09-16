@@ -3,7 +3,7 @@
     "id": "base",
     "kind": "base-pet",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a80d-b6a4-77c1-990f-5929d63cf177\\exec-c35c1a41-97cc-4eef-9081-2e0af11ee9d9.png",
+    "source_path": "artifacts/exec-c35c1a41-97cc-4eef-9081-2e0af11ee9d9.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:34:08.2217159Z",
     "qa_note": "Worker verified approved identity, flower/braid viewer-left, full ornament/sleeves/feet, neutral hands-down front pose. Slight green background variation will be removed by deterministic chroma extraction."
@@ -12,7 +12,7 @@
     "id": "idle",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a810-b0f9-7e31-ac9c-41daa316ff5c\\exec-d3735c50-c908-479f-b4c4-754104235012.png",
+    "source_path": "artifacts/exec-d3735c50-c908-479f-b4c4-754104235012.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:42:08.6385866Z",
     "qa_note": "Worker visually inspected all6 extracted frames: complete same identity, lowered empty hands, blink at02, visible breath and braid/sleeve micro-sway, alignedbaseline and scale, no defects. Structuralgatespassed."
@@ -21,7 +21,7 @@
     "id": "running-right",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a810-dbd8-7db3-b808-383dd3e5c024\\exec-d657d580-dd17-4772-9bd1-934b9f17d46b.png",
+    "source_path": "artifacts/exec-d657d580-dd17-4772-9bd1-934b9f17d46b.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:36:59.3086688Z",
     "qa_note": "Worker: 8 separated complete frames, clear right facing alternating short-step gait, restrained bob, braid/sleeve lag, asymmetric identity and full extremities preserved."
@@ -30,7 +30,7 @@
     "id": "running-left",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a813-4547-7df2-8473-2c8022fa68e2\\exec-9375fd1b-a8a7-4255-a6a9-e0b38cb060d7.png",
+    "source_path": "artifacts/exec-9375fd1b-a8a7-4255-a6a9-e0b38cb060d7.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:41:07.0100922Z",
     "qa_note": "Actual worker view confirms8 complete left-facing alternating frames, coherent anatomical flower/braid/armor asymmetry and natural lag. Structural extraction/inspection passed."
@@ -39,7 +39,7 @@
     "id": "waving",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a811-07e6-7041-8512-2b3765559735\\exec-f42bd2e9-71f4-442b-9fff-cf7d5ce8ae85.png",
+    "source_path": "artifacts/exec-f42bd2e9-71f4-442b-9fff-cf7d5ce8ae85.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:39:13.8023206Z",
     "qa_note": "Worker actual review: four distinct hands-down/lift/openwave/settle frames; consistent face/outfit/asymmetric accessories, complete separated silhouettes. Extraction and inspection pass."
@@ -48,7 +48,7 @@
     "id": "jumping",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a814-8a8d-7c20-8e14-84d9a938934e\\exec-6f8eee67-f536-4992-a0f4-aa1d00f4908b.png",
+    "source_path": "artifacts/exec-6f8eee67-f536-4992-a0f4-aa1d00f4908b.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:45:55.8548996Z",
     "qa_note": "Actual worker review all5 extractedframes: stable face/headscale/asymmetry, complete attachedbraidornament. Heightvariation from crouch/armrise/legtuck/sleeveposes; intentionaljumpanticipation/rise/peak/descent/softlanding, no enlargement or crops. Structuralgatespassed."
@@ -57,7 +57,7 @@
     "id": "failed",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a817-61d9-7411-bd60-8fd8306e673a\\exec-1b82538c-8d91-4f5f-8c58-cca9927e4742.png",
+    "source_path": "artifacts/exec-1b82538c-8d91-4f5f-8c58-cca9927e4742.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:49:36.0600378Z",
     "qa_note": "Actualworkerreview:8completeframes bowed/downcast then gentleraisedglance, samecanonicalidentity/asymmetry, alignedsoles, separatedfullsilhouettes,no effects/crops."
@@ -66,7 +66,7 @@
     "id": "waiting",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a814-b8bb-7142-b1d1-9eee564dddd1\\exec-6d9de70e-ae99-4652-bf16-4809cd5a1867.png",
+    "source_path": "artifacts/exec-6d9de70e-ae99-4652-bf16-4809cd5a1867.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:42:11.2445505Z",
     "qa_note": "Actual worker review:6 complete aligned frames with hands together, small headtilt/blink and expectant expression, consistentflower/braid/outfit, no effects/props/crops."
@@ -75,7 +75,7 @@
     "id": "running",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a817-93d5-7980-8c93-a930bc6b8739\\exec-cfb6e70f-dcd5-4807-b99d-90ffc8ff319c.png",
+    "source_path": "artifacts/exec-cfb6e70f-dcd5-4807-b99d-90ffc8ff319c.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:45:09.2999762Z",
     "qa_note": "Actual worker view:6 hand-near-chin thinking/blink/tiny nod frames, feetplanted, canonicalasymmetry intact, fullyvisible andseparated. Minor baseline/scale variation to review in complete preview."
@@ -84,7 +84,7 @@
     "id": "review",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a819-a150-73d3-8be2-8e4d44a5c0c6\\exec-259bb453-f2a8-420d-9b44-fe831b4bd343.png",
+    "source_path": "artifacts/exec-259bb453-f2a8-420d-9b44-fe831b4bd343.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T02:47:41.9542697Z",
     "qa_note": "Actual worker view:6 complete separated figures, consistent identity/asymmetry, planted feet, focused forward lean/gaze shifts/blink; hands lowfront distinct from chinthinking; no props/crops/effects."
@@ -93,7 +93,7 @@
     "id": "look-cardinals",
     "kind": "look-cardinal-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a822-7895-7c32-be96-0dd9dce6634d\\exec-81345bd9-610c-44e1-b18c-96babcd7cc5d.png",
+    "source_path": "artifacts/exec-81345bd9-610c-44e1-b18c-96babcd7cc5d.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T03:01:40.1729572Z",
     "qa_note": "Source and cell edge gates pass. RepairedUP has raisedchin/highpurpleeyes, RIGHT nose/pupilsright, DOWN tuckedchin/loweyes, LEFT nose/pupilsleft. Parent normalizedcardinal review confirms stablebody andasymmetricidentity."
@@ -102,7 +102,7 @@
     "id": "look-row-9",
     "kind": "look-row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a82e-a950-76c3-970f-1ddc20018990\\exec-7f325d2c-2149-4b6a-8ad2-3f7dca12f129.png",
+    "source_path": "artifacts/exec-7f325d2c-2149-4b6a-8ad2-3f7dca12f129.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T03:13:10.0744127Z",
     "qa_note": "Registered8cells passededgegate; parent sees raisedUP, progressiveRIGHT yaw, lowergaze thennearfrontalDOWNright. Baseline/scale/identity stable, no reversal. Nearverticalhorizontalcue subtle. Actualsource2170x725, figures469-470px not workerestimated280-300; authoritative registration passed."
@@ -111,10 +111,10 @@
     "id": "look-row-10",
     "kind": "look-row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a83d-9fc7-77c2-be19-e7d7474a9228\\exec-62d9d08b-1181-4d6d-bbdb-7f40a6826b33.png",
+    "source_path": "artifacts/exec-62d9d08b-1181-4d6d-bbdb-7f40a6826b33.png",
     "rejected_sources": [
-      "C:\\Users\\56180\\.codex\\generated_images\\01a0a834-838b-71c0-a2e8-92246f0b6d8c\\exec-b4d1a796-1d30-44d4-b6dd-d1c2117cf56c.png",
-      "C:\\Users\\56180\\.codex\\generated_images\\01a0a838-e16f-7ab3-9aa8-d4db6771c3b7\\exec-56c2c4f7-79ec-4b8d-8175-245dc952a9f0.png"
+      "artifacts/exec-b4d1a796-1d30-44d4-b6dd-d1c2117cf56c.png",
+      "artifacts/exec-56c2c4f7-79ec-4b8d-8175-245dc952a9f0.png"
     ],
     "completed_at": "2026-09-16T03:27:54.6086894Z",
     "qa_note": "Braid-only coherent-row repair passed immutable-scale assembly/edges. Parent normalizedreview confirmsDOWN→LEFT→UP-left, left270nose/pupils clear, allbraids viewer-left withstablefeet; final337.5joins000withoutbraidflip. Inputcanvas1px narrower thanrequested has no structuralimpact; finalsizeenforced byassembler."
@@ -123,7 +123,7 @@
     "id": "look-up-repair",
     "kind": "cardinal-repair",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a826-d6c4-70b0-bf03-b07e9f36a1c3\\exec-3ef6e40d-2eec-44a0-9987-3b1e0ec69c29.png",
+    "source_path": "artifacts/exec-3ef6e40d-2eec-44a0-9987-3b1e0ec69c29.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T03:01:40.154328Z",
     "qa_note": "Source and cell edge gates pass. RepairedUP has raisedchin/highpurpleeyes, RIGHT nose/pupilsright, DOWN tuckedchin/loweyes, LEFT nose/pupilsleft. Parent normalizedcardinal review confirms stablebody andasymmetricidentity."

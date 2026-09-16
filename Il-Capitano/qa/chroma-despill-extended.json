@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "input": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\final\\spritesheet-extended.png",
-  "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\final\\spritesheet-extended.png",
+  "input": "work/Il-Capitano/final/spritesheet-extended.png",
+  "output": "work/Il-Capitano/final/spritesheet-extended.png",
   "chroma_key": "#00FF00",
   "algorithm": "edge-local-chroma-spill-suppression",
   "strength": 1,

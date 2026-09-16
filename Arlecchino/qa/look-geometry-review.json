@@ -1,7 +1,7 @@
 {
   "verdict": "pass",
   "severity": "minor",
-  "reviewed_by": "independent arlecchino_geometry_qa",
+  "reviewed_by": "independent Arlecchino_geometry_qa",
   "exactrepairnotes": null,
   "evidence": "Native ordered loop coherent across157.5->180 and337.5->000, consistentbodyheight/headscale/feetbaseline/hairarc/palette/silhouette, no conspicuouspop/snap/identitychange.180down and270screenleft readable; originaleyes/hair/anatomy consistent. Numericwarnings judgedpose-driven, notmajor."
 }

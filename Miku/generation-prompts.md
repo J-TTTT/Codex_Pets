@@ -16,7 +16,7 @@ This is normalization of an approved design, not a redesign. Keep the exact refe
 
 ## 000.md
 
-Repair one cardinal anchor for Codex pet `miku`: `000` means looking up.
+Repair one cardinal anchor for Codex pet `Miku`: `000` means looking up.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Keep the face broadly frontal and point the eyes and natural head mechanism toward the TOP edge. Screen coordinates are viewer-relative.
 
@@ -27,7 +27,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## 090.md
 
-Repair one cardinal anchor for Codex pet `miku`: `090` means looking right.
+Repair one cardinal anchor for Codex pet `Miku`: `090` means looking right.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Put the nose tip, pupils, face surface, or natural aiming feature on the screen-right side of the head center. Screen coordinates are viewer-relative.
 
@@ -38,7 +38,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## 180.md
 
-Repair one cardinal anchor for Codex pet `miku`: `180` means looking down.
+Repair one cardinal anchor for Codex pet `Miku`: `180` means looking down.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Keep the face broadly frontal and point the eyes and natural head mechanism toward the BOTTOM edge. Screen coordinates are viewer-relative.
 
@@ -49,7 +49,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## 270.md
 
-Repair one cardinal anchor for Codex pet `miku`: `270` means looking left.
+Repair one cardinal anchor for Codex pet `Miku`: `270` means looking left.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Put the nose tip, pupils, face surface, or natural aiming feature on the screen-left side of the head center. Screen coordinates are viewer-relative.
 
@@ -60,7 +60,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## look-cardinals.md
 
-Create one horizontal four-cardinal anchor strip for Codex pet `miku`.
+Create one horizontal four-cardinal anchor strip for Codex pet `Miku`.
 
 Use the attached canonical base, completed standard contact sheet, and layout guide for exact identity, style, scale, baseline, face construction, materials, palette, markings, props, and spacing. Read `qa/look-mechanics.md` and use the pet's natural gaze mechanism.
 
@@ -77,7 +77,7 @@ Miku lock: retain approved half-open anime eyes and tiny gentle smile, no wide s
 
 ## failed.md
 
-Create Codex pet row `failed` for `miku`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `failed` for `Miku`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: The supplied approved second-version Miku reference is the ONLY character design authority. Preserve exactly its face shape, layered curved teal twin-tails and bangs, soft tapered hair tips, half-open teal anime eyes, tiny gentle smile, faint blush, black magenta hair ornaments, light-gray sleeveless top, teal tie, black pleated skirt with teal trim, black detached long sleeves and boots. Approximately 2.5 heads tall with large round head, small body and short natural limbs, SAME proportions as reference. Quiet gentle Fufu-like slightly airheaded personality. Normalization may change only framing, padding, background and relaxed neutral standing pose, never redesign. Reference waving hand belongs only in waving action. All movements small and restrained. No extra props or effects.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -95,7 +95,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## idle.md
 
-Create Codex pet row `idle` for `miku`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `idle` for `Miku`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: The supplied approved second-version Miku reference is the ONLY character design authority. Preserve exactly its face shape, layered curved teal twin-tails and bangs, soft tapered hair tips, half-open teal anime eyes, tiny gentle smile, faint blush, black magenta hair ornaments, light-gray sleeveless top, teal tie, black pleated skirt with teal trim, black detached long sleeves and boots. Approximately 2.5 heads tall with large round head, small body and short natural limbs, SAME proportions as reference. Quiet gentle Fufu-like slightly airheaded personality. Normalization may change only framing, padding, background and relaxed neutral standing pose, never redesign. Reference waving hand belongs only in waving action. All movements small and restrained. No extra props or effects.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -117,7 +117,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## jumping.md
 
-Create Codex pet row `jumping` for `miku`: exactly 5 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `jumping` for `Miku`: exactly 5 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: The supplied approved second-version Miku reference is the ONLY character design authority. Preserve exactly its face shape, layered curved teal twin-tails and bangs, soft tapered hair tips, half-open teal anime eyes, tiny gentle smile, faint blush, black magenta hair ornaments, light-gray sleeveless top, teal tie, black pleated skirt with teal trim, black detached long sleeves and boots. Approximately 2.5 heads tall with large round head, small body and short natural limbs, SAME proportions as reference. Quiet gentle Fufu-like slightly airheaded personality. Normalization may change only framing, padding, background and relaxed neutral standing pose, never redesign. Reference waving hand belongs only in waving action. All movements small and restrained. No extra props or effects.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -135,7 +135,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## look-row-10.md
 
-Create Codex v2 pet look row 10 for `miku` as exactly 8 full-body frames in this order: 180, 202.5, 225, 247.5, 270, 292.5, 315, 337.5.
+Create Codex v2 pet look row 10 for `Miku` as exactly 8 full-body frames in this order: 180, 202.5, 225, 247.5, 270, 292.5, 315, 337.5.
 
 Use the canonical base, standard contact sheet, layout guide, approved four-cardinal strip, and `qa/look-mechanics.md`. Draw the complete eight-pose row as one coherent animation family, interpolating even 22.5-degree steps between the cardinal pose families. Keep the same pet identity, face construction, materials, palette, markings, and props. Each direction must read correctly at pet size and join continuously at the 000 and 180 boundaries.
 
@@ -167,7 +167,7 @@ Use a flat pure user-selected #00FF00 background. One complete unclipped pose pe
 
 ## look-row-9.md
 
-Create Codex v2 pet look row 9 for `miku` as exactly 8 full-body frames in this order: 000, 022.5, 045, 067.5, 090, 112.5, 135, 157.5.
+Create Codex v2 pet look row 9 for `Miku` as exactly 8 full-body frames in this order: 000, 022.5, 045, 067.5, 090, 112.5, 135, 157.5.
 
 Use the canonical base, standard contact sheet, layout guide, approved four-cardinal strip, and `qa/look-mechanics.md`. Draw the complete eight-pose row as one coherent animation family, interpolating even 22.5-degree steps between the cardinal pose families. Keep the same pet identity, face construction, materials, palette, markings, and props. Each direction must read correctly at pet size and join continuously at the 000 and 180 boundaries.
 
@@ -199,7 +199,7 @@ Use a flat pure user-selected #00FF00 background. One complete unclipped pose pe
 
 ## review.md
 
-Create Codex pet row `review` for `miku`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `review` for `Miku`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: The supplied approved second-version Miku reference is the ONLY character design authority. Preserve exactly its face shape, layered curved teal twin-tails and bangs, soft tapered hair tips, half-open teal anime eyes, tiny gentle smile, faint blush, black magenta hair ornaments, light-gray sleeveless top, teal tie, black pleated skirt with teal trim, black detached long sleeves and boots. Approximately 2.5 heads tall with large round head, small body and short natural limbs, SAME proportions as reference. Quiet gentle Fufu-like slightly airheaded personality. Normalization may change only framing, padding, background and relaxed neutral standing pose, never redesign. Reference waving hand belongs only in waving action. All movements small and restrained. No extra props or effects.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -216,7 +216,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## running-left.md
 
-Create Codex pet row `running-left` for `miku`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running-left` for `Miku`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: The supplied approved second-version Miku reference is the ONLY character design authority. Preserve exactly its face shape, layered curved teal twin-tails and bangs, soft tapered hair tips, half-open teal anime eyes, tiny gentle smile, faint blush, black magenta hair ornaments, light-gray sleeveless top, teal tie, black pleated skirt with teal trim, black detached long sleeves and boots. Approximately 2.5 heads tall with large round head, small body and short natural limbs, SAME proportions as reference. Quiet gentle Fufu-like slightly airheaded personality. Normalization may change only framing, padding, background and relaxed neutral standing pose, never redesign. Reference waving hand belongs only in waving action. All movements small and restrained. No extra props or effects.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -235,7 +235,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## running-right.md
 
-Create Codex pet row `running-right` for `miku`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running-right` for `Miku`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: The supplied approved second-version Miku reference is the ONLY character design authority. Preserve exactly its face shape, layered curved teal twin-tails and bangs, soft tapered hair tips, half-open teal anime eyes, tiny gentle smile, faint blush, black magenta hair ornaments, light-gray sleeveless top, teal tie, black pleated skirt with teal trim, black detached long sleeves and boots. Approximately 2.5 heads tall with large round head, small body and short natural limbs, SAME proportions as reference. Quiet gentle Fufu-like slightly airheaded personality. Normalization may change only framing, padding, background and relaxed neutral standing pose, never redesign. Reference waving hand belongs only in waving action. All movements small and restrained. No extra props or effects.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -254,7 +254,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## running.md
 
-Create Codex pet row `running` for `miku`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running` for `Miku`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: The supplied approved second-version Miku reference is the ONLY character design authority. Preserve exactly its face shape, layered curved teal twin-tails and bangs, soft tapered hair tips, half-open teal anime eyes, tiny gentle smile, faint blush, black magenta hair ornaments, light-gray sleeveless top, teal tie, black pleated skirt with teal trim, black detached long sleeves and boots. Approximately 2.5 heads tall with large round head, small body and short natural limbs, SAME proportions as reference. Quiet gentle Fufu-like slightly airheaded personality. Normalization may change only framing, padding, background and relaxed neutral standing pose, never redesign. Reference waving hand belongs only in waving action. All movements small and restrained. No extra props or effects.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -271,7 +271,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## waiting.md
 
-Create Codex pet row `waiting` for `miku`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `waiting` for `Miku`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: The supplied approved second-version Miku reference is the ONLY character design authority. Preserve exactly its face shape, layered curved teal twin-tails and bangs, soft tapered hair tips, half-open teal anime eyes, tiny gentle smile, faint blush, black magenta hair ornaments, light-gray sleeveless top, teal tie, black pleated skirt with teal trim, black detached long sleeves and boots. Approximately 2.5 heads tall with large round head, small body and short natural limbs, SAME proportions as reference. Quiet gentle Fufu-like slightly airheaded personality. Normalization may change only framing, padding, background and relaxed neutral standing pose, never redesign. Reference waving hand belongs only in waving action. All movements small and restrained. No extra props or effects.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -288,7 +288,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## waving.md
 
-Create Codex pet row `waving` for `miku`: exactly 4 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `waving` for `Miku`: exactly 4 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: The supplied approved second-version Miku reference is the ONLY character design authority. Preserve exactly its face shape, layered curved teal twin-tails and bangs, soft tapered hair tips, half-open teal anime eyes, tiny gentle smile, faint blush, black magenta hair ornaments, light-gray sleeveless top, teal tie, black pleated skirt with teal trim, black detached long sleeves and boots. Approximately 2.5 heads tall with large round head, small body and short natural limbs, SAME proportions as reference. Quiet gentle Fufu-like slightly airheaded personality. Normalization may change only framing, padding, background and relaxed neutral standing pose, never redesign. Reference waving hand belongs only in waving action. All movements small and restrained. No extra props or effects.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -305,7 +305,7 @@ One centered complete pose per invisible slot. No text, boxes, guide marks, scen
 
 ## failed.md
 
-Create one horizontal animation strip for Codex pet `miku`, state `failed`.
+Create one horizontal animation strip for Codex pet `Miku`, state `failed`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -329,7 +329,7 @@ Source layout: every COMPLETE silhouette including twin-tails fits within 72% of
 
 ## idle.md
 
-Create one horizontal animation strip for Codex pet `miku`, state `idle`.
+Create one horizontal animation strip for Codex pet `Miku`, state `idle`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -357,7 +357,7 @@ Source layout: every COMPLETE silhouette including twin-tails fits within 72% of
 
 ## jumping.md
 
-Create one horizontal animation strip for Codex pet `miku`, state `jumping`.
+Create one horizontal animation strip for Codex pet `Miku`, state `jumping`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -417,7 +417,7 @@ These are attention targets 000,022.5,045,067.5,090,112.5,135,157.5, never body 
 
 ## review.md
 
-Create one horizontal animation strip for Codex pet `miku`, state `review`.
+Create one horizontal animation strip for Codex pet `Miku`, state `review`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -440,7 +440,7 @@ Source layout: every COMPLETE silhouette including twin-tails fits within 72% of
 
 ## running-left.md
 
-Create one horizontal animation strip for Codex pet `miku`, state `running-left`.
+Create one horizontal animation strip for Codex pet `Miku`, state `running-left`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -465,7 +465,7 @@ Source layout: every COMPLETE silhouette including twin-tails fits within 72% of
 
 ## running-right.md
 
-Create one horizontal animation strip for Codex pet `miku`, state `running-right`.
+Create one horizontal animation strip for Codex pet `Miku`, state `running-right`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -490,7 +490,7 @@ Source layout: every COMPLETE silhouette including twin-tails fits within 72% of
 
 ## running.md
 
-Create one horizontal animation strip for Codex pet `miku`, state `running`.
+Create one horizontal animation strip for Codex pet `Miku`, state `running`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -513,7 +513,7 @@ Source layout: every COMPLETE silhouette including twin-tails fits within 72% of
 
 ## waiting.md
 
-Create one horizontal animation strip for Codex pet `miku`, state `waiting`.
+Create one horizontal animation strip for Codex pet `Miku`, state `waiting`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -538,7 +538,7 @@ REPAIR PRIORITY: Previous strip filled every slot with oversized hair, which tou
 
 ## waving.md
 
-Create one horizontal animation strip for Codex pet `miku`, state `waving`.
+Create one horizontal animation strip for Codex pet `Miku`, state `waving`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 

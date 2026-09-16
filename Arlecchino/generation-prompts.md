@@ -12,12 +12,12 @@ Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, cl
 
 Place a single centered pose on a perfectly flat pure user-selected #00FF00 chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #00FF00 and close colors out of the pet, props, highlights, and effects.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## 000.md
 
-Repair one cardinal anchor for Codex pet `arlecchino`: `000` means looking up.
+Repair one cardinal anchor for Codex pet `Arlecchino`: `000` means looking up.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Keep the face broadly frontal and point the eyes and natural head mechanism toward the TOP edge. Screen coordinates are viewer-relative.
 
@@ -25,12 +25,12 @@ Output one centered complete full-body pose on a flat pure user-selected #00FF00
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement eyes, labels, arrows, guide marks, shadows, scenery, detached effects, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## 090.md
 
-Repair one cardinal anchor for Codex pet `arlecchino`: `090` means looking right.
+Repair one cardinal anchor for Codex pet `Arlecchino`: `090` means looking right.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Put the nose tip, pupils, face surface, or natural aiming feature on the screen-right side of the head center. Screen coordinates are viewer-relative.
 
@@ -38,12 +38,12 @@ Output one centered complete full-body pose on a flat pure user-selected #00FF00
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement eyes, labels, arrows, guide marks, shadows, scenery, detached effects, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## 180.md
 
-Repair one cardinal anchor for Codex pet `arlecchino`: `180` means looking down.
+Repair one cardinal anchor for Codex pet `Arlecchino`: `180` means looking down.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Keep the face broadly frontal and point the eyes and natural head mechanism toward the BOTTOM edge. Screen coordinates are viewer-relative.
 
@@ -51,12 +51,12 @@ Output one centered complete full-body pose on a flat pure user-selected #00FF00
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement eyes, labels, arrows, guide marks, shadows, scenery, detached effects, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## 270.md
 
-Repair one cardinal anchor for Codex pet `arlecchino`: `270` means looking left.
+Repair one cardinal anchor for Codex pet `Arlecchino`: `270` means looking left.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Put the nose tip, pupils, face surface, or natural aiming feature on the screen-left side of the head center. Screen coordinates are viewer-relative.
 
@@ -64,12 +64,12 @@ Output one centered complete full-body pose on a flat pure user-selected #00FF00
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement eyes, labels, arrows, guide marks, shadows, scenery, detached effects, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## look-cardinals.md
 
-Create one horizontal four-cardinal anchor strip for Codex pet `arlecchino`.
+Create one horizontal four-cardinal anchor strip for Codex pet `Arlecchino`.
 
 Use the attached canonical base, completed standard contact sheet, and layout guide for exact identity, style, scale, baseline, face construction, materials, palette, markings, props, and spacing. Read `qa/look-mechanics.md` and use the pet's natural gaze mechanism.
 
@@ -81,7 +81,7 @@ Place one pose in each invisible equal-width slot on a flat pure user-selected #
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement eyes, labels, degree text, arrows, boxes, guide marks, shadows, scenery, detached effects, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Arlecchino directional face mechanics: feet/hips and lower coat stay anchored; eyes lead inside the original anime eye apertures, eyelids and brows respond, then natural neck/head yaw and pitch, minimal upper torso and tied hair follow. Preserve dark iris and RED X pupil construction; X foreshortens with the eye, never replaced by round dots or outside-eye symbols. Preserve face aspect and spacing, original silver/black hair zones, swept bang direction, collar/earrings/hair tie occlusion. No whole-body rotation/lean or raster facialstretch.
 For UP raise chin with high eyes; for DOWN lower chin and redXeyes visibly lower in narrow but OPEN eyes, not onlyblink. For screenRIGHT yaw face/nose toward IMAGE RIGHT (~30degrees), both eyes follow right naturally, right-looking head presents character anatomicalRIGHT cheek; original anatomicalLEFT cheek becomes farther, features foreshorten. For screenLEFT reverse head yaw naturally toIMAGELEFT, preserve anatomical asymmetry and haircolor, notmirror. Cardinal directions must read with nose/faceplane plus eyeaim at192x208 even when redXdetails small. Keep gestures quiet, hands lowered; no props.
 Diagonals blend yaw and pitch with comparable increments, subtle towardnearvertical, no backtracking. Hair/tails attached and smallsway; same fullfigurebodyheight and footbaseline acrossall16. Always keep tips safelyinside. Close loop337.5->000 and boundary157.5->180 smoothly, no headscalechange.
@@ -91,7 +91,7 @@ Keep wide clean puregreen gutters between every complete figure; no hairtip touc
 
 ## failed.md
 
-Create Codex pet row `failed` for `arlecchino`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `failed` for `Arlecchino`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Arlecchino: silver-white layered hair with BLACK underlayers and diagonal black bang, exact original asymmetric color partitions and side-swept bangs, tied-back rear hair. Dark anime eyes with RED X-SHAPED pupils inside original eye apertures; preserve X design even in gaze perspective. Calm half-lidded eyes, tiny gentle smile, pale blush. White/gray/black tailored high-collar outfit, original red/black chest ornament, asymmetric coat panels, split tails with dark-red lining, dark trousers and boots, black hands with red fingertips. Hands empty, no weapons or battle transformation. Neutral relaxed standing, original proportions. Keep all hair tips, hands and boot heels fully visible with generous padding. No backgrounds, shadows, detached effects, text, symbols or watermarks.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -106,12 +106,12 @@ State requirements:
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## idle.md
 
-Create Codex pet row `idle` for `arlecchino`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `idle` for `Arlecchino`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Arlecchino: silver-white layered hair with BLACK underlayers and diagonal black bang, exact original asymmetric color partitions and side-swept bangs, tied-back rear hair. Dark anime eyes with RED X-SHAPED pupils inside original eye apertures; preserve X design even in gaze perspective. Calm half-lidded eyes, tiny gentle smile, pale blush. White/gray/black tailored high-collar outfit, original red/black chest ornament, asymmetric coat panels, split tails with dark-red lining, dark trousers and boots, black hands with red fingertips. Hands empty, no weapons or battle transformation. Neutral relaxed standing, original proportions. Keep all hair tips, hands and boot heels fully visible with generous padding. No backgrounds, shadows, detached effects, text, symbols or watermarks.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -130,12 +130,12 @@ State requirements:
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## jumping.md
 
-Create Codex pet row `jumping` for `arlecchino`: exactly 5 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `jumping` for `Arlecchino`: exactly 5 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Arlecchino: silver-white layered hair with BLACK underlayers and diagonal black bang, exact original asymmetric color partitions and side-swept bangs, tied-back rear hair. Dark anime eyes with RED X-SHAPED pupils inside original eye apertures; preserve X design even in gaze perspective. Calm half-lidded eyes, tiny gentle smile, pale blush. White/gray/black tailored high-collar outfit, original red/black chest ornament, asymmetric coat panels, split tails with dark-red lining, dark trousers and boots, black hands with red fingertips. Hands empty, no weapons or battle transformation. Neutral relaxed standing, original proportions. Keep all hair tips, hands and boot heels fully visible with generous padding. No backgrounds, shadows, detached effects, text, symbols or watermarks.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -150,12 +150,12 @@ State requirements:
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## look-row-10.md
 
-Create Codex v2 pet look row 10 for `arlecchino` as exactly 8 full-body frames in this order: 180, 202.5, 225, 247.5, 270, 292.5, 315, 337.5.
+Create Codex v2 pet look row 10 for `Arlecchino` as exactly 8 full-body frames in this order: 180, 202.5, 225, 247.5, 270, 292.5, 315, 337.5.
 
 Use the canonical base, standard contact sheet, layout guide, approved four-cardinal strip, and `qa/look-mechanics.md`. Draw the complete eight-pose row as one coherent animation family, interpolating even 22.5-degree steps between the cardinal pose families. Keep the same pet identity, face construction, materials, palette, markings, and props. Each direction must read correctly at pet size and join continuously at the 000 and 180 boundaries.
 
@@ -184,12 +184,12 @@ PRE-RETURN CHECK: reject this result if it does not contain eight separated pose
 
 Use a flat pure user-selected #00FF00 background. One complete unclipped pose per invisible slot. No whole-sprite rotation, replacement eyes, labels, guide marks, shadows, glows, scenery, detached effects, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## look-row-9.md
 
-Create Codex v2 pet look row 9 for `arlecchino` as exactly 8 full-body frames in this order: 000, 022.5, 045, 067.5, 090, 112.5, 135, 157.5.
+Create Codex v2 pet look row 9 for `Arlecchino` as exactly 8 full-body frames in this order: 000, 022.5, 045, 067.5, 090, 112.5, 135, 157.5.
 
 Use the canonical base, standard contact sheet, layout guide, approved four-cardinal strip, and `qa/look-mechanics.md`. Draw the complete eight-pose row as one coherent animation family, interpolating even 22.5-degree steps between the cardinal pose families. Keep the same pet identity, face construction, materials, palette, markings, and props. Each direction must read correctly at pet size and join continuously at the 000 and 180 boundaries.
 
@@ -218,12 +218,12 @@ PRE-RETURN CHECK: reject this result if it does not contain eight separated pose
 
 Use a flat pure user-selected #00FF00 background. One complete unclipped pose per invisible slot. No whole-sprite rotation, replacement eyes, labels, guide marks, shadows, glows, scenery, detached effects, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## review.md
 
-Create Codex pet row `review` for `arlecchino`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `review` for `Arlecchino`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Arlecchino: silver-white layered hair with BLACK underlayers and diagonal black bang, exact original asymmetric color partitions and side-swept bangs, tied-back rear hair. Dark anime eyes with RED X-SHAPED pupils inside original eye apertures; preserve X design even in gaze perspective. Calm half-lidded eyes, tiny gentle smile, pale blush. White/gray/black tailored high-collar outfit, original red/black chest ornament, asymmetric coat panels, split tails with dark-red lining, dark trousers and boots, black hands with red fingertips. Hands empty, no weapons or battle transformation. Neutral relaxed standing, original proportions. Keep all hair tips, hands and boot heels fully visible with generous padding. No backgrounds, shadows, detached effects, text, symbols or watermarks.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -237,12 +237,12 @@ State requirements:
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## running-left.md
 
-Create Codex pet row `running-left` for `arlecchino`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running-left` for `Arlecchino`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Arlecchino: silver-white layered hair with BLACK underlayers and diagonal black bang, exact original asymmetric color partitions and side-swept bangs, tied-back rear hair. Dark anime eyes with RED X-SHAPED pupils inside original eye apertures; preserve X design even in gaze perspective. Calm half-lidded eyes, tiny gentle smile, pale blush. White/gray/black tailored high-collar outfit, original red/black chest ornament, asymmetric coat panels, split tails with dark-red lining, dark trousers and boots, black hands with red fingertips. Hands empty, no weapons or battle transformation. Neutral relaxed standing, original proportions. Keep all hair tips, hands and boot heels fully visible with generous padding. No backgrounds, shadows, detached effects, text, symbols or watermarks.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -258,12 +258,12 @@ State requirements:
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## running-right.md
 
-Create Codex pet row `running-right` for `arlecchino`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running-right` for `Arlecchino`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Arlecchino: silver-white layered hair with BLACK underlayers and diagonal black bang, exact original asymmetric color partitions and side-swept bangs, tied-back rear hair. Dark anime eyes with RED X-SHAPED pupils inside original eye apertures; preserve X design even in gaze perspective. Calm half-lidded eyes, tiny gentle smile, pale blush. White/gray/black tailored high-collar outfit, original red/black chest ornament, asymmetric coat panels, split tails with dark-red lining, dark trousers and boots, black hands with red fingertips. Hands empty, no weapons or battle transformation. Neutral relaxed standing, original proportions. Keep all hair tips, hands and boot heels fully visible with generous padding. No backgrounds, shadows, detached effects, text, symbols or watermarks.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -279,12 +279,12 @@ State requirements:
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## running.md
 
-Create Codex pet row `running` for `arlecchino`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running` for `Arlecchino`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Arlecchino: silver-white layered hair with BLACK underlayers and diagonal black bang, exact original asymmetric color partitions and side-swept bangs, tied-back rear hair. Dark anime eyes with RED X-SHAPED pupils inside original eye apertures; preserve X design even in gaze perspective. Calm half-lidded eyes, tiny gentle smile, pale blush. White/gray/black tailored high-collar outfit, original red/black chest ornament, asymmetric coat panels, split tails with dark-red lining, dark trousers and boots, black hands with red fingertips. Hands empty, no weapons or battle transformation. Neutral relaxed standing, original proportions. Keep all hair tips, hands and boot heels fully visible with generous padding. No backgrounds, shadows, detached effects, text, symbols or watermarks.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -298,12 +298,12 @@ State requirements:
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## waiting.md
 
-Create Codex pet row `waiting` for `arlecchino`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `waiting` for `Arlecchino`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Arlecchino: silver-white layered hair with BLACK underlayers and diagonal black bang, exact original asymmetric color partitions and side-swept bangs, tied-back rear hair. Dark anime eyes with RED X-SHAPED pupils inside original eye apertures; preserve X design even in gaze perspective. Calm half-lidded eyes, tiny gentle smile, pale blush. White/gray/black tailored high-collar outfit, original red/black chest ornament, asymmetric coat panels, split tails with dark-red lining, dark trousers and boots, black hands with red fingertips. Hands empty, no weapons or battle transformation. Neutral relaxed standing, original proportions. Keep all hair tips, hands and boot heels fully visible with generous padding. No backgrounds, shadows, detached effects, text, symbols or watermarks.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -317,12 +317,12 @@ State requirements:
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## waving.md
 
-Create Codex pet row `waving` for `arlecchino`: exactly 4 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `waving` for `Arlecchino`: exactly 4 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
 Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Arlecchino: silver-white layered hair with BLACK underlayers and diagonal black bang, exact original asymmetric color partitions and side-swept bangs, tied-back rear hair. Dark anime eyes with RED X-SHAPED pupils inside original eye apertures; preserve X design even in gaze perspective. Calm half-lidded eyes, tiny gentle smile, pale blush. White/gray/black tailored high-collar outfit, original red/black chest ornament, asymmetric coat panels, split tails with dark-red lining, dark trousers and boots, black hands with red fingertips. Hands empty, no weapons or battle transformation. Neutral relaxed standing, original proportions. Keep all hair tips, hands and boot heels fully visible with generous padding. No backgrounds, shadows, detached effects, text, symbols or watermarks.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
@@ -336,7 +336,7 @@ State requirements:
 
 One centered complete pose per invisible slot. No text, boxes, guide marks, scenery, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or #00FF00 colors in the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 
 
 ## failed-spacing-repair.md
@@ -346,7 +346,7 @@ Edit the first attached complete 8-pose strip. Keep canvas size2172x724, same ho
 
 ## failed.md
 
-Create one horizontal animation strip for Codex pet `arlecchino`, state `failed`.
+Create one horizontal animation strip for Codex pet `Arlecchino`, state `failed`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -365,13 +365,13 @@ State requirements:
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Eyes lower, tiny smile fades, restrained puzzled headtilt, return composed. No tears or symbols.
 
 
 ## idle.md
 
-Create one horizontal animation strip for Codex pet `arlecchino`, state `idle`.
+Create one horizontal animation strip for Codex pet `Arlecchino`, state `idle`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -394,13 +394,13 @@ State requirements:
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Hands naturally lowered. Quiet visible breath, one soft blink, tiny hair/tail sway; never wave continuously.
 
 
 ## jumping.md
 
-Create one horizontal animation strip for Codex pet `arlecchino`, state `jumping`.
+Create one horizontal animation strip for Codex pet `Arlecchino`, state `jumping`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -419,7 +419,7 @@ State requirements:
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Five temporal poses: modest knee bend anticipation, rise, small airborne apex, descent, gentle landing. Actual height change, fixed character scale.
 
 
@@ -431,7 +431,7 @@ Everythingelse EXACTLYunchanged: all8headorientations DOWN throughLEFT toUPLEFT,
 
 ## look-row-10.md
 
-Create one horizontal look-direction strip for Codex pet `arlecchino`, atlas row 10.
+Create one horizontal look-direction strip for Codex pet `Arlecchino`, atlas row 10.
 
 Use the attached canonical base, completed standard contact sheet, layout guide, and approved four-cardinal strip for identity, scale, registration, spacing, direction semantics, and cross-row continuity. Read `qa/look-mechanics.md` and follow its pet-specific movement and eye/prop mechanics. The approved cardinal strip and completed coherent row 9 are authoritative. Use the cardinals for direction meaning and row 9 for cross-row identity, scale, registration, and continuity.
 
@@ -468,7 +468,7 @@ PRE-RETURN CHECK: reject this result if it does not contain eight separated pose
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement/googly eyes, labels, degree text, arrows, clocks, grids, shadows, glows, scenery, detached effects, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Arlecchino directional face mechanics: feet/hips and lower coat stay anchored; eyes lead inside the original anime eye apertures, eyelids and brows respond, then natural neck/head yaw and pitch, minimal upper torso and tied hair follow. Preserve dark iris and RED X pupil construction; X foreshortens with the eye, never replaced by round dots or outside-eye symbols. Preserve face aspect and spacing, original silver/black hair zones, swept bang direction, collar/earrings/hair tie occlusion. No whole-body rotation/lean or raster facialstretch.
 For UP raise chin with high eyes; for DOWN lower chin and redXeyes visibly lower in narrow but OPEN eyes, not onlyblink. For screenRIGHT yaw face/nose toward IMAGE RIGHT (~30degrees), both eyes follow right naturally, right-looking head presents character anatomicalRIGHT cheek; original anatomicalLEFT cheek becomes farther, features foreshorten. For screenLEFT reverse head yaw naturally toIMAGELEFT, preserve anatomical asymmetry and haircolor, notmirror. Cardinal directions must read with nose/faceplane plus eyeaim at192x208 even when redXdetails small. Keep gestures quiet, hands lowered; no props.
 Diagonals blend yaw and pitch with comparable increments, subtle towardnearvertical, no backtracking. Hair/tails attached and smallsway; same fullfigurebodyheight and footbaseline acrossall16. Always keep tips safelyinside. Close loop337.5->000 and boundary157.5->180 smoothly, no headscalechange.
@@ -481,7 +481,7 @@ PRIMARYLEFTFAMILY: firstattachedsingle270anchor pointsIMAGELEFT. Use that face/n
 
 ## look-row-9.md
 
-Create one horizontal look-direction strip for Codex pet `arlecchino`, atlas row 9.
+Create one horizontal look-direction strip for Codex pet `Arlecchino`, atlas row 9.
 
 Use the attached canonical base, completed standard contact sheet, layout guide, and approved four-cardinal strip for identity, scale, registration, spacing, direction semantics, and cross-row continuity. Read `qa/look-mechanics.md` and follow its pet-specific movement and eye/prop mechanics. The approved cardinal strip is authoritative for the up, screen-right, down, and screen-left pose families. Interpolate the intermediate directions as even 22.5-degree steps between those anchors.
 
@@ -518,7 +518,7 @@ PRE-RETURN CHECK: reject this result if it does not contain eight separated pose
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement/googly eyes, labels, degree text, arrows, clocks, grids, shadows, glows, scenery, detached effects, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Arlecchino directional face mechanics: feet/hips and lower coat stay anchored; eyes lead inside the original anime eye apertures, eyelids and brows respond, then natural neck/head yaw and pitch, minimal upper torso and tied hair follow. Preserve dark iris and RED X pupil construction; X foreshortens with the eye, never replaced by round dots or outside-eye symbols. Preserve face aspect and spacing, original silver/black hair zones, swept bang direction, collar/earrings/hair tie occlusion. No whole-body rotation/lean or raster facialstretch.
 For UP raise chin with high eyes; for DOWN lower chin and redXeyes visibly lower in narrow but OPEN eyes, not onlyblink. For screenRIGHT yaw face/nose toward IMAGE RIGHT (~30degrees), both eyes follow right naturally, right-looking head presents character anatomicalRIGHT cheek; original anatomicalLEFT cheek becomes farther, features foreshorten. For screenLEFT reverse head yaw naturally toIMAGELEFT, preserve anatomical asymmetry and haircolor, notmirror. Cardinal directions must read with nose/faceplane plus eyeaim at192x208 even when redXdetails small. Keep gestures quiet, hands lowered; no props.
 Diagonals blend yaw and pitch with comparable increments, subtle towardnearvertical, no backtracking. Hair/tails attached and smallsway; same fullfigurebodyheight and footbaseline acrossall16. Always keep tips safelyinside. Close loop337.5->000 and boundary157.5->180 smoothly, no headscalechange.
@@ -529,7 +529,7 @@ Use the SECOND cardinal image as RIGHT-family: face/nose toward right edge ofima
 
 ## review.md
 
-Create one horizontal animation strip for Codex pet `arlecchino`, state `review`.
+Create one horizontal animation strip for Codex pet `Arlecchino`, state `review`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -547,13 +547,13 @@ State requirements:
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Hands lower, head leans slightly forward, eyes carefully scan with short pause then small confirming nod. Distinct from hand-chin thinking.
 
 
 ## running-left.md
 
-Create one horizontal animation strip for Codex pet `arlecchino`, state `running-left`.
+Create one horizontal animation strip for Codex pet `Arlecchino`, state `running-left`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -573,13 +573,13 @@ State requirements:
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Face imageLEFT, independently draw eight alternate short running steps with gentle verticalbob and tail lag. NOT a mirrored right row.
 
 
 ## running-right.md
 
-Create one horizontal animation strip for Codex pet `arlecchino`, state `running-right`.
+Create one horizontal animation strip for Codex pet `Arlecchino`, state `running-right`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -599,7 +599,7 @@ State requirements:
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Face imageRIGHT and alternate short running steps with gentle verticalbob and rear hair/coattail lag. Preserve original hair color partitions.
 
 
@@ -610,7 +610,7 @@ Edit the first attached complete 6-pose strip. Keep canvas size2172x724, same ho
 
 ## running.md
 
-Create one horizontal animation strip for Codex pet `arlecchino`, state `running`.
+Create one horizontal animation strip for Codex pet `Arlecchino`, state `running`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -628,13 +628,13 @@ State requirements:
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 TaskWORK: black hand rests near chin, focused redXeyes, slight nod. Feet planted. NOT jogging.
 
 
 ## waiting.md
 
-Create one horizontal animation strip for Codex pet `arlecchino`, state `waiting`.
+Create one horizontal animation strip for Codex pet `Arlecchino`, state `waiting`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -652,13 +652,13 @@ State requirements:
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Patient slight headtilt with one black hand gently palm-up; show awaiting input, no impatience.
 
 
 ## waving.md
 
-Create one horizontal animation strip for Codex pet `arlecchino`, state `waving`.
+Create one horizontal animation strip for Codex pet `Arlecchino`, state `waving`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
@@ -676,6 +676,6 @@ State requirements:
 
 Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
 
-ARLECCHINO IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
+Arlecchino IDENTITY LOCK: exact approved reference face, head/body ratio, side-swept silver/black hair partitions and rear tied hair, dark anime eyes with original RED X-SHAPED pupils (inside eye aperture, never ordinary round dots or floating symbols). Original asymmetric white/gray/black tailored coat with red trim/lining, red/black chest ornament, dark trousers/boots, BLACK hands with RED fingertips. Hands anatomically clear and empty. Calm, precise, restrained motions and mild smile. No weapons or transformation, wings, fire, effects, text, shadows. Hair ties, coat tails and fingers fully connected and visible. Never mirror left/right: generate correct anatomical hair and outfit asymmetry independently. Keep head/body proportions unchanged.
 Raise one black hand, small gentle wave with clear fingers and red tips, slight nod, faint smile. Four temporal poses.
 

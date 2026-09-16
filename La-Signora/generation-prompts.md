@@ -1,12 +1,12 @@
-# La Signora generation prompts
+# La-Signora generation prompts
 
-Generated with the built-in image generation tool, grounded in the approved La Signora reference.
+Generated with the built-in image generation tool, grounded in the approved La-Signora reference.
 
 ## base-pet.md
 
-Create one clean full-body reference sprite for Codex pet La Signora.
+Create one clean full-body reference sprite for Codex pet La-Signora.
 
-Pet identity: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props..
+Pet identity: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props..
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 
 
@@ -15,7 +15,7 @@ Place a single centered pose on a perfectly flat pure user-selected #00FF00 chro
 
 ## 000.md
 
-Repair one cardinal anchor for Codex pet `la-signora`: `000` means looking up.
+Repair one cardinal anchor for Codex pet `La-Signora`: `000` means looking up.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Keep the face broadly frontal and point the eyes and natural head mechanism toward the TOP edge. Screen coordinates are viewer-relative.
 
@@ -26,7 +26,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## 090.md
 
-Repair one cardinal anchor for Codex pet `la-signora`: `090` means looking right.
+Repair one cardinal anchor for Codex pet `La-Signora`: `090` means looking right.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Put the nose tip, pupils, face surface, or natural aiming feature on the screen-right side of the head center. Screen coordinates are viewer-relative.
 
@@ -37,7 +37,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## 180.md
 
-Repair one cardinal anchor for Codex pet `la-signora`: `180` means looking down.
+Repair one cardinal anchor for Codex pet `La-Signora`: `180` means looking down.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Keep the face broadly frontal and point the eyes and natural head mechanism toward the BOTTOM edge. Screen coordinates are viewer-relative.
 
@@ -48,7 +48,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## 270.md
 
-Repair one cardinal anchor for Codex pet `la-signora`: `270` means looking left.
+Repair one cardinal anchor for Codex pet `La-Signora`: `270` means looking left.
 
 Use the canonical base, completed standard contact sheet, approved cardinal-strip cells, and `qa/look-mechanics.md` for identity, scale, registration, and pet-specific gaze mechanics. Put the nose tip, pupils, face surface, or natural aiming feature on the screen-left side of the head center. Screen coordinates are viewer-relative.
 
@@ -59,7 +59,7 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 ## look-cardinals.md
 
-Create one horizontal four-cardinal anchor strip for Codex pet `la-signora`.
+Create one horizontal four-cardinal anchor strip for Codex pet `La-Signora`.
 
 Use the attached canonical base, completed standard contact sheet, and layout guide for exact identity, style, scale, baseline, face construction, materials, palette, markings, props, and spacing. Read `qa/look-mechanics.md` and use the pet's natural gaze mechanism.
 
@@ -71,14 +71,14 @@ Place one pose in each invisible equal-width slot on a flat pure user-selected #
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement eyes, labels, degree text, arrows, boxes, guide marks, shadows, scenery, detached effects, or chroma-key colors inside the pet.
 
-La Signora identity/occlusion lock: mask covers anatomical LEFT eye (viewer RIGHT in frontal pose) forever; only anatomical RIGHT grey-blue eye is visible. Never swap mask or show hidden eye. Keep original hairbow side, round face, blonde curls, earrings, white collar, black/red cape/dress. Moderate head yaw about30degrees combines with visible-eye/eyelid direction; do not turn wholebody. Mask follows skull, far-side features foreshorten naturally. For DOWN keep a narrow visible iris instead of fully closing eye. For UP clearly raise chin and iris above neutral. Rightward nose/face aim imageRIGHT, leftward aim imageLEFT, regardless of mask silhouette. Feet/waist/lowercape anchors fixed and alltips insideframe. No weapons/props/effects/shadows or designchanges.
+La-Signora identity/occlusion lock: mask covers anatomical LEFT eye (viewer RIGHT in frontal pose) forever; only anatomical RIGHT grey-blue eye is visible. Never swap mask or show hidden eye. Keep original hairbow side, round face, blonde curls, earrings, white collar, black/red cape/dress. Moderate head yaw about30degrees combines with visible-eye/eyelid direction; do not turn wholebody. Mask follows skull, far-side features foreshorten naturally. For DOWN keep a narrow visible iris instead of fully closing eye. For UP clearly raise chin and iris above neutral. Rightward nose/face aim imageRIGHT, leftward aim imageLEFT, regardless of mask silhouette. Feet/waist/lowercape anchors fixed and alltips insideframe. No weapons/props/effects/shadows or designchanges.
 
 
 ## failed.md
 
-Create Codex pet row `failed` for `la-signora`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `failed` for `La-Signora`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -96,9 +96,9 @@ User-specific action: Eight-frame restrained reaction: visible eye lowers, smile
 
 ## idle.md
 
-Create Codex pet row `idle` for `la-signora`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `idle` for `La-Signora`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -120,9 +120,9 @@ User-specific action: Elegant relaxed hands below chest throughout; exposed eye 
 
 ## jumping.md
 
-Create Codex pet row `jumping` for `la-signora`: exactly 5 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `jumping` for `La-Signora`: exactly 5 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -140,7 +140,7 @@ User-specific action: Five distinct phases: slight preparation crouch, rise with
 
 ## look-row-10.md
 
-Create Codex v2 pet look row 10 for `la-signora` as exactly 8 full-body frames in this order: 180, 202.5, 225, 247.5, 270, 292.5, 315, 337.5.
+Create Codex v2 pet look row 10 for `La-Signora` as exactly 8 full-body frames in this order: 180, 202.5, 225, 247.5, 270, 292.5, 315, 337.5.
 
 Use the canonical base, standard contact sheet, layout guide, approved four-cardinal strip, and `qa/look-mechanics.md`. Draw the complete eight-pose row as one coherent animation family, interpolating even 22.5-degree steps between the cardinal pose families. Keep the same pet identity, face construction, materials, palette, markings, and props. Each direction must read correctly at pet size and join continuously at the 000 and 180 boundaries.
 
@@ -172,7 +172,7 @@ Use a flat pure user-selected #00FF00 background. One complete unclipped pose pe
 
 ## look-row-9.md
 
-Create Codex v2 pet look row 9 for `la-signora` as exactly 8 full-body frames in this order: 000, 022.5, 045, 067.5, 090, 112.5, 135, 157.5.
+Create Codex v2 pet look row 9 for `La-Signora` as exactly 8 full-body frames in this order: 000, 022.5, 045, 067.5, 090, 112.5, 135, 157.5.
 
 Use the canonical base, standard contact sheet, layout guide, approved four-cardinal strip, and `qa/look-mechanics.md`. Draw the complete eight-pose row as one coherent animation family, interpolating even 22.5-degree steps between the cardinal pose families. Keep the same pet identity, face construction, materials, palette, markings, and props. Each direction must read correctly at pet size and join continuously at the 000 and 180 boundaries.
 
@@ -204,9 +204,9 @@ Use a flat pure user-selected #00FF00 background. One complete unclipped pose pe
 
 ## review.md
 
-Create Codex pet row `review` for `la-signora`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `review` for `La-Signora`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -223,9 +223,9 @@ User-specific action: Six-frame inspection loop: hands remain low, head slightly
 
 ## running-left.md
 
-Create Codex pet row `running-left` for `la-signora`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running-left` for `La-Signora`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -244,9 +244,9 @@ User-specific action: Eight-frame independently drawn alternating small-step gai
 
 ## running-right.md
 
-Create Codex pet row `running-right` for `la-signora`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running-right` for `La-Signora`: exactly 8 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -265,9 +265,9 @@ User-specific action: Eight-frame alternating small-step gait toward SCREEN RIGH
 
 ## running.md
 
-Create Codex pet row `running` for `la-signora`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `running` for `La-Signora`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -284,9 +284,9 @@ User-specific action: Six-frame thoughtful work loop: gloved hand lightly at chi
 
 ## waiting.md
 
-Create Codex pet row `waiting` for `la-signora`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `waiting` for `La-Signora`: exactly 6 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -303,9 +303,9 @@ User-specific action: Six-frame quiet expectant loop: tiny head tilt, one gloved
 
 ## waving.md
 
-Create Codex pet row `waving` for `la-signora`: exactly 4 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
+Create Codex pet row `waving` for `La-Signora`: exactly 4 full-body frames in one horizontal strip on flat pure user-selected #00FF00.
 
-Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
+Use the attached canonical base for identity and the layout guide only for spacing. Same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, palette, material, proportions, markings, and props.
 
 Keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`.
 
@@ -322,13 +322,13 @@ User-specific action: Four poses: resting gloved hand, slowly raise hand, small 
 
 ## failed.md
 
-Create one horizontal animation strip for Codex pet `la-signora`, state `failed`.
+Create one horizontal animation strip for Codex pet `La-Signora`, state `failed`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 8 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -346,13 +346,13 @@ User-specific action: Eight-frame restrained reaction: visible eye lowers, smile
 
 ## idle.md
 
-Create one horizontal animation strip for Codex pet `la-signora`, state `idle`.
+Create one horizontal animation strip for Codex pet `La-Signora`, state `idle`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -374,13 +374,13 @@ User-specific action: Elegant relaxed hands below chest throughout; exposed eye 
 
 ## jumping.md
 
-Create one horizontal animation strip for Codex pet `la-signora`, state `jumping`.
+Create one horizontal animation strip for Codex pet `La-Signora`, state `jumping`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 5 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 5 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -398,7 +398,7 @@ User-specific action: Five distinct phases: slight preparation crouch, rise with
 
 ## look-row-10-repair.md
 
-Create a fresh coherent row of eight complete La Signora gaze poses. Preserve original design and body anchor; repair ONLY the direction family and source size from the rejected attempt.
+Create a fresh coherent row of eight complete La-Signora gaze poses. Preserve original design and body anchor; repair ONLY the direction family and source size from the rejected attempt.
 
 PRIMARY direction reference is attached single LEFT cardinal (mask-bearing cheek near viewer, nose and face plane pointing toward IMAGE LEFT). The approved cardinal strip defines down/left/up. Row9 is ONLY scale, body, cape and baseline reference; do NOT reuse its rightward heads.
 
@@ -420,7 +420,7 @@ Before returning, verify all six diagonals in this LEFT row have LEFT nose/facep
 
 ## look-row-10-size-edit.md
 
-EDIT the FIRST attached image (complete eight-pose La Signora LEFT-gaze row). It is the approved direction/character family. Preserve ALL eight poses, faces, eye directions, mask occlusion, hairstyles, clothes, ornaments, body proportions, colors, shading and linework exactly. Do not redraw or redesign heads. Other attached references are identity/layout safeguards only.
+EDIT the FIRST attached image (complete eight-pose La-Signora LEFT-gaze row). It is the approved direction/character family. Preserve ALL eight poses, faces, eye directions, mask occlusion, hairstyles, clothes, ornaments, body proportions, colors, shading and linework exactly. Do not redraw or redesign heads. Other attached references are identity/layout safeguards only.
 
 The ONLY change: uniformly reduce every complete figure to 95% of its current size, about5% smaller, keeping the canvas2171x724 and the same eight horizontal centers and foot baseline. This adds green clearance above the mask horns. Do NOT resize the canvas. Do NOT crop the figures. Use a common scale change for all eight, anchored at each figure's feet, and fill newly exposed pixels with the same flat pure #00FF00 background. The tallest complete figure should be approximately445pixels tall (including all horn tips and soles), rather than the current471pixels.
 
@@ -429,7 +429,7 @@ Maintain one coherent row of8fullbody figures in the exact same DOWNâ†’DOWNLEFTâ
 
 ## look-row-10.md
 
-Create one horizontal look-direction strip for Codex pet `la-signora`, atlas row 10.
+Create one horizontal look-direction strip for Codex pet `La-Signora`, atlas row 10.
 
 Use the attached canonical base, completed standard contact sheet, layout guide, and approved four-cardinal strip for identity, scale, registration, spacing, direction semantics, and cross-row continuity. Read `qa/look-mechanics.md` and follow its pet-specific movement and eye/prop mechanics. The approved cardinal strip and completed coherent row 9 are authoritative. Use the cardinals for direction meaning and row 9 for cross-row identity, scale, registration, and continuity.
 
@@ -466,12 +466,12 @@ PRE-RETURN CHECK: reject this result if it does not contain eight separated pose
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement/googly eyes, labels, degree text, arrows, clocks, grids, shadows, glows, scenery, detached effects, or chroma-key colors inside the pet.
 
-La Signora identity/occlusion lock: mask covers anatomical LEFT eye (viewer RIGHT in frontal pose) forever; only anatomical RIGHT grey-blue eye is visible. Never swap mask or show hidden eye. Keep original hairbow side, round face, blonde curls, earrings, white collar, black/red cape/dress. Moderate head yaw about30degrees combines with visible-eye/eyelid direction; do not turn wholebody. Mask follows skull, far-side features foreshorten naturally. For DOWN keep a narrow visible iris instead of fully closing eye. For UP clearly raise chin and iris above neutral. Rightward nose/face aim imageRIGHT, leftward aim imageLEFT, regardless of mask silhouette. Feet/waist/lowercape anchors fixed and alltips insideframe. No weapons/props/effects/shadows or designchanges.
+La-Signora identity/occlusion lock: mask covers anatomical LEFT eye (viewer RIGHT in frontal pose) forever; only anatomical RIGHT grey-blue eye is visible. Never swap mask or show hidden eye. Keep original hairbow side, round face, blonde curls, earrings, white collar, black/red cape/dress. Moderate head yaw about30degrees combines with visible-eye/eyelid direction; do not turn wholebody. Mask follows skull, far-side features foreshorten naturally. For DOWN keep a narrow visible iris instead of fully closing eye. For UP clearly raise chin and iris above neutral. Rightward nose/face aim imageRIGHT, leftward aim imageLEFT, regardless of mask silhouette. Feet/waist/lowercape anchors fixed and alltips insideframe. No weapons/props/effects/shadows or designchanges.
 
 
 ## look-row-9-right-repair.md
 
-Edit the attached complete eight-pose La Signora right-half gaze strip as one coherent family. Keep EXACT original canvas size, all eight full-body scales, feet baselines, costume, head proportions, hair, masked eye, cape and spacing. Redraw only natural head/neck/face/eye orientation to make the rightward gaze clearly readable. Do not mirror anything.
+Edit the attached complete eight-pose La-Signora right-half gaze strip as one coherent family. Keep EXACT original canvas size, all eight full-body scales, feet baselines, costume, head proportions, hair, masked eye, cape and spacing. Redraw only natural head/neck/face/eye orientation to make the rightward gaze clearly readable. Do not mirror anything.
 Eight poses left to right: UP; UP slightly RIGHT; UP-RIGHT; RIGHT slightly UP; RIGHT; RIGHT slightly DOWN; DOWN-RIGHT; DOWN slightly RIGHT. The fifth figure must unmistakably look toward the RIGHT EDGE OF THE IMAGE: head yaw about 35 degrees toward image right, nose tip pointing right, chin and mouth perspective following that turn, exposed grey-blue iris looking toward its eye aperture's RIGHT corner with more white visible on its LEFT. Retain the original anime eye construction and soft expression. Frame 5 must not look left or straight at viewer. Adjacent frames interpolate this rightward yaw smoothly with appropriate upward/downward pitch.
 The mask covers her anatomical LEFT eye, on the far side when she turns her face toward image right. The exposed anatomical RIGHT cheek/eye becomes the near-side face surface. Black mask stays attached to its original left face side, foreshortened naturally, never moved to the exposed eye. The head outline and nose direction must carry RIGHT orientation even when the visible eye is partly small. Do not use a whole-body lean to fake this turn.
 Body, planted feet and lower cape remain fixed. Keep source figure total heights no greater than the edit target (approximately 435-450 px); eight separated full-body groups with all mask spikes, blonde curls, cape, ornaments and shoes intact. Preserve the approved reference design, round face, pale blonde hair, white drawn fur, burgundy and black dress, fine linework. All eight poses must be redrawn together as one coherent row. No new props, no hidden eye revealed, no text, grid, effects or shadows. Flat pure #00FF00 background for deterministic extraction. Other references: approved original and canonical identity, spacing guide, standard-row contact, cardinal pose families, and completed left-half strip for continuity.
@@ -479,7 +479,7 @@ Body, planted feet and lower cape remain fixed. Keep source figure total heights
 
 ## look-row-9.md
 
-Create one horizontal look-direction strip for Codex pet `la-signora`, atlas row 9.
+Create one horizontal look-direction strip for Codex pet `La-Signora`, atlas row 9.
 
 Use the attached canonical base, completed standard contact sheet, layout guide, and approved four-cardinal strip for identity, scale, registration, spacing, direction semantics, and cross-row continuity. Read `qa/look-mechanics.md` and follow its pet-specific movement and eye/prop mechanics. The approved cardinal strip is authoritative for the up, screen-right, down, and screen-left pose families. Interpolate the intermediate directions as even 22.5-degree steps between those anchors.
 
@@ -516,18 +516,18 @@ PRE-RETURN CHECK: reject this result if it does not contain eight separated pose
 
 Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replacement/googly eyes, labels, degree text, arrows, clocks, grids, shadows, glows, scenery, detached effects, or chroma-key colors inside the pet.
 
-La Signora identity/occlusion lock: mask covers anatomical LEFT eye (viewer RIGHT in frontal pose) forever; only anatomical RIGHT grey-blue eye is visible. Never swap mask or show hidden eye. Keep original hairbow side, round face, blonde curls, earrings, white collar, black/red cape/dress. Moderate head yaw about30degrees combines with visible-eye/eyelid direction; do not turn wholebody. Mask follows skull, far-side features foreshorten naturally. For DOWN keep a narrow visible iris instead of fully closing eye. For UP clearly raise chin and iris above neutral. Rightward nose/face aim imageRIGHT, leftward aim imageLEFT, regardless of mask silhouette. Feet/waist/lowercape anchors fixed and alltips insideframe. No weapons/props/effects/shadows or designchanges.
+La-Signora identity/occlusion lock: mask covers anatomical LEFT eye (viewer RIGHT in frontal pose) forever; only anatomical RIGHT grey-blue eye is visible. Never swap mask or show hidden eye. Keep original hairbow side, round face, blonde curls, earrings, white collar, black/red cape/dress. Moderate head yaw about30degrees combines with visible-eye/eyelid direction; do not turn wholebody. Mask follows skull, far-side features foreshorten naturally. For DOWN keep a narrow visible iris instead of fully closing eye. For UP clearly raise chin and iris above neutral. Rightward nose/face aim imageRIGHT, leftward aim imageLEFT, regardless of mask silhouette. Feet/waist/lowercape anchors fixed and alltips insideframe. No weapons/props/effects/shadows or designchanges.
 
 
 ## review.md
 
-Create one horizontal animation strip for Codex pet `la-signora`, state `review`.
+Create one horizontal animation strip for Codex pet `La-Signora`, state `review`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -544,13 +544,13 @@ User-specific action: Six-frame inspection loop: hands remain low, head slightly
 
 ## running-left.md
 
-Create one horizontal animation strip for Codex pet `la-signora`, state `running-left`.
+Create one horizontal animation strip for Codex pet `La-Signora`, state `running-left`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 8 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -570,13 +570,13 @@ User-specific action: Eight-frame independently drawn alternating small-step gai
 
 ## running-right.md
 
-Create one horizontal animation strip for Codex pet `la-signora`, state `running-right`.
+Create one horizontal animation strip for Codex pet `La-Signora`, state `running-right`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 8 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -595,13 +595,13 @@ User-specific action: Eight-frame alternating small-step gait toward SCREEN RIGH
 
 ## running.md
 
-Create one horizontal animation strip for Codex pet `la-signora`, state `running`.
+Create one horizontal animation strip for Codex pet `La-Signora`, state `running`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -618,13 +618,13 @@ User-specific action: Six-frame thoughtful work loop: gloved hand lightly at chi
 
 ## waiting.md
 
-Create one horizontal animation strip for Codex pet `la-signora`, state `waiting`.
+Create one horizontal animation strip for Codex pet `La-Signora`, state `waiting`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -641,13 +641,13 @@ User-specific action: Six-frame quiet expectant loop: tiny head tilt, one gloved
 
 ## waving.md
 
-Create one horizontal animation strip for Codex pet `la-signora`, state `waving`.
+Create one horizontal animation strip for Codex pet `La-Signora`, state `waving`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 4 full-body frames in one left-to-right row on flat pure user-selected #00FF00. Treat the row as 4 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Use approved reference as ONLY design. La Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Use approved reference as ONLY design. La-Signora human form: pale blonde side-part curls, ornate black half-mask covering CHARACTER LEFT eye (viewer RIGHT in front view); ONLY character right grey-blue eye visible (viewer LEFT). Never swap mask side or reveal hidden eye. Viewer-left red-black hair bow and gold jewels. Black/red dress, white stylized fur shoulder collar, burgundy cape lining, gold trim, red jewels, black long gloves, dark shoes. Keep original round face, head-body proportions, proud gentle smile, cel-anime style. Empty hands, no weapons, no transformation. Generate left and right movement independently; never mirror. Complete mask tips/curls/cape/skirt/shoes with ample margins. No text, checkerboard, effects, shadow or props.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Fine Japanese chibi anime linework, soft cel color, restrained gradients, pale skin and blush, grey-blue anime visible eye; white collar drawn as simplified fur tufts, never plush photography or 3D. Preserve reference proportions and design; only neutral stance and framing may change..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 

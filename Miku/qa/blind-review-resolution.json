@@ -2,7 +2,7 @@
   "decision": "accept",
   "severity": "minor",
   "reviewed_by": "parent",
-  "independent_evidence": "miku_final_qa independently passed all16 direction semantics and visual QA",
+  "independent_evidence": "Miku_final_qa independently passed all16 direction semantics and visual QA",
   "failed_checks": [
     "horizontal-1 ambiguous337.5/022.5",
     "horizontal-5 opposite blind majority112.5/247.5",

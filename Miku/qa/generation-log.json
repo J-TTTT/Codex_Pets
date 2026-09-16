@@ -2,91 +2,91 @@
   {
     "id": "base",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3ee-3eff-7453-9f1a-7ac44e7f9c58\\exec-201ae478-49fa-4f1a-9cf5-1f4d773f103e.png",
+    "source_path": "artifacts/exec-201ae478-49fa-4f1a-9cf5-1f4d773f103e.png",
     "completed_at": "2026-09-15T07:20:19.0529774Z",
     "qa_note": "Approved reference design preserved, half-open teal eyes gentle smile, layered twin-tails, same clothes/proportions, relaxed hands down, full silhouette."
   },
   {
     "id": "idle",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3f0-68e6-7ca0-aa30-7a7aefa14115\\exec-b8501b7b-6c72-442e-b8a1-7839cbc444b3.png",
+    "source_path": "artifacts/exec-b8501b7b-6c72-442e-b8a1-7839cbc444b3.png",
     "completed_at": "2026-09-15T07:23:58.7038536Z",
     "qa_note": "Six idle frames, both hands down, restrained breathing blink hair sway, stable separated silhouettes."
   },
   {
     "id": "running-right",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3f0-b96a-7c81-85a4-81191e669795\\exec-508b7815-b79d-431f-b71f-31ab4db43fe6.png",
+    "source_path": "artifacts/exec-508b7815-b79d-431f-b71f-31ab4db43fe6.png",
     "completed_at": "2026-09-15T07:25:23.6347771Z",
     "qa_note": "8 correct right-facing alternating steps and stable silhouettes; precleanup key-edge color deferred to mandatory final despill and strict validator. Asymmetry precludes mirror."
   },
   {
     "id": "running-left",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3f5-1bf9-7463-a32e-dc8e19dde4c9\\exec-b498e849-cd70-406d-aa16-eb3dbc082444.png",
+    "source_path": "artifacts/exec-b498e849-cd70-406d-aa16-eb3dbc082444.png",
     "completed_at": "2026-09-15T07:32:31.3347099Z",
     "qa_note": "Corrected source selection from worker own generation result; eight screen-left alternating short steps, stable scale baseline, original asymmetry preserved."
   },
   {
     "id": "waving",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3f1-258e-7f31-b2a9-821658b0fbdf\\exec-5f2f24b8-5df0-4a27-b4f2-f0df42f877b0.png",
+    "source_path": "artifacts/exec-5f2f24b8-5df0-4a27-b4f2-f0df42f877b0.png",
     "completed_at": "2026-09-15T07:26:26.9152188Z",
     "qa_note": "Four soft wave poses down-raised-tilted-returning, half-open eyes calm smile, stable full silhouettes."
   },
   {
     "id": "jumping",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3f3-bf86-76d3-808d-e2e0b7cc7ce1\\exec-c9475ee2-b3ed-409a-8565-d7f2ac266d0f.png",
+    "source_path": "artifacts/exec-c9475ee2-b3ed-409a-8565-d7f2ac266d0f.png",
     "completed_at": "2026-09-15T07:27:03.0451422Z",
     "qa_note": "Five canonical Miku anticipation-lift-peak-descent-settle frames, full silhouettes, wide gutters and no effects."
   },
   {
     "id": "failed",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3fc-27e6-7ba1-b303-4b71b3254f5d\\exec-f63b228a-daa4-4405-a225-b8ef1b6d58d3.png",
+    "source_path": "artifacts/exec-f63b228a-daa4-4405-a225-b8ef1b6d58d3.png",
     "completed_at": "2026-09-15T07:37:12.6327653Z",
     "qa_note": "Eight restrained disappointed lowered-head/slight-slump poses, no tears/effects, same identity and complete separated twin-tails."
   },
   {
     "id": "waiting",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3fb-c39d-7be1-bcfe-b0c9c60928c7\\exec-cda75312-4ca0-4db2-9941-0d300e3e83d9.png",
+    "source_path": "artifacts/exec-cda75312-4ca0-4db2-9941-0d300e3e83d9.png",
     "completed_at": "2026-09-15T07:35:52.4300387Z",
     "qa_note": "Six complete separated waiting silhouettes, no hair overlap/crop. Source padding less than requested repair target but actual intact-gutter criterion holds; deterministic final sizing applies."
   },
   {
     "id": "running",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3f6-ba98-72e0-830d-d83dba8837f2\\exec-e66bf5b1-7172-49f9-a9fc-c6f15af2f4a1.png",
+    "source_path": "artifacts/exec-e66bf5b1-7172-49f9-a9fc-c6f15af2f4a1.png",
     "completed_at": "2026-09-15T07:32:22.9295817Z",
     "qa_note": "Six thinking hand-near-chin frames, small nod blink, planted feet and canonical identity."
   },
   {
     "id": "review",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a3fc-b9f2-7031-bf21-7beab52835f7\\exec-f61e8253-6a23-455f-97c7-4106664eb06f.png",
+    "source_path": "artifacts/exec-f61e8253-6a23-455f-97c7-4106664eb06f.png",
     "completed_at": "2026-09-15T07:38:25.5882747Z",
     "qa_note": "Six forward-lean scanning/blink/narrowed-eye review poses, no props, same approved design/style, complete separated silhouettes."
   },
   {
     "id": "look-cardinals",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a403-c0d9-72a2-a0fb-1b2c652b0559\\exec-4efa7f85-5830-4737-b367-0725823284a1.png",
+    "source_path": "artifacts/exec-4efa7f85-5830-4737-b367-0725823284a1.png",
     "completed_at": "2026-09-15T07:48:16.5616998Z",
     "qa_note": "Extraction passed; parent normal-size review confirms raised chin/eyes up, nose/visible pupils right, tucked chin/low eyes down, nose/pupil left with planted body."
   },
   {
     "id": "look-row-9",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a410-757d-7fa0-8bff-4464089ca146\\exec-eec30844-88a4-4b90-9d68-0799a62a16a8.png",
+    "source_path": "artifacts/exec-eec30844-88a4-4b90-9d68-0799a62a16a8.png",
     "completed_at": "2026-09-15T08:03:00.389337Z",
     "qa_note": "Repaired source has intact separated poses; registered8cells pass geometry and labeled direction/continuity review, subtle near-down horizontal cue noted."
   },
   {
     "id": "look-row-10",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a426-7ba7-7bd0-a48d-7505c8263d11\\exec-df719ef5-3dd5-45f2-8cbb-a94b3d247b2e.png",
+    "source_path": "artifacts/exec-df719ef5-3dd5-45f2-8cbb-a94b3d247b2e.png",
     "completed_at": "2026-09-15T08:25:21.5607418Z",
     "qa_note": "In-place row9 grounded edit solved scale failure. Immutable scale assembly and cell-edge gates passed. Parent registered-cell review confirms down to left to up-left sequence, complete silhouettes, planted boots, coherent size; near-vertical horizontal cues subtle."
   }

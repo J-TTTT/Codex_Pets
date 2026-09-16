@@ -1,7 +1,7 @@
 {
-  "pet_id": "arlecchino",
+  "pet_id": "Arlecchino",
   "display_name": "Arlecchino",
-  "description": "\u6c89\u9759\u53ef\u9760\u3001\u94f6\u9ed1\u53d1\u8272\u4e0e\u7ea2\u8272\u53c9\u5f62\u77b3\u5b54\u7684\u4e8c\u6b21\u5143 Q \u7248\u667a\u80fd\u62cd\u6863\u3002.",
+  "description": "沉静可靠、银黑发色与红色叉形瞳孔的二次元 Q 版智能拍档。.",
   "created_at": "2026-09-16T09:16:49.448002+00:00",
   "sprite_version_number": 2,
   "atlas": {
@@ -248,13 +248,13 @@
   ],
   "references": [
     {
-      "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\references\\reference-01.png",
+      "path": "work/Arlecchino/references/reference-01.png",
       "width": 1144,
       "height": 1375,
       "mode": "RGB",
       "format": "PNG",
-      "source_path": "C:\\Users\\56180\\AppData\\Local\\Temp\\codex-clipboard-c7164b2e-3d73-4f70-a103-8e34c04a2e9f.png",
-      "copied_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino\\references\\reference-01.png"
+      "source_path": "artifacts/codex-clipboard-c7164b2e-3d73-4f70-a103-8e34c04a2e9f.png",
+      "copied_path": "work/Arlecchino/references/reference-01.png"
     }
   ],
   "chroma_key": {

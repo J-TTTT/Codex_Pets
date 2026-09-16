@@ -1,6 +1,6 @@
 {
   "visual_qa": "pass",
-  "reviewed_by": "independent arlecchino_final_qa",
+  "reviewed_by": "independent Arlecchino_final_qa",
   "evidence": "Extended contact sheet and native direction pages show consistent Arlecchino identity, silver-black hair, red X eyes, black hands with red tips, outfit, props, complete silhouettes, clean transparency, correct standard row semantics, and all 16 ordered gazes. Cardinal directions are readable and the ordered loop has no visible identity change, reversal, crop, or face warp. Alpha gaps at y181-189 are intentional negative spaces between boots and coat tails.",
   "warnings": [
     "Continuity metrics show accepted pose-driven boundary outliers at 157.5->180 and 337.5->000; native-size review shows no conspicuous snap or pop.",

@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames",
+  "frames_root": "work/La-Signora/frames",
   "states": [
     "idle",
     "running-right",
@@ -26,7 +26,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\idle\\00.png",
+          "file": "work/La-Signora/frames/idle/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16865,
@@ -41,7 +41,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\idle\\01.png",
+          "file": "work/La-Signora/frames/idle/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16416,
@@ -56,7 +56,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\idle\\02.png",
+          "file": "work/La-Signora/frames/idle/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16620,
@@ -71,7 +71,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\idle\\03.png",
+          "file": "work/La-Signora/frames/idle/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16547,
@@ -86,7 +86,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\idle\\04.png",
+          "file": "work/La-Signora/frames/idle/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16875,
@@ -101,7 +101,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\idle\\05.png",
+          "file": "work/La-Signora/frames/idle/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16670,
@@ -127,7 +127,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-right\\00.png",
+          "file": "work/La-Signora/frames/running-right/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15068,
@@ -142,7 +142,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-right\\01.png",
+          "file": "work/La-Signora/frames/running-right/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15048,
@@ -157,7 +157,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-right\\02.png",
+          "file": "work/La-Signora/frames/running-right/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15345,
@@ -172,7 +172,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-right\\03.png",
+          "file": "work/La-Signora/frames/running-right/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14976,
@@ -187,7 +187,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-right\\04.png",
+          "file": "work/La-Signora/frames/running-right/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14922,
@@ -202,7 +202,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-right\\05.png",
+          "file": "work/La-Signora/frames/running-right/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15076,
@@ -217,7 +217,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-right\\06.png",
+          "file": "work/La-Signora/frames/running-right/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14803,
@@ -232,7 +232,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-right\\07.png",
+          "file": "work/La-Signora/frames/running-right/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14819,
@@ -258,7 +258,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-left\\00.png",
+          "file": "work/La-Signora/frames/running-left/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16286,
@@ -273,7 +273,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-left\\01.png",
+          "file": "work/La-Signora/frames/running-left/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14633,
@@ -288,7 +288,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-left\\02.png",
+          "file": "work/La-Signora/frames/running-left/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15782,
@@ -303,7 +303,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-left\\03.png",
+          "file": "work/La-Signora/frames/running-left/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15021,
@@ -318,7 +318,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-left\\04.png",
+          "file": "work/La-Signora/frames/running-left/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15859,
@@ -333,7 +333,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-left\\05.png",
+          "file": "work/La-Signora/frames/running-left/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14527,
@@ -348,7 +348,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-left\\06.png",
+          "file": "work/La-Signora/frames/running-left/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15623,
@@ -363,7 +363,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running-left\\07.png",
+          "file": "work/La-Signora/frames/running-left/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14374,
@@ -389,7 +389,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waving\\00.png",
+          "file": "work/La-Signora/frames/waving/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17695,
@@ -404,7 +404,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waving\\01.png",
+          "file": "work/La-Signora/frames/waving/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17666,
@@ -419,7 +419,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waving\\02.png",
+          "file": "work/La-Signora/frames/waving/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17219,
@@ -434,7 +434,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waving\\03.png",
+          "file": "work/La-Signora/frames/waving/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17575,
@@ -460,7 +460,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\jumping\\00.png",
+          "file": "work/La-Signora/frames/jumping/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22889,
@@ -475,7 +475,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\jumping\\01.png",
+          "file": "work/La-Signora/frames/jumping/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19781,
@@ -490,7 +490,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\jumping\\02.png",
+          "file": "work/La-Signora/frames/jumping/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20098,
@@ -505,7 +505,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\jumping\\03.png",
+          "file": "work/La-Signora/frames/jumping/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18498,
@@ -520,7 +520,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\jumping\\04.png",
+          "file": "work/La-Signora/frames/jumping/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20892,
@@ -546,7 +546,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\failed\\00.png",
+          "file": "work/La-Signora/frames/failed/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15969,
@@ -561,7 +561,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\failed\\01.png",
+          "file": "work/La-Signora/frames/failed/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15864,
@@ -576,7 +576,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\failed\\02.png",
+          "file": "work/La-Signora/frames/failed/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15875,
@@ -591,7 +591,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\failed\\03.png",
+          "file": "work/La-Signora/frames/failed/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16152,
@@ -606,7 +606,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\failed\\04.png",
+          "file": "work/La-Signora/frames/failed/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17343,
@@ -621,7 +621,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\failed\\05.png",
+          "file": "work/La-Signora/frames/failed/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16610,
@@ -636,7 +636,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\failed\\06.png",
+          "file": "work/La-Signora/frames/failed/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16070,
@@ -651,7 +651,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\failed\\07.png",
+          "file": "work/La-Signora/frames/failed/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16051,
@@ -677,7 +677,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waiting\\00.png",
+          "file": "work/La-Signora/frames/waiting/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17454,
@@ -692,7 +692,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waiting\\01.png",
+          "file": "work/La-Signora/frames/waiting/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16743,
@@ -707,7 +707,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waiting\\02.png",
+          "file": "work/La-Signora/frames/waiting/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16318,
@@ -722,7 +722,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waiting\\03.png",
+          "file": "work/La-Signora/frames/waiting/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16541,
@@ -737,7 +737,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waiting\\04.png",
+          "file": "work/La-Signora/frames/waiting/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16347,
@@ -752,7 +752,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\waiting\\05.png",
+          "file": "work/La-Signora/frames/waiting/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16717,
@@ -778,7 +778,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running\\00.png",
+          "file": "work/La-Signora/frames/running/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17761,
@@ -793,7 +793,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running\\01.png",
+          "file": "work/La-Signora/frames/running/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17556,
@@ -808,7 +808,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running\\02.png",
+          "file": "work/La-Signora/frames/running/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17695,
@@ -823,7 +823,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running\\03.png",
+          "file": "work/La-Signora/frames/running/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17649,
@@ -838,7 +838,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running\\04.png",
+          "file": "work/La-Signora/frames/running/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17676,
@@ -853,7 +853,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\running\\05.png",
+          "file": "work/La-Signora/frames/running/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17545,
@@ -879,7 +879,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\review\\00.png",
+          "file": "work/La-Signora/frames/review/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17159,
@@ -894,7 +894,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\review\\01.png",
+          "file": "work/La-Signora/frames/review/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16564,
@@ -909,7 +909,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\review\\02.png",
+          "file": "work/La-Signora/frames/review/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16638,
@@ -924,7 +924,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\review\\03.png",
+          "file": "work/La-Signora/frames/review/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16706,
@@ -939,7 +939,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\review\\04.png",
+          "file": "work/La-Signora/frames/review/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17237,
@@ -954,7 +954,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\la-signora\\frames\\review\\05.png",
+          "file": "work/La-Signora/frames/review/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17411,

@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames",
+  "frames_root": "work/Raiden-Shogun/frames",
   "states": [
     "idle",
     "running-right",
@@ -26,7 +26,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\idle\\00.png",
+          "file": "work/Raiden-Shogun/frames/idle/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16321,
@@ -41,7 +41,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\idle\\01.png",
+          "file": "work/Raiden-Shogun/frames/idle/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17125,
@@ -56,7 +56,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\idle\\02.png",
+          "file": "work/Raiden-Shogun/frames/idle/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17227,
@@ -71,7 +71,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\idle\\03.png",
+          "file": "work/Raiden-Shogun/frames/idle/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16816,
@@ -86,7 +86,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\idle\\04.png",
+          "file": "work/Raiden-Shogun/frames/idle/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17192,
@@ -101,7 +101,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\idle\\05.png",
+          "file": "work/Raiden-Shogun/frames/idle/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16500,
@@ -127,7 +127,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-right\\00.png",
+          "file": "work/Raiden-Shogun/frames/running-right/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16550,
@@ -142,7 +142,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-right\\01.png",
+          "file": "work/Raiden-Shogun/frames/running-right/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16409,
@@ -157,7 +157,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-right\\02.png",
+          "file": "work/Raiden-Shogun/frames/running-right/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16913,
@@ -172,7 +172,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-right\\03.png",
+          "file": "work/Raiden-Shogun/frames/running-right/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16887,
@@ -187,7 +187,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-right\\04.png",
+          "file": "work/Raiden-Shogun/frames/running-right/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16892,
@@ -202,7 +202,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-right\\05.png",
+          "file": "work/Raiden-Shogun/frames/running-right/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17061,
@@ -217,7 +217,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-right\\06.png",
+          "file": "work/Raiden-Shogun/frames/running-right/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16561,
@@ -232,7 +232,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-right\\07.png",
+          "file": "work/Raiden-Shogun/frames/running-right/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17260,
@@ -258,7 +258,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-left\\00.png",
+          "file": "work/Raiden-Shogun/frames/running-left/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16936,
@@ -273,7 +273,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-left\\01.png",
+          "file": "work/Raiden-Shogun/frames/running-left/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16074,
@@ -288,7 +288,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-left\\02.png",
+          "file": "work/Raiden-Shogun/frames/running-left/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16530,
@@ -303,7 +303,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-left\\03.png",
+          "file": "work/Raiden-Shogun/frames/running-left/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15721,
@@ -318,7 +318,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-left\\04.png",
+          "file": "work/Raiden-Shogun/frames/running-left/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16595,
@@ -333,7 +333,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-left\\05.png",
+          "file": "work/Raiden-Shogun/frames/running-left/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15658,
@@ -348,7 +348,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-left\\06.png",
+          "file": "work/Raiden-Shogun/frames/running-left/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15872,
@@ -363,7 +363,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running-left\\07.png",
+          "file": "work/Raiden-Shogun/frames/running-left/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16549,
@@ -389,7 +389,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waving\\00.png",
+          "file": "work/Raiden-Shogun/frames/waving/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16748,
@@ -404,7 +404,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waving\\01.png",
+          "file": "work/Raiden-Shogun/frames/waving/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16652,
@@ -419,7 +419,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waving\\02.png",
+          "file": "work/Raiden-Shogun/frames/waving/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16809,
@@ -434,7 +434,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waving\\03.png",
+          "file": "work/Raiden-Shogun/frames/waving/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16921,
@@ -460,7 +460,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\jumping\\00.png",
+          "file": "work/Raiden-Shogun/frames/jumping/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22616,
@@ -475,7 +475,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\jumping\\01.png",
+          "file": "work/Raiden-Shogun/frames/jumping/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18564,
@@ -490,7 +490,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\jumping\\02.png",
+          "file": "work/Raiden-Shogun/frames/jumping/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20290,
@@ -505,7 +505,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\jumping\\03.png",
+          "file": "work/Raiden-Shogun/frames/jumping/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20148,
@@ -520,7 +520,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\jumping\\04.png",
+          "file": "work/Raiden-Shogun/frames/jumping/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22390,
@@ -546,7 +546,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\failed\\00.png",
+          "file": "work/Raiden-Shogun/frames/failed/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16216,
@@ -561,7 +561,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\failed\\01.png",
+          "file": "work/Raiden-Shogun/frames/failed/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16513,
@@ -576,7 +576,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\failed\\02.png",
+          "file": "work/Raiden-Shogun/frames/failed/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16426,
@@ -591,7 +591,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\failed\\03.png",
+          "file": "work/Raiden-Shogun/frames/failed/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16754,
@@ -606,7 +606,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\failed\\04.png",
+          "file": "work/Raiden-Shogun/frames/failed/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16215,
@@ -621,7 +621,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\failed\\05.png",
+          "file": "work/Raiden-Shogun/frames/failed/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16590,
@@ -636,7 +636,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\failed\\06.png",
+          "file": "work/Raiden-Shogun/frames/failed/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16566,
@@ -651,7 +651,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\failed\\07.png",
+          "file": "work/Raiden-Shogun/frames/failed/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16260,
@@ -677,7 +677,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waiting\\00.png",
+          "file": "work/Raiden-Shogun/frames/waiting/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15848,
@@ -692,7 +692,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waiting\\01.png",
+          "file": "work/Raiden-Shogun/frames/waiting/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16191,
@@ -707,7 +707,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waiting\\02.png",
+          "file": "work/Raiden-Shogun/frames/waiting/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16199,
@@ -722,7 +722,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waiting\\03.png",
+          "file": "work/Raiden-Shogun/frames/waiting/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16048,
@@ -737,7 +737,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waiting\\04.png",
+          "file": "work/Raiden-Shogun/frames/waiting/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16130,
@@ -752,7 +752,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\waiting\\05.png",
+          "file": "work/Raiden-Shogun/frames/waiting/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15717,
@@ -778,7 +778,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running\\00.png",
+          "file": "work/Raiden-Shogun/frames/running/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17061,
@@ -793,7 +793,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running\\01.png",
+          "file": "work/Raiden-Shogun/frames/running/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17237,
@@ -808,7 +808,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running\\02.png",
+          "file": "work/Raiden-Shogun/frames/running/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17349,
@@ -823,7 +823,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running\\03.png",
+          "file": "work/Raiden-Shogun/frames/running/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17198,
@@ -838,7 +838,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running\\04.png",
+          "file": "work/Raiden-Shogun/frames/running/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17264,
@@ -853,7 +853,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\running\\05.png",
+          "file": "work/Raiden-Shogun/frames/running/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17021,
@@ -879,7 +879,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\review\\00.png",
+          "file": "work/Raiden-Shogun/frames/review/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16340,
@@ -894,7 +894,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\review\\01.png",
+          "file": "work/Raiden-Shogun/frames/review/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16439,
@@ -909,7 +909,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\review\\02.png",
+          "file": "work/Raiden-Shogun/frames/review/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16170,
@@ -924,7 +924,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\review\\03.png",
+          "file": "work/Raiden-Shogun/frames/review/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16311,
@@ -939,7 +939,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\review\\04.png",
+          "file": "work/Raiden-Shogun/frames/review/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16608,
@@ -954,7 +954,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\frames\\review\\05.png",
+          "file": "work/Raiden-Shogun/frames/review/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16193,

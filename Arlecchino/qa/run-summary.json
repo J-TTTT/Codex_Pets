@@ -1,11 +1,11 @@
 {
   "ok": true,
   "spriteVersionNumber": 2,
-  "package": "C:\\Users\\56180\\.codex\\pets\\arlecchino",
+  "package": "Arlecchino",
   "installed_at": "2026-09-16T10:20:16.0148548Z",
   "hash_verified": true,
   "spritesheet_sha256": "CA8AA7A2FDCC39F0FBB03C6CE0090D8EF85127CE6323E01314CD8C57EDBA2278",
-  "run_dir": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino",
+  "run_dir": "artifacts/Arlecchino",
   "spritesheet": "final/spritesheet-extended.webp",
   "validation": "final/validation-extended.json",
   "chroma_despill": "qa/chroma-despill-extended.json",

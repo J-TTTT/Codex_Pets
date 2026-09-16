@@ -1,7 +1,7 @@
 {
-  "pet_id": "raiden-shogun",
-  "display_name": "Raiden_Shogun",
-  "description": "\u6c89\u9759\u6e29\u67d4\u3001\u7d2b\u8272\u957f\u8fab\u7684\u4e8c\u6b21\u5143 Q \u7248\u667a\u80fd\u62cd\u6863\u3002.",
+  "pet_id": "Raiden-Shogun",
+  "display_name": "Raiden-Shogun",
+  "description": "沉静温柔、紫色长辫的二次元 Q 版智能拍档。.",
   "created_at": "2026-09-16T02:30:38.670721+00:00",
   "sprite_version_number": 2,
   "atlas": {
@@ -248,13 +248,13 @@
   ],
   "references": [
     {
-      "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\references\\reference-01.png",
+      "path": "work/Raiden-Shogun/references/reference-01.png",
       "width": 1144,
       "height": 1375,
       "mode": "RGB",
       "format": "PNG",
-      "source_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-reference.png",
-      "copied_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun\\references\\reference-01.png"
+      "source_path": "artifacts/raiden-reference.png",
+      "copied_path": "work/Raiden-Shogun/references/reference-01.png"
     }
   ],
   "chroma_key": {
@@ -267,7 +267,7 @@
     "name": "user-selected",
     "selection": "manual"
   },
-  "pet_notes": "Use the supplied approved Raiden Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.",
+  "pet_notes": "Use the supplied approved Raiden-Shogun image as sole identity authority. Purple bangs and side locks, one thick long purple braid connected behind head and curving down viewer-left in front view, purple flower and gold ornament on viewer-left, light/deep-purple Japanese clothing, red knots, gold details, dark-purple stockings and sandals. Preserve asymmetric flower, braid, shoulder/outfit relationships under natural occlusion in turns. Empty hands; NO weapons/props. Full head ornament, braid end, sleeves and feet inside every frame. Quiet restrained motion. Idle hands down with gentle visible breath/blink. No effects, symbols, shadows or baked checkerboard. Generate left run separately, never mirror.",
   "style_preset": "auto",
   "style_notes": "Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign.",
   "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exact approved reference anime illustration. Clean fine linework, soft cel shading, subtle gradients and hair highlights. Preserve rounded face, purple anime eyes, blush, gentle small smile, exact head/body proportions. No plush, realistic3D, plastic or redesign..",

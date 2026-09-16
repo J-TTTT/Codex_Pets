@@ -4,6 +4,6 @@
     "Precleanup chroma fringe excluded from visual scope"
   ],
   "visual_qa": "pass",
-  "reviewed_by": "independent arlecchino_standard_qa",
+  "reviewed_by": "independent Arlecchino_standard_qa",
   "repair_rows": []
 }

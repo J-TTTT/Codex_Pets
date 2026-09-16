@@ -3,7 +3,7 @@
     "id": "base",
     "kind": "base-pet",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a981-8a2e-7660-8c84-2938c29e4309\\exec-6e58813e-1df5-4ce8-8081-1a8a7e690140.png",
+    "source_path": "artifacts/exec-6e58813e-1df5-4ce8-8081-1a8a7e690140.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:19:29.1688666Z",
     "qa_note": "Fullbody centered with generouspadding, correctsilverblackhair/redXpupils, referenceoutfit, relaxedemptyhands, puregreenbackground."
@@ -12,7 +12,7 @@
     "id": "idle",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a983-e2e6-7761-9eda-751ceb4b20be\\exec-b85122ef-5514-45cb-b290-672070e6b493.png",
+    "source_path": "artifacts/exec-b85122ef-5514-45cb-b290-672070e6b493.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:22:36.7871623Z",
     "qa_note": "6fullbodyframes, canonicalsilverblackhair/redXpupils/outfitproportions, relaxedemptyhands, subtlebreathblink, fullsafeedges, no effects."
@@ -21,7 +21,7 @@
     "id": "running-right",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a984-27da-7703-a9f4-1a7812ef9449\\exec-e3a53707-177a-4311-af84-b3dae5543bda.png",
+    "source_path": "artifacts/exec-e3a53707-177a-4311-af84-b3dae5543bda.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:24:19.3174686Z",
     "qa_note": "8completefullbodyrightfacingposes alternate shortstrides, canonicalhair/redXpupils/outfitproportions, fullsafeedges andpuregreen."
@@ -30,7 +30,7 @@
     "id": "running-left",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a987-255b-7100-b5a9-ee6dec2123ff\\exec-f248e2c2-8cde-4d58-830d-191d72dfecf9.png",
+    "source_path": "artifacts/exec-f248e2c2-8cde-4d58-830d-191d72dfecf9.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:28:30.9922198Z",
     "qa_note": "8completeleftfacingposes alternatingstrides, consistentidentity/proportions/redXpupils, connectedhair/outfit, safeedges/no effects; independentlygenerated."
@@ -39,7 +39,7 @@
     "id": "waving",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a984-6de8-7de0-93ab-c43160b4e236\\exec-8524f64e-551b-4208-a18f-03ec354ba7ad.png",
+    "source_path": "artifacts/exec-8524f64e-551b-4208-a18f-03ec354ba7ad.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:24:22.37063Z",
     "qa_note": "4completeposes, smallblackhandwave/redtips, faintsmile/slightnod, consistentcanonicalhair/eyes/outfit, safeedges/no effects."
@@ -48,7 +48,7 @@
     "id": "jumping",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a986-16da-75e0-9122-4d84cb397a85\\exec-28c4a53e-6472-40aa-9fd4-a950ada7d622.png",
+    "source_path": "artifacts/exec-28c4a53e-6472-40aa-9fd4-a950ada7d622.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:27:35.5730042Z",
     "qa_note": "5completeposes anticipation/rise/apex/descent/landing, fixedscale actualverticalchange, preservedhair/redXpupils, greenbackground/fullsafeedges."
@@ -57,9 +57,9 @@
     "id": "failed",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a994-e8fb-7e11-8ca0-6198fb562364\\exec-cca5bffa-42e7-413c-8b33-e2bf6ba6f7dd.png",
+    "source_path": "artifacts/exec-cca5bffa-42e7-413c-8b33-e2bf6ba6f7dd.png",
     "rejected_sources": [
-      "C:\\Users\\56180\\.codex\\generated_images\\01a0a98b-6877-7d91-80d4-6ff4e492332f\\exec-f99ca6d1-ccab-4bea-8f88-58aae76b4db1.png"
+      "artifacts/exec-f99ca6d1-ccab-4bea-8f88-58aae76b4db1.png"
     ],
     "completed_at": "2026-09-16T09:42:20.934806Z",
     "qa_note": "Spacing-only repair8figures separatedpuregreen gutters/alltips safenoouterclip, preservedreferenceidentity and restrainedreaction."
@@ -68,7 +68,7 @@
     "id": "waiting",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a987-9f79-7c61-9277-ab9515fb6aaa\\exec-2f44184e-d06a-432e-9bb2-10e608af6895.png",
+    "source_path": "artifacts/exec-2f44184e-d06a-432e-9bb2-10e608af6895.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:27:38.7749028Z",
     "qa_note": "6completeevenlyspacedposes, consistentidentity, slightheadtilt/palmupasking, stableedges/flatgreen."
@@ -77,9 +77,9 @@
     "id": "running",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a994-933f-7392-8887-0387ddb5dda0\\exec-f3769826-576d-4b81-9fd8-186e1c58cd48.png",
+    "source_path": "artifacts/exec-f3769826-576d-4b81-9fd8-186e1c58cd48.png",
     "rejected_sources": [
-      "C:\\Users\\56180\\.codex\\generated_images\\01a0a98a-0285-7d10-bf30-4bda316dfeb1\\exec-8195642a-d4fe-4ee7-9e95-802ada8a4d5a.png"
+      "artifacts/exec-8195642a-d4fe-4ee7-9e95-802ada8a4d5a.png"
     ],
     "completed_at": "2026-09-16T09:41:08.653873Z",
     "qa_note": "Spacing-only repair6figures visiblyseparatedpuregreen gutters/alltips safe, equalfootbaselines; originaldesignandthinkingposes preserved."
@@ -88,7 +88,7 @@
     "id": "review",
     "kind": "row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a98a-5283-7a70-b2a9-228d719c53d5\\exec-b68b0205-b916-405c-87fb-73d86fef992c.png",
+    "source_path": "artifacts/exec-b68b0205-b916-405c-87fb-73d86fef992c.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:36:36.9912227Z",
     "qa_note": "6completeposes forwardfocusedscan/smallnod lowhands, correcthair/redXeyes/outfitproportions, safeedges uniformgreen."
@@ -97,7 +97,7 @@
     "id": "look-cardinals",
     "kind": "look-cardinal-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a99d-8364-7e53-a44d-2aab0aa29746\\exec-e9a361e8-3412-4157-8cd8-8631cf376b9c.png",
+    "source_path": "artifacts/exec-e9a361e8-3412-4157-8cd8-8631cf376b9c.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:54:04.0516538Z",
     "qa_note": "Geometrypass; parentnativecardinalnose/face/pupilsemantics pass UP RIGHT DOWN LEFT. Optionalpilot mislabeledhorizontal sides; preservedwarningforfinal3blindgate."
@@ -106,7 +106,7 @@
     "id": "look-row-9",
     "kind": "look-row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9a3-9c16-7ab1-a02f-17f59c3c1101\\exec-e29baed4-c19f-4b23-8b37-18bc7ab85a9d.png",
+    "source_path": "artifacts/exec-e29baed4-c19f-4b23-8b37-18bc7ab85a9d.png",
     "rejected_sources": null,
     "completed_at": "2026-09-16T09:58:38.6845037Z",
     "qa_note": "Registered8coherentposes scale0.4125 edgepass; parentnative rightarc/eyes/hair/identity/continuitypass."
@@ -115,9 +115,9 @@
     "id": "look-row-10",
     "kind": "look-row-strip",
     "status": "complete",
-    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9ac-6c64-7f43-9c89-b218dcaafb04\\exec-3fa51b2c-c931-4b1f-8913-581c43d34338.png",
+    "source_path": "artifacts/exec-3fa51b2c-c931-4b1f-8913-581c43d34338.png",
     "rejected_sources": [
-      "C:\\Users\\56180\\.codex\\generated_images\\01a0a9a7-ba70-7422-8c17-5801f7a79b25\\exec-0ca5999f-7db6-49b9-b1fb-cc4ebd65e583.png"
+      "artifacts/exec-0ca5999f-7db6-49b9-b1fb-cc4ebd65e583.png"
     ],
     "completed_at": "2026-09-16T10:12:47.7310404Z",
     "qa_note": "Whole-strip sizeedit passedimmutable0.4125registration; independentnativegeometry/semanticreview acceptsminorpose-drivenboundarydifferences, no conspicuouspop/snap/identitychange."

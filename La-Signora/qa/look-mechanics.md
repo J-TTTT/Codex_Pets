@@ -1,4 +1,4 @@
-# La Signora — natural gaze mechanics
+# La-Signora — natural gaze mechanics
 
 ## Identity and anchor
 

@@ -1,11 +1,11 @@
 {
   "ok": true,
   "spriteVersionNumber": 2,
-  "package": "C:\\Users\\56180\\.codex\\pets\\miku",
+  "package": "Miku",
   "installed_at": "2026-09-15T08:34:40.1664525Z",
   "hash_verified": true,
   "spritesheet_sha256": "9657F53876B53CA53DB959C62851462F70CC08D5699DBD270C69EB5770477D01",
-  "run_dir": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\miku",
+  "run_dir": "artifacts/Miku",
   "spritesheet": "final/spritesheet-extended.webp",
   "validation": "final/validation-extended.json",
   "chroma_despill": "qa/chroma-despill-extended.json",

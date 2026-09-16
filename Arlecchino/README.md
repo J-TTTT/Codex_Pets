@@ -1,18 +1,18 @@
 # Arlecchino
 
-以已确认的《原神》仆人 Q 版参考图为唯一形象依据，保留银白与黑色相间的层次发型、红色叉形瞳孔、黑白灰礼服与深红点缀、黑色手部和红色指尖。动作冷静、克制、轻巧，双手空着，始终保持人形。
+以已确认的《原神》Arlecchino Q 版参考图为唯一形象依据，保留银白与黑色相间的层次发型、红色叉形瞳孔、黑白灰礼服与深红点缀、黑色手部和红色指尖。动作冷静、克制、轻巧，双手空着，始终保持人形。
 
 ## 安装与选择
 
 将 pet.json 和 spritesheet.webp 放在同一角色文件夹中：
 
 ~~~text
-~/.codex/pets/arlecchino/
+~/.codex/pets/Arlecchino/
 ├── pet.json
 └── spritesheet.webp
 ~~~
 
-Windows 默认目录为 %USERPROFILE%\.codex\pets\arlecchino；设置了 CODEX_HOME 时，使用其下的 pets/arlecchino。
+Windows 默认目录为 %USERPROFILE%\.codex\pets\Arlecchino；设置了 CODEX_HOME 时，使用其下的 pets/Arlecchino。
 
 打开 Codex **设置 → 智能拍档 / Pets → 刷新 / Refresh**，选择 **Arlecchino**。在输入框输入 /pet 或从命令菜单选择 **Show pet** 显示拍档。[官方操作说明](https://learn.chatgpt.com/docs/pets?surface=app)
 

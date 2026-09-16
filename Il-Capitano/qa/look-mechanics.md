@@ -1,4 +1,4 @@
-Il Capitano: eyeless rigid helmet mechanics.
+Il-Capitano: eyeless rigid helmet mechanics.
 Stable grounded boots, pelvis and lower cape. The rigid helmet leads attention through neck yaw/pitch, shoulders follow only subtly. Collar remains attached and thick; longhair follows behind skull in a short weighted arc; chains remain anchored to originalhelmet/torsofasteners withsmallgravitylag. NO facialfeatures, eyes, glows orcutouts; blackfaceinterior ALWAYS opaque.
 UP: helmetfrontaxis and pointedlowerbeak tip lift towardTOP, lowerchin/undersideplane becomes morevisible, crown/topplane lessvisible, loweredge opens gapabovefur naturally, neckfollowswithoutelongation.
 DOWN: centralcrest/frontaxis tiltDOWN, topcrownplane morevisible, pointedfrontbeak approaches/overlapsupperfur, undersideplane lessvisible. Maintainopeninggeometry rigid perspective, notstretch/morph.

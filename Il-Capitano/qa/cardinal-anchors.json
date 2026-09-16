@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "strip": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\decoded\\look-cardinals.png",
+  "strip": "work/Il-Capitano/decoded/look-cardinals.png",
   "directions": [
     "000",
     "090",
@@ -19,7 +19,7 @@
       ],
       "used_pixels": 183502,
       "edge_pixels": 0,
-      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\decoded\\look-anchors\\000.png"
+      "output": "work/Il-Capitano/decoded/look-anchors/000.png"
     },
     {
       "direction": "090",
@@ -31,7 +31,7 @@
       ],
       "used_pixels": 176206,
       "edge_pixels": 0,
-      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\decoded\\look-anchors\\090.png"
+      "output": "work/Il-Capitano/decoded/look-anchors/090.png"
     },
     {
       "direction": "180",
@@ -43,7 +43,7 @@
       ],
       "used_pixels": 187575,
       "edge_pixels": 0,
-      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\decoded\\look-anchors\\180.png"
+      "output": "work/Il-Capitano/decoded/look-anchors/180.png"
     },
     {
       "direction": "270",
@@ -55,7 +55,7 @@
       ],
       "used_pixels": 173505,
       "edge_pixels": 0,
-      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano\\decoded\\look-anchors\\270.png"
+      "output": "work/Il-Capitano/decoded/look-anchors/270.png"
     }
   ]
 }

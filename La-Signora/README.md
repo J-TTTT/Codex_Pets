@@ -1,20 +1,20 @@
-# La Signora
+# La-Signora
 
-以用户确认的女士 Q 版参考图为唯一形象依据，保留浅金卷发、黑色华丽半面面具、灰蓝色可见眼睛、白色毛领与黑红礼服。动作从容、优雅、克制，双手空着，始终保持人形。
+以用户确认的La-Signora Q 版参考图为唯一形象依据，保留浅金卷发、黑色华丽半面面具、灰蓝色可见眼睛、白色毛领与黑红礼服。动作从容、优雅、克制，双手空着，始终保持人形。
 
 ## 安装与选择
 
 将 `pet.json` 和 `spritesheet.webp` 放在同一角色文件夹中：
 
 ```text
-~/.codex/pets/la-signora/
+~/.codex/pets/La-Signora/
 ├── pet.json
 └── spritesheet.webp
 ```
 
-Windows 默认对应 `%USERPROFILE%\.codex\pets\la-signora`；自定义 `CODEX_HOME` 时使用其下的 `pets/la-signora`。
+Windows 默认对应 `%USERPROFILE%\.codex\pets\La-Signora`；自定义 `CODEX_HOME` 时使用其下的 `pets/La-Signora`。
 
-打开 Codex **设置 → 智能拍档 / Pets → 刷新 / Refresh**，选择 **La Signora**。在输入框输入 `/pet` 或从命令菜单选择 **Show pet** 显示浮动拍档。[官方操作说明](https://learn.chatgpt.com/docs/pets?surface=app)
+打开 Codex **设置 → 智能拍档 / Pets → 刷新 / Refresh**，选择 **La-Signora**。在输入框输入 `/pet` 或从命令菜单选择 **Show pet** 显示浮动拍档。[官方操作说明](https://learn.chatgpt.com/docs/pets?surface=app)
 
 ## 动画与素材
 

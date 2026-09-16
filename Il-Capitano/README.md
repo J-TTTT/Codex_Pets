@@ -1,20 +1,20 @@
-# Il Capitano
+# Il-Capitano
 
-以已确认的《原神》队长 Q 版参考图为唯一形象依据，保留全覆式深色头盔、金色几何装饰、黑色长发、厚实毛领、胸前链饰、深色披风与靴子。动作稳重、克制，通过头盔和肢体表达状态。面部始终隐藏，头盔内部保持不透明深色，双手空着。
+以已确认的《原神》Il-Capitano Q 版参考图为唯一形象依据，保留全覆式深色头盔、金色几何装饰、黑色长发、厚实毛领、胸前链饰、深色披风与靴子。动作稳重、克制，通过头盔和肢体表达状态。面部始终隐藏，头盔内部保持不透明深色，双手空着。
 
 ## 安装与选择
 
 将 pet.json 和 spritesheet.webp 放在同一角色目录：
 
 ~~~text
-~/.codex/pets/il-capitano/
+~/.codex/pets/Il-Capitano/
 ├── pet.json
 └── spritesheet.webp
 ~~~
 
-Windows 默认路径为 %USERPROFILE%\.codex\pets\il-capitano；设置了 CODEX_HOME 时，使用其下的 pets/il-capitano。
+Windows 默认路径为 %USERPROFILE%\.codex\pets\Il-Capitano；设置了 CODEX_HOME 时，使用其下的 pets/Il-Capitano。
 
-打开 Codex **设置 → 智能拍档 / Pets → 刷新 / Refresh**，选择 **Il Capitano**。输入 /pet 或从命令菜单选择 **Show pet** 显示拍档。[官方操作说明](https://learn.chatgpt.com/docs/pets?surface=app)
+打开 Codex **设置 → 智能拍档 / Pets → 刷新 / Refresh**，选择 **Il-Capitano**。输入 /pet 或从命令菜单选择 **Show pet** 显示拍档。[官方操作说明](https://learn.chatgpt.com/docs/pets?surface=app)
 
 ## 动画与素材
 

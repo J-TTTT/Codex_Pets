@@ -1,7 +1,7 @@
 {
-  "pet_id": "miku",
+  "pet_id": "Miku",
   "display_name": "Miku",
-  "description": "\u5b89\u9759\u4e56\u5de7\u3001\u7565\u5e26\u5929\u7136\u5446\u7684\u9752\u7eff\u8272\u53cc\u9a6c\u5c3e\u4e8c\u6b21\u5143\u667a\u80fd\u62cd\u6863\u3002.",
+  "description": "安静乖巧、略带天然呆的青绿色双马尾二次元智能拍档。.",
   "created_at": "2026-09-15T07:17:22.227611+00:00",
   "sprite_version_number": 2,
   "atlas": {
@@ -248,13 +248,13 @@
   ],
   "references": [
     {
-      "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\miku\\references\\reference-01.png",
+      "path": "work/Miku/references/reference-01.png",
       "width": 1199,
       "height": 1312,
       "mode": "RGB",
       "format": "PNG",
-      "source_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\miku-reference.png",
-      "copied_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\miku\\references\\reference-01.png"
+      "source_path": "artifacts/Miku-reference.png",
+      "copied_path": "work/Miku/references/reference-01.png"
     }
   ],
   "chroma_key": {
