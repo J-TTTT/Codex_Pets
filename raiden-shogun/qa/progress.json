@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-09-16T02:32:05.8661932Z",
+  "stage": "complete",
+  "time_target_minutes": 30,
+  "retries": [
+    "Cardinal000 was independently classified near-neutral; regenerateonlyUP with clearer raisedchin/upwardiris, preserveother3anchors.",
+    "Lookrow10 passedgeometry but copiedRIGHTfaces inLEFTquadrants. Changeprimaryreference tocardinalstrip FOURTHleftpose; regeneratethewhole8posefamily, keepimmutablegeometry.",
+    "Row10LEFTfaces nowcorrect but braid switchedright inposes3-8 and snappedat337.5->000. Change strategy to edit acceptedLEFTheadsource, correctingONLYbraid to fixedviewer-leftbodyrelationship fromrow9."
+  ],
+  "passed_standard_rows": 9,
+  "notes": "User-approved reference only; green key protects purple/gold/red palette; independent left and right generations required.",
+  "base_approved": true,
+  "updated_at": "2026-09-16T03:47:52.6364540Z",
+  "elapsed_minutes": 75.8,
+  "checklist": [
+    "Getting Raiden_Shogun ready: complete",
+    "Imagining Raiden_Shogun main look: complete",
+    "Picturing Raiden_Shogun poses: complete",
+    "Hatching Raiden_Shogun: complete"
+  ]
+}

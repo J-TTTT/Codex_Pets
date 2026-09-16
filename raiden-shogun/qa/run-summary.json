@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "package": "C:\\Users\\56180\\.codex\\pets\\raiden-shogun",
+  "installed_at": "2026-09-16T03:47:03.9959995Z",
+  "hash_verified": true,
+  "spritesheet_sha256": "53D2E65D572F6EE53BEF7971DB961EBC4D9B2FF28FBE9E3ED196197766C15736",
+  "run_dir": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\raiden-shogun",
+  "spritesheet": "final/spritesheet-extended.webp",
+  "validation": "final/validation-extended.json",
+  "chroma_despill": "qa/chroma-despill-extended.json",
+  "direction_semantics": "qa/direction-semantics.json",
+  "blind_direction_validation": "qa/direction-blind-validation.json",
+  "blind_review_resolution": "qa/blind-review-resolution.json",
+  "continuity": "qa/look-continuity.json",
+  "review": "qa/review.json",
+  "contact_sheet": "qa/contact-sheet-extended.png",
+  "direction_sheet": "qa/look-directions.png"
+}

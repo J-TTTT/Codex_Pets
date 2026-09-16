@@ -1,0 +1,9 @@
+{
+  "settings_url": "https://learn.chatgpt.com/docs/reference/settings",
+  "pets_url": "https://learn.chatgpt.com/docs/pets?surface=app",
+  "checked_at": "2026-09-16T03:07:26.2159886Z",
+  "windows_settings": "Ctrl+,",
+  "selection": "Settings > Pets > Refresh > Raiden_Shogun",
+  "show": "/pet or Show pet",
+  "basis": "Fetched official OpenAI documentation. Existing local code discovery did not expose app resources."
+}
