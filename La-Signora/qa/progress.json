@@ -1,0 +1,16 @@
+{
+  "started_at": "2026-09-16T07:05:28.5174448Z",
+  "stage": "Complete: validated, packaged and installed La Signora v2",
+  "time_target_minutes": 30,
+  "retries": [
+    "Row10source470-485px vs450px immutablegeometry clipsmasktips; most intermediates copiedRIGHTfaces. Regenerate whole8pose row with explicitLEFTanchor primary and443-450px totalheight.",
+    "V2fixedleftdirections, butsourceheight460-471stillclips at0.44. Repeatedgeometryroot; change toimagegenwhole-stripedit: uniform5percentfigure reduction, preserveallfaces/bodies/angles.",
+    "Candidate1 blind090 classified screen-left by2of3; regenerate entire row9 with clear right yaw, right iris and near-side unmasked cheek; retain audit and passed rows."
+  ],
+  "passed_standard_rows": 9,
+  "notes": "Approved reference only; anatomical LEFT eye masked, FRONT viewer RIGHT; no mirrored gait. Green key protects pale hair/white collar/red dress.",
+  "base_approved": true,
+  "updated_at": "2026-09-16T08:40:51.6616149Z",
+  "elapsed_minutes": 95.4,
+  "checkpoint": "9 standard states and16lookdirections installed with verifiedSHA256; allmandatorygates passed; subtle near-down horizontal cues accepted by independentlabeled review."
+}

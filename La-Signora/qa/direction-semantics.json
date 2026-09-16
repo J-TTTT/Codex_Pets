@@ -1,0 +1,133 @@
+{
+  "reviewed_by": "independent signora_final_qa",
+  "directions": {
+    "135": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Clear downward-right gaze.",
+      "horizontal_evidence": "Visible eye and nose favor screen-right.",
+      "vertical_evidence": "Head is visibly lowered.",
+      "reason": "Correct diagonal; small mask-spike opening is intentional."
+    },
+    "180": {
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "Centered lowered head and downward gaze.",
+      "horizontal_evidence": "Face is near centered with no clear lateral bias.",
+      "vertical_evidence": "Eyes/head are distinctly lowered.",
+      "reason": "Readable downward cardinal."
+    },
+    "225": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Clear downward-left gaze.",
+      "horizontal_evidence": "Eye/nose region favors screen-left.",
+      "vertical_evidence": "Chin remains below level.",
+      "reason": "Correct diagonal."
+    },
+    "270": {
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "Head and visible eye clearly point screen-left.",
+      "horizontal_evidence": "Nose/eye placement is distinctly left of head center.",
+      "vertical_evidence": "Head is approximately level.",
+      "reason": "Unmistakable horizontal cardinal."
+    },
+    "315": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Clear upward-left gaze.",
+      "horizontal_evidence": "Nose/eye region remains screen-left.",
+      "vertical_evidence": "Head is visibly raised.",
+      "reason": "Correct diagonal."
+    },
+    "000": {
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "Head and gaze angle upward with eye positioned high relative to head.",
+      "horizontal_evidence": "No strong lateral bias; facial center remains near midline.",
+      "vertical_evidence": "Chin/eye line clearly raised.",
+      "reason": "Readable upward cardinal."
+    },
+    "022.5": {
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Upward gaze with slight screen-right turn.",
+      "horizontal_evidence": "Visible eye and face surface shift slightly screen-right.",
+      "vertical_evidence": "Eye line remains above center.",
+      "reason": "Smooth first diagonal after up."
+    },
+    "045": {
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Clear upward-right gaze.",
+      "horizontal_evidence": "Nose/eye region favors screen-right.",
+      "vertical_evidence": "Head remains tilted upward.",
+      "reason": "Intermediate diagonal reads correctly; bottom alpha gap is intentional shoe/hem spacing."
+    },
+    "067.5": {
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Near-right gaze with residual upward tilt.",
+      "horizontal_evidence": "Face and visible eye are displaced screen-right.",
+      "vertical_evidence": "Eye line remains slightly elevated.",
+      "reason": "Correct approach to right cardinal; alpha gap is intentional."
+    },
+    "090": {
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "Head and visible eye clearly point screen-right.",
+      "horizontal_evidence": "Nose/eye placement is distinctly right of head center.",
+      "vertical_evidence": "Head is approximately level.",
+      "reason": "Unmistakable horizontal cardinal."
+    },
+    "112.5": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Rightward gaze with downward head angle.",
+      "horizontal_evidence": "Face surface and eye remain screen-right.",
+      "vertical_evidence": "Chin/eye line drops below level.",
+      "reason": "Correct post-right diagonal; mask-spike alpha opening is intentional."
+    },
+    "157.5": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Near-down pose with residual screen-right bias.",
+      "horizontal_evidence": "Face still favors screen-right slightly.",
+      "vertical_evidence": "Gaze/head is strongly lowered.",
+      "reason": "Correct approach to down cardinal; continuity metric outlier is visually acceptable."
+    },
+    "202.5": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Downward gaze with slight screen-left turn.",
+      "horizontal_evidence": "Face begins shifting screen-left.",
+      "vertical_evidence": "Head remains lowered.",
+      "reason": "Smooth first diagonal after down."
+    },
+    "247.5": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Near-left gaze with residual downward tilt.",
+      "horizontal_evidence": "Face and eye are displaced screen-left.",
+      "vertical_evidence": "Head remains slightly lowered.",
+      "reason": "Correct approach to left cardinal."
+    },
+    "292.5": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Leftward gaze with slight upward tilt.",
+      "horizontal_evidence": "Face and visible eye favor screen-left.",
+      "vertical_evidence": "Eye line rises above center.",
+      "reason": "Correct post-left diagonal."
+    },
+    "337.5": {
+      "verdict": "warning",
+      "expected": "up-left",
+      "observed": "Near-up pose with residual screen-left bias.",
+      "horizontal_evidence": "Face remains slightly screen-left of center.",
+      "vertical_evidence": "Gaze/head is strongly raised.",
+      "reason": "Semantics are correct; 337.5->000 continuity metrics flag a local outlier, but no visible reversal or disruptive pop is present."
+    }
+  }
+}

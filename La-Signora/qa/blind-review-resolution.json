@@ -1,0 +1,18 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "failed_checks": [
+    "horizontal-7 A157.5 classifiedleft insteadright",
+    "horizontal-7 B202.5 classifiedright insteadleft"
+  ],
+  "evidence": "Independent final labeled native-size loop review identifies residual rightward head orientation at157.5 and residual leftward orientation at202.5; both strongly down. No quadrant reversal or disruptive snap. All four hard cardinals unanimously classified correctly by all three fresh reviewers. Continuity outliers reviewed without visible disruptive pop; alpha flags are shoe/hem and mask-spike negative spaces.",
+  "preserved_evidence": [
+    "direction-blind-validation.json",
+    "direction-blind-verdicts.json",
+    "direction-semantics.json",
+    "look-continuity.json",
+    "final-visual-qa.json"
+  ],
+  "note": "Candidate1 hard090 failure was repaired, never overridden. Final visual review report calls standard-visual-qa ok=true descriptively; actual gate field is visual_qa=pass."
+}

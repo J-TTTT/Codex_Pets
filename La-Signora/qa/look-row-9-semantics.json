@@ -1,0 +1,10 @@
+{
+  "verdict": "pass",
+  "evidence": "Eight registered poses preserve body scale, attached original mask, planted feet. Raised chin at000, rightward facial yaw and visible eye at090; gradual right arc fromup tod own. Alltips fit postregistration edge gate. Low eyelid in135/157.5 warrants final loopreview.",
+  "source": "decoded/look-row-9.png",
+  "reviewed_by": "parent",
+  "warnings": [
+    "Subtle diagonal iris cue at lower right"
+  ],
+  "candidate": 2
+}

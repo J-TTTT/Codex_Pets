@@ -1,0 +1,124 @@
+[
+  {
+    "id": "base",
+    "kind": "base-pet",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a907-fd18-7713-996b-0dbff6982bf2\\exec-f8bfa70b-4930-41b3-8684-9ddc9b88f7f2.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:08:37.5356319Z",
+    "qa_note": "Worker visually confirmed preserved identity, mask character-left/viewer-right, exposed eye viewer-left, full silhouette and green margin."
+  },
+  {
+    "id": "idle",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a90c-054d-7751-be2b-b9730c6e358a\\exec-e9ddbbfb-9128-4a65-9c8e-2fe1534dc367.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:11:51.2483659Z",
+    "qa_note": "Worker viewed6complete separated full-bodyframes, same maskcharacter-left/viewer-right and exposedeyeviewer-left, relaxedhands, subtleblink/breath."
+  },
+  {
+    "id": "running-right",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a90c-57c7-7f53-9cac-38edcbaf476b\\exec-384f71ad-2f3a-4cd7-9d2d-7a4179829c20.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:12:39.2193871Z",
+    "qa_note": "Viewed8complete separatedposes, screen-right threequarterfacing, alternatingsteps, stable uprightscale/baseline, capelag; maskcharacterLEFT and originalasymmetry maintained."
+  },
+  {
+    "id": "running-left",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a90f-d052-76c0-a636-4622cbc57d48\\exec-718f333e-8d53-4793-8fd5-cb80f090fade.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:17:49.6284984Z",
+    "qa_note": "Viewed8complete screen-leftposes with alternatinggait/stablebaseline/capefollow; anatomicalLEFTmasknotmirrored, hiddeneyecovered. Worker copiedunchangedoriginalprematurely; parent recopy+inspection ownsacceptance."
+  },
+  {
+    "id": "waving",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a90c-a6bf-70a0-ae8a-ea1c7f36ca45\\exec-c810cf5f-0722-4103-8180-680b1da43bd7.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:12:43.9269618Z",
+    "qa_note": "Viewed4complete separatedposes rest-raise-wave-return; consistentmaskcharacterLEFT/viewerRIGHT, visibleeyeviewerLEFT, safeallmargins."
+  },
+  {
+    "id": "jumping",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a90f-0d35-7d92-8f7b-6ea151e92b75\\exec-c531c244-9389-41e7-9879-054e57fbd802.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:15:14.2718362Z",
+    "qa_note": "Viewed5complete poses anticipation,rise,airborneapex,descent,landing; stablecanonicalmask/costume/proportions, emptyhands, no effects."
+  },
+  {
+    "id": "failed",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a914-8806-76e3-8c0a-0f1210836b8b\\exec-f1a8fd1a-b079-4635-a4f1-3113272a84ce.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:21:02.495709Z",
+    "qa_note": "Viewed8complete poses loweredeye/slightreaction/recovery, consistentmaskanatomicalLEFT/viewerRIGHT, visibleeyeviewerLEFT, safeedges."
+  },
+  {
+    "id": "waiting",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a910-1f82-7160-b857-fc76cb5a9dfa\\exec-fc2088b8-10fa-4764-a32e-bd0b378f07e8.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:16:31.3631141Z",
+    "qa_note": "Viewed6complete poses, consistentmaskandonevisibleeye, onehandwaist/otherpalmopen, subtleheadtilt, stablebaseline, no effects."
+  },
+  {
+    "id": "running",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a912-2438-7371-a56d-601c14f7472c\\exec-b4070433-c912-4712-922c-76b8c5a10fc2.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:19:15.281537Z",
+    "qa_note": "Viewed6completeposes, plantedfeet, glovedhandchin, focusedvisibleeye andsubtlenod; consistentanatomicalLEFTmask, fullsafeedges, noeffects."
+  },
+  {
+    "id": "review",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a913-4674-7560-a35b-41346f2911d0\\exec-817709e3-dd6d-4414-93f6-9f1c1a4a733f.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:19:50.3120419Z",
+    "qa_note": "Viewed6completeposes, lowhands, plantedfeet, eye scan/blink/nod, stablemaskcharacterLEFT/viewerRIGHT andidentity, noeffects/crops."
+  },
+  {
+    "id": "look-cardinals",
+    "kind": "look-cardinal-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a91e-9a39-7812-a89c-df8410ca2656\\exec-b580a462-3db3-4528-b416-de2583f9c656.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T07:37:30.2653109Z",
+    "qa_note": "Extracted4anchors passedgeometry; independentunlabeledclassification UP RIGHT DOWN LEFT with iris/nose/chin evidence, correctmaskattachment."
+  },
+  {
+    "id": "look-row-9",
+    "kind": "look-row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a953-c2fa-7143-ab13-5ac03822a8d4\\exec-e342f861-9199-488f-a8c1-ec50d9692dfb.png",
+    "rejected_sources": [
+      "C:\\Users\\56180\\.codex\\generated_images\\01a0a926-c183-71f1-8975-87bd9596a8e8\\exec-9bcd2900-53cd-4f05-be1c-d3589568a89e.png"
+    ],
+    "completed_at": "2026-09-16T08:39:38.0171053Z",
+    "qa_note": "Complete-row rightward gaze repair passed postregistration edges, v2 validation, three unanimous hard cardinal blind checks, and independent labeled16direction/finalvisual QA."
+  },
+  {
+    "id": "look-row-10",
+    "kind": "look-row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a93c-10d9-7023-83a0-c4710122b6bc\\exec-a7a61964-5a16-4d68-af84-e2df037c120d.png",
+    "rejected_sources": [
+      "C:\\Users\\56180\\.codex\\generated_images\\01a0a92d-2361-7192-b0d8-1262a0937ab2\\exec-0b183e8c-3ccf-489e-ac11-4c51855b3480.png",
+      "C:\\Users\\56180\\.codex\\generated_images\\01a0a934-c037-70a2-bc3b-aa26020db238\\exec-6595ef79-c78f-4b06-b510-32affb136274.png"
+    ],
+    "completed_at": "2026-09-16T08:09:46.8966095Z",
+    "qa_note": "Whole-strip size-onlyimageedit preserves correctedleftfaces; immutable0.44edgegatepasses; parent labeled16directions andindependentgeometryreviewpass withminorposewidthwarning."
+  }
+]

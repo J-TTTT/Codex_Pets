@@ -1,0 +1,7 @@
+{
+  "cleanup_policy": "One unchanged deterministic cleanup on each newly assembled candidate; no chroma tuning",
+  "assembly_input": "Uncleaned standard atlas and raw generated row9/row10; no cleaned image reprocessed",
+  "reason": "Complete row9 semantic repair after major090 blind failure",
+  "candidate": 2,
+  "previous_candidate": "qa/candidate-1-failed-cardinal"
+}

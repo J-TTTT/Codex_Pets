@@ -1,0 +1,162 @@
+[
+  {
+    "index": 0,
+    "source_bbox": [
+      4,
+      4,
+      268,
+      474
+    ],
+    "normalized_bbox": [
+      39,
+      0,
+      155,
+      203
+    ],
+    "edge_pixels": 17,
+    "top2": 17,
+    "bottom2": 0,
+    "left2": 0,
+    "right2": 0
+  },
+  {
+    "index": 1,
+    "source_bbox": [
+      4,
+      4,
+      257,
+      474
+    ],
+    "normalized_bbox": [
+      40,
+      0,
+      151,
+      203
+    ],
+    "edge_pixels": 14,
+    "top2": 14,
+    "bottom2": 0,
+    "left2": 0,
+    "right2": 0
+  },
+  {
+    "index": 2,
+    "source_bbox": [
+      4,
+      4,
+      260,
+      474
+    ],
+    "normalized_bbox": [
+      40,
+      0,
+      153,
+      203
+    ],
+    "edge_pixels": 14,
+    "top2": 14,
+    "bottom2": 0,
+    "left2": 0,
+    "right2": 0
+  },
+  {
+    "index": 3,
+    "source_bbox": [
+      4,
+      4,
+      259,
+      474
+    ],
+    "normalized_bbox": [
+      40,
+      0,
+      152,
+      203
+    ],
+    "edge_pixels": 14,
+    "top2": 14,
+    "bottom2": 0,
+    "left2": 0,
+    "right2": 0
+  },
+  {
+    "index": 4,
+    "source_bbox": [
+      4,
+      4,
+      259,
+      489
+    ],
+    "normalized_bbox": [
+      41,
+      0,
+      153,
+      203
+    ],
+    "edge_pixels": 25,
+    "top2": 25,
+    "bottom2": 0,
+    "left2": 0,
+    "right2": 0
+  },
+  {
+    "index": 5,
+    "source_bbox": [
+      4,
+      4,
+      258,
+      474
+    ],
+    "normalized_bbox": [
+      40,
+      0,
+      152,
+      203
+    ],
+    "edge_pixels": 28,
+    "top2": 28,
+    "bottom2": 0,
+    "left2": 0,
+    "right2": 0
+  },
+  {
+    "index": 6,
+    "source_bbox": [
+      4,
+      4,
+      258,
+      474
+    ],
+    "normalized_bbox": [
+      40,
+      0,
+      152,
+      203
+    ],
+    "edge_pixels": 34,
+    "top2": 34,
+    "bottom2": 0,
+    "left2": 0,
+    "right2": 0
+  },
+  {
+    "index": 7,
+    "source_bbox": [
+      4,
+      4,
+      259,
+      475
+    ],
+    "normalized_bbox": [
+      40,
+      0,
+      152,
+      203
+    ],
+    "edge_pixels": 31,
+    "top2": 31,
+    "bottom2": 0,
+    "left2": 0,
+    "right2": 0
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "index": 0,
+    "source_bbox": [
+      4,
+      4,
+      272,
+      464
+    ],
+    "normalized_bbox": [
+      39,
+      1,
+      157,
+      203
+    ],
+    "edge_pixels": 7
+  },
+  {
+    "index": 1,
+    "source_bbox": [
+      4,
+      4,
+      268,
+      464
+    ],
+    "normalized_bbox": [
+      41,
+      1,
+      157,
+      203
+    ],
+    "edge_pixels": 6
+  },
+  {
+    "index": 2,
+    "source_bbox": [
+      4,
+      4,
+      269,
+      462
+    ],
+    "normalized_bbox": [
+      40,
+      1,
+      157,
+      203
+    ],
+    "edge_pixels": 9
+  },
+  {
+    "index": 3,
+    "source_bbox": [
+      4,
+      4,
+      269,
+      467
+    ],
+    "normalized_bbox": [
+      40,
+      0,
+      157,
+      203
+    ],
+    "edge_pixels": 23
+  },
+  {
+    "index": 4,
+    "source_bbox": [
+      4,
+      4,
+      268,
+      466
+    ],
+    "normalized_bbox": [
+      41,
+      0,
+      157,
+      203
+    ],
+    "edge_pixels": 32
+  },
+  {
+    "index": 5,
+    "source_bbox": [
+      4,
+      4,
+      270,
+      474
+    ],
+    "normalized_bbox": [
+      39,
+      0,
+      156,
+      203
+    ],
+    "edge_pixels": 49
+  },
+  {
+    "index": 6,
+    "source_bbox": [
+      4,
+      4,
+      269,
+      474
+    ],
+    "normalized_bbox": [
+      40,
+      0,
+      157,
+      203
+    ],
+    "edge_pixels": 50
+  },
+  {
+    "index": 7,
+    "source_bbox": [
+      4,
+      4,
+      270,
+      475
+    ],
+    "normalized_bbox": [
+      39,
+      0,
+      156,
+      203
+    ],
+    "edge_pixels": 45
+  }
+]
