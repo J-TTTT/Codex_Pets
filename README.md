@@ -77,7 +77,7 @@
 
 | 从仓库目录复制 | 建议的本地子目录（pet.json 的 id） |
 | --- | --- |
-| `Yae-Miko/` | `xiaoshenzi/` |
+| `Yae-Miko/` | `yae-miko/` |
 | `Miku/` | `miku/` |
 | `Raiden-Shogun/` | `raiden-shogun/` |
 | `La-Signora/` | `la-signora/` |
@@ -89,7 +89,7 @@
 ~~~text
 .codex/
 └── pets/
-    ├── xiaoshenzi/
+    ├── yae-miko/
     │   ├── pet.json
     │   └── spritesheet.webp
     ├── miku/
@@ -115,7 +115,7 @@
 
 1. 打开 **设置 → 智能拍档 / Pets**，或从底部个人菜单进入 **Pets**。
 2. 点击 **刷新 / Refresh**。
-3. 选择 **小神子、Miku、Raiden_Shogun、La Signora、Arlecchino** 或 **Il Capitano**。
+3. 选择 **Yae-Miko、Miku、Raiden_Shogun、La Signora、Arlecchino** 或 **Il Capitano**。
 4. 在输入框输入 `/pet`，或在命令菜单选择 **Show pet**，显示拍档。
 
 设置中显示的名称由 `pet.json` 的 `displayName` 决定。界面操作可参考 [OpenAI 官方 Pets 使用说明](https://learn.chatgpt.com/docs/pets?surface=app)，不同版本的文字可能略有差异。
@@ -186,7 +186,7 @@ Il-Capitano/
 
 ### 文件夹名和设置里的名字不一样
 
-这是目录名与显示名称的区别。例如，仓库中的 `Yae-Miko/` 对应 **小神子**，`Arlecchino/` 对应 **Arlecchino**。按“角色目录”和“本地子目录”两张表操作即可，无需修改配置来匹配仓库文件夹名称。
+这是目录名与显示名称的区别。例如，仓库中的 `Yae-Miko/` 对应 **小神子**。按“角色目录”和“本地子目录”两张表操作即可，无需修改配置来匹配仓库文件夹名称。
 
 ### GitHub 上图片或目录链接打不开
 
