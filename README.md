@@ -77,7 +77,7 @@
 
 | 从仓库目录复制 | 建议的本地子目录（pet.json 的 id） |
 | --- | --- |
-| `Yae-Miko/` | `yae-miko/` |
+| `Yae-Miko/` | `Yae-Miko/` |
 | `Miku/` | `Miku/` |
 | `Raiden-Shogun/` | `Raiden-Shogun/` |
 | `La-Signora/` | `La-Signora/` |
@@ -89,7 +89,7 @@
 ~~~text
 .codex/
 └── pets/
-    ├── yae-miko/
+    ├── Yae-Miko/
     │   ├── pet.json
     │   └── spritesheet.webp
     ├── Miku/
