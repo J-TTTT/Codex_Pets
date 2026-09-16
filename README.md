@@ -14,24 +14,23 @@
 
 | 女士 · La Signora | 仆人 · Arlecchino | 队长 · Il Capitano |
 | :---: | :---: | :---: |
-| ![La Signora 待机](La-Signora/previews/idle.gif) | ![Arlecchino 待机](Aarlecchino/previews/idle.gif) | ![Il Capitano 待机](Il-Capitano/previews/idle.gif) |
+| ![La Signora 待机](La-Signora/previews/idle.gif) | ![Arlecchino 待机](Arlecchino/previews/idle.gif) | ![Il Capitano 待机](Il-Capitano/previews/idle.gif) |
 | 浅金卷发、黑色半面面具、黑红礼服与白色毛领。优雅从容，带一点俏皮。 | 黑白层次发型、红色叉形瞳孔与黑白灰礼服。冷静利落，带着不张扬的温柔。 | 全覆式深色头盔、金色装饰、厚实毛领与披风。沉稳可靠，通过头盔和肢体传达情绪。 |
-| [全部动画](La-Signora/previews/) · [角色说明](La-Signora/README.md) | [全部动画](Aarlecchino/previews/) · [角色说明](Aarlecchino/README.md) | [全部动画](Il-Capitano/previews/) · [角色说明](Il-Capitano/README.md) |
+| [全部动画](La-Signora/previews/) · [角色说明](La-Signora/README.md) | [全部动画](Arlecchino/previews/) · [角色说明](Arlecchino/README.md) | [全部动画](Il-Capitano/previews/) · [角色说明](Il-Capitano/README.md) |
 
-## 角色目录与下载
+## 角色目录
 
-下表按当前文件名称列出。**文件夹名称、ZIP 名称和应用中的显示名称可能不同**，下载时请按对应关系选择。
+下表按当前文件夹名称列出。仓库目录名称与应用中的显示名称可能不同，请按对应关系选择。
 
-| 角色 | 当前仓库文件夹 | 设置中的名称 | ZIP 素材包 |
-| --- | --- | --- | --- |
-| 八重神子 | [Yae-Miko](Yae-Miko/) | 小神子 | [Yae_Miko.zip](Yae_Miko.zip) |
-| 初音未来 | [Miku](Miku/) | Miku | [miku.zip](miku.zip) |
-| 雷电将军 | [Raiden-Shogun](Raiden-Shogun/) | Raiden_Shogun | [raiden-shogun.zip](raiden-shogun.zip) |
-| 女士 | [La-Signora](La-Signora/) | La Signora | [la-signora.zip](la-signora.zip) |
-| 仆人 | [Aarlecchino](Aarlecchino/) | Arlecchino | [arlecchino.zip](arlecchino.zip) |
-| 队长 | [Il-Capitano](Il-Capitano/) | Il Capitano | [il-capitano.zip](il-capitano.zip) |
+| 角色 | 当前仓库文件夹 | 设置中的名称 |
+| --- | --- | --- |
+| 八重神子 | [Yae-Miko](Yae-Miko/) | 小神子 |
+| 初音未来 | [Miku](Miku/) | Miku |
+| 雷电将军 | [Raiden-Shogun](Raiden-Shogun/) | Raiden_Shogun |
+| 女士 | [La-Signora](La-Signora/) | La Signora |
+| 仆人 | [Arlecchino](Arlecchino/) | Arlecchino |
+| 队长 | [Il-Capitano](Il-Capitano/) | Il Capitano |
 
-> 仆人的仓库文件夹实际拼写为 **`Aarlecchino`**，开头有两个 `a`（第一个为大写）；角色显示名称仍为 **Arlecchino**。所有相对链接均按实际大小写书写。ZIP 沿用当前已有文件名，解压后的顶层目录也可能保留旧名称；安装时以其中的 `pet.json` 与 `spritesheet.webp` 为准。
 
 ## 特点
 
@@ -44,9 +43,9 @@
 
 ## 快速开始
 
-### 1. 下载并解压
+### 1. 获取仓库文件
 
-下载上表中的角色 ZIP，或使用 GitHub 的 **Code → Download ZIP** 下载整个仓库。
+克隆本仓库，或通过 GitHub 的 **Code** 菜单下载完整仓库内容。
 
 找到同时包含以下两个文件的角色目录：
 
@@ -82,7 +81,7 @@
 | `Miku/` | `miku/` |
 | `Raiden-Shogun/` | `raiden-shogun/` |
 | `La-Signora/` | `la-signora/` |
-| `Aarlecchino/` | `arlecchino/` |
+| `Arlecchino/` | `arlecchino/` |
 | `Il-Capitano/` | `il-capitano/` |
 
 安装全部六款后的结构如下：
@@ -152,7 +151,7 @@
 
 ## 仓库结构与素材规格
 
-本 README 与六个角色目录、ZIP 文件位于同一层级：
+本 README 与六个角色目录位于同一层级：
 
 ~~~text
 README.md
@@ -160,14 +159,8 @@ Yae-Miko/
 Miku/
 Raiden-Shogun/
 La-Signora/
-Aarlecchino/
+Arlecchino/
 Il-Capitano/
-Yae_Miko.zip
-miku.zip
-raiden-shogun.zip
-la-signora.zip
-arlecchino.zip
-il-capitano.zip
 ~~~
 
 | 文件或目录 | 用途 |
@@ -193,11 +186,11 @@ il-capitano.zip
 
 ### 文件夹名和设置里的名字不一样
 
-这是目录名与显示名称的区别。例如，仓库中的 `Yae-Miko/` 对应 **小神子**，`Aarlecchino/` 对应 **Arlecchino**。按“角色目录与下载”和“本地子目录”两张表操作即可，无需修改配置来匹配仓库文件夹名称。
+这是目录名与显示名称的区别。例如，仓库中的 `Yae-Miko/` 对应 **小神子**，`Arlecchino/` 对应 **Arlecchino**。按“角色目录”和“本地子目录”两张表操作即可，无需修改配置来匹配仓库文件夹名称。
 
-### GitHub 上图片或下载链接打不开
+### GitHub 上图片或目录链接打不开
 
-确认 README 与角色目录、ZIP 位于同一层，且上传时保留了名称大小写、连字符和下划线。尤其注意 `Aarlecchino/` 与 `Arlecchino` 的区别，以及 `Yae-Miko/` 对应的压缩包名称为 `Yae_Miko.zip`。后续重命名文件时，也要同步修改 README 中的相对链接。
+确认 README 与角色目录位于同一层，且上传时保留了名称大小写和连字符。后续重命名目录时，也要同步修改 README 中的相对链接。
 
 ### 设置里没有 Pets 入口
 
