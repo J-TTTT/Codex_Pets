@@ -2,7 +2,7 @@
 
 让六位熟悉的 Q 版角色，陪你一起写代码。
 
-本仓库收录 **6 款日系 Q 版桌面拍档**，使用 `hatch-pet` 制作：**小神子、Miku、Raiden_Shogun、La Signora、Arlecchino、Il Capitano**。每款均包含真正透明的动画图集、**9 个标准动画状态**与 **16 个注视方向**，可安装到支持自定义 v2 拍档的 Codex 桌面应用中。
+本仓库收录 **6 款日系 Q 版桌面拍档**，使用 `hatch-pet` 制作：**Yae Miko、Miku、Raiden Shogun、La Signora、Arlecchino、Il Capitano**。每款均包含真正透明的动画图集、**9 个标准动画状态**与 **16 个注视方向**，可安装到支持自定义 v2 拍档的 Codex 桌面应用中。
 
 ## 认识你的拍档
 
