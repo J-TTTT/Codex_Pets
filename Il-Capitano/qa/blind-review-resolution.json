@@ -1,0 +1,54 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "independent_review": "capitano_finalqa final visual_qa pass",
+  "cardinal_override": false,
+  "failed_checks": [
+    {
+      "severity": "minor",
+      "directions": [
+        "045",
+        "315"
+      ],
+      "issue": "Opposite intermediate blind horizontal classifications",
+      "resolution": "Independent labeled native-size and ordered-loop review confirms intended quadrants without reversal."
+    },
+    {
+      "severity": "minor",
+      "directions": [
+        "202.5"
+      ],
+      "issue": "Intermediate horizontal ambiguity",
+      "resolution": "Subtle leftward shift visible between180and225; vertical axis passed."
+    },
+    {
+      "severity": "minor",
+      "directions": [
+        "157.5",
+        "180"
+      ],
+      "issue": "Continuity diff outlier",
+      "resolution": "Yaw recenter,3px center movement, area ratio1.007; no scale pop or identity change."
+    },
+    {
+      "severity": "minor",
+      "directions": [
+        "337.5",
+        "000"
+      ],
+      "issue": "Stronger upward pitch at closure",
+      "resolution": "Noticeable but semantically monotonic; body anchored, center movement<4px, silhouette growth5.7%; no snap, reversal or identity break."
+    },
+    {
+      "severity": "minor",
+      "directions": [
+        "202.5"
+      ],
+      "issue": "Alpha metric rows200-201",
+      "resolution": "Open gap between separate boots; not a filled-body or helmet hole."
+    }
+  ],
+  "evidence": "Strict blind consensus ok:true; all4cardinals unanimous. Native labeled final cells and orderedloop reviewed independently; no wrongquadrant/reversal, crop or scale pop.",
+  "previous_candidate": "qa/candidate-1 preserves failed cardinal ambiguity; repaired by whole-row generation, not overridden."
+}

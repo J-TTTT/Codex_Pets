@@ -1,0 +1,32 @@
+{
+  "passed_standard_rows": 9,
+  "checklist": [
+    "Preparation: complete",
+    "Main look: complete",
+    "Poses: complete",
+    "Hatching: complete"
+  ],
+  "started_at": "2026-09-16T10:27:06.4005455Z",
+  "stage": "Complete: packaged and installed, hashes verified",
+  "retries": [
+    {
+      "row": "look-row-10",
+      "reason": "202.5 helmet points screen-right instead of down-left",
+      "action": "whole-row imagegen repair preserving passed geometry"
+    },
+    {
+      "row": "look-row-10",
+      "reason": "Touching silhouettes merged slots2/3 with detached9x9speck",
+      "action": "whole-row redraw cape inward, sameheight,25pxgreen gutters"
+    },
+    {
+      "row": "look-row-9",
+      "reason": "Blind consensus cardinal UP/DOWN ambiguous",
+      "action": "Whole8pose stronger UP pitch; originalcandidate andfailedblind preserved"
+    }
+  ],
+  "time_target_minutes": 30,
+  "updated_at": "2026-09-16T12:04:21.3429023Z",
+  "elapsed_minutes": 97.2,
+  "checkpoint": "9standardstates16looks, v2/alpha/independentvisual/strictblindgates passed; minorreviews saved; installedhash verified."
+}

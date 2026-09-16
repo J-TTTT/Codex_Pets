@@ -1,0 +1,124 @@
+[
+  {
+    "id": "base",
+    "kind": "base-pet",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9c1-e830-73f1-bea8-c86bd1583e1e\\exec-8bfda0dd-665f-431f-af66-41f56f1dfaaa.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:29:57.0589183Z",
+    "qa_note": "Fullbodyreferenceidentity, opaqueblackfacelesshelmet/goldcrest/chains, darktonallayers, emptyrelaxedhands, completeboots, flatgreen/no effects."
+  },
+  {
+    "id": "idle",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9c4-7b33-76f0-ba12-ff63911094ab\\exec-04348297-ddab-41cf-b9a3-5577e8d4caeb.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:35:37.1619897Z",
+    "qa_note": "6complete quietbreathingposes relaxedhands, opaqueBLACKfacelesshelmet, lockedarmor/cape, separatedpuregreen fulltips."
+  },
+  {
+    "id": "running-right",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9c4-d6ea-7252-ac6a-af3c72ae1aab\\exec-4fed0a6a-dd81-44c9-bb04-1e7f5612a543.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:35:42.6317831Z",
+    "qa_note": "8complete rightfacingrunposes, widepuregreengutters, stableidentity opaquehelmet, attachedhair/cape/chains, no effects/crop."
+  },
+  {
+    "id": "running-left",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9c8-1dcc-74a1-8b50-571489d5e96e\\exec-bf383985-0ba3-46bc-ae77-e9b7d717069d.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:40:06.3179978Z",
+    "qa_note": "8fullbodyindependentleftstrides, separatedgreen completecape/boots opaquefacelesshelmet, originalcrest/chains/hair/fur, no effects."
+  },
+  {
+    "id": "waving",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9c5-2f0e-7f22-8dc1-c6f0a74289ea\\exec-1786228e-9891-4a65-b978-d29b6a96e714.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:35:49.3261997Z",
+    "qa_note": "4separatedfullbodyposes stablebaseline/scale, opaquefacelesshelmet originalcrest/chains, raisedgauntletwave/return, fulltips/no effects."
+  },
+  {
+    "id": "jumping",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9c7-5d07-78c0-bf6f-821d12ac896e\\exec-69932a7e-80d0-4dbb-a002-9f3379f0d02f.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:42:59.5431307Z",
+    "qa_note": "5completekneebend/rise/airborne/descent/cushionedlandingposes, constantbodysize actualverticalmotion, opaquehelmet widepuregreen safeedges/no effects."
+  },
+  {
+    "id": "failed",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9ce-41a9-7fa2-a9cf-a9670ca59032\\exec-36b392e7-8902-4a0c-9454-3a5eccb4e2ae.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:44:13.0852221Z",
+    "qa_note": "8fullbodyhelmetlower/slump/pause/recoverposes, opaquefacelessblackhelmet originalgoldcrest/chains/hair/fur/cape, completeedges puregreen/no effects."
+  },
+  {
+    "id": "waiting",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9c8-840e-7e50-a877-b1c031efcdab\\exec-9ba91006-afd8-4eb9-b016-a80949136514.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:40:11.0636407Z",
+    "qa_note": "6fullbodypalmupasking/slightleanposes, opaquehelmetoriginalcrest/chains, fulltips/cape/boots, puregreen andno effects."
+  },
+  {
+    "id": "running",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9cb-c715-7f93-926d-881a935bd7e9\\exec-a6b215a1-bc00-4b6a-b4a2-b438871fff5f.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:41:34.3261122Z",
+    "qa_note": "6fullbodyposes plantedfeet helmettilt/nod gauntletraisednearbutoutsidehelmetedge, opaquefacelesshelmet stableidentity andpuregreengutters. Worker usedwordwaiting; finalstandardQA mustverifythinkinggesture."
+  },
+  {
+    "id": "review",
+    "kind": "row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9cc-fc5f-7220-960f-a759404826e0\\exec-b7069371-b101-411e-a27d-01c44d72a68e.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T10:42:31.0484508Z",
+    "qa_note": "6fullbodylowhands/lean/scan/nodposes stableidentity opaquefacelesshelmet, puregreenseparated fulltips, no props/effects."
+  },
+  {
+    "id": "look-cardinals",
+    "kind": "look-cardinal-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9d5-2f63-78f1-9111-d08ec159349e\\exec-119207c6-51c5-47a4-9f70-1836151cc3d2.png",
+    "rejected_sources": null,
+    "completed_at": "2026-09-16T12:02:57.8486779Z",
+    "qa_note": null
+  },
+  {
+    "id": "look-row-9",
+    "kind": "look-row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aa09-2ce5-7253-83dc-1aad29592c92\\exec-96fd5954-be75-4fa6-8852-90144f357072.png",
+    "rejected_sources": [
+      "C:\\Users\\56180\\.codex\\generated_images\\01a0a9e9-c16f-7282-a58b-fb3f3c68dd2e\\exec-db00a0fa-69de-4a36-9a25-93a47958511d.png"
+    ],
+    "completed_at": "2026-09-16T12:02:57.8682212Z",
+    "qa_note": "Whole-row UP pitch repair registered without clipping; coherent rightward arc and rigid opaque helmet; awaiting final blind consensus."
+  },
+  {
+    "id": "look-row-10",
+    "kind": "look-row-strip",
+    "status": "complete",
+    "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0a9f9-c6f0-72d1-bdac-4f7cc529bec4\\exec-871532ef-16bb-458f-9892-e73a1ff1969d.png",
+    "rejected_sources": [
+      "C:\\Users\\56180\\.codex\\generated_images\\01a0a9ef-425b-7632-ab5d-1ebcf1976f2b\\exec-87b7aa76-b816-42c7-806e-1e1c9aed818f.png",
+      "C:\\Users\\56180\\.codex\\generated_images\\01a0a9f4-8aca-7321-afb3-8e779612efeb\\exec-d3521f74-6693-45cc-93ab-257669b1465a.png"
+    ],
+    "completed_at": "2026-09-16T12:02:57.8686693Z",
+    "qa_note": null
+  }
+]

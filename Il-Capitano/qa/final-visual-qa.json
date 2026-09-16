@@ -1,0 +1,193 @@
+{
+  "visual_qa": "pass",
+  "reviewed_by": "independent capitano_finalqa",
+  "evidence": {
+    "standard_rows": "All9 counts6,8,8,4,5,8,6,6,6; distinct motions, rigid opaque faceless helmet, stable goldcrest/chains/hair/fur/cape/costume/proportions. No eyes, skin, weapons, effects, crop, overlap or identity drift.",
+    "look_loop": "16clockwise poses,4unanimous blindcardinals; stablefeet/torso/scale/construction, no wrongquadrant or reversal.",
+    "deterministic": {
+      "v2": true,
+      "width": 1536,
+      "height": 2288,
+      "despill_ok": true,
+      "alpha_preserved": true,
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "directions": {
+    "135": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "clear down-right",
+      "reason": "Both axes readable and blind-confirmed.",
+      "horizontal_evidence": "Front axis right of torso center.",
+      "vertical_evidence": "Lowered visor, increased crown visibility."
+    },
+    "180": {
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "centered downward pitch",
+      "reason": "Unanimous blind cardinal confirmation.",
+      "horizontal_evidence": "Gold crest and axis centered.",
+      "vertical_evidence": "Crown exposed, visor drops into fur collar."
+    },
+    "225": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "clear down-left",
+      "reason": "Both blind axes passed.",
+      "horizontal_evidence": "Visor and faceplate point left.",
+      "vertical_evidence": "Helmet lowered toward collar."
+    },
+    "270": {
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "screen-left",
+      "reason": "Unanimous blind cardinal confirmation.",
+      "horizontal_evidence": "Visor tip left of head mass; left-facing sideplane dominates.",
+      "vertical_evidence": "Approximately level."
+    },
+    "315": {
+      "verdict": "warning",
+      "expected": "up-left",
+      "observed": "up-left in labeled ordered loop",
+      "reason": "Blind horizontal opposite; native labeled review confirms uninterrupted left-facing geometry without reversal.",
+      "horizontal_evidence": "Visor, crest and sideplane remain left between292.5and337.5.",
+      "vertical_evidence": "Raised chin and exposed underside; blind vertical passed."
+    },
+    "000": {
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "centered skyward helmet pitch",
+      "reason": "Unmistakable upward cardinal, unanimously confirmed blind.",
+      "horizontal_evidence": "Centered crest and visor.",
+      "vertical_evidence": "Chin rises, broad underside opens above collar."
+    },
+    "022.5": {
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up with slight screen-right yaw",
+      "reason": "Correct first clockwise step toward090.",
+      "horizontal_evidence": "Visor axis and sideplate shift screen-right.",
+      "vertical_evidence": "Raised chin and exposed underside."
+    },
+    "045": {
+      "verdict": "warning",
+      "expected": "up-right",
+      "observed": "up-right in labeled ordered loop",
+      "reason": "Blind horizontal opposite; native labeled review confirms progressive rightward turn without wrong quadrant.",
+      "horizontal_evidence": "Visor, near sideplate and crest advance right between022.5and067.5.",
+      "vertical_evidence": "Raised lower plane; blind vertical passed."
+    },
+    "067.5": {
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "strong right yaw with upward pitch",
+      "reason": "Smooth bridge toward090; both blind axes passed.",
+      "horizontal_evidence": "Faceplate tip and broad sideplane point right.",
+      "vertical_evidence": "Underside more exposed than090."
+    },
+    "090": {
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "screen-right",
+      "reason": "Unanimous blind cardinal confirmation.",
+      "horizontal_evidence": "Visor tip right of head center, right-facing sideplane dominates.",
+      "vertical_evidence": "Approximately level."
+    },
+    "112.5": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "right with early downward pitch",
+      "reason": "Both blind axes passed; continuous descent from090.",
+      "horizontal_evidence": "Visor and gold axis remain right.",
+      "vertical_evidence": "Crown exposure increases; lower plate drops."
+    },
+    "157.5": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "near-down with residual right yaw",
+      "reason": "Both blind axes passed; coherent continuation into180.",
+      "horizontal_evidence": "Faceplate retains right bias.",
+      "vertical_evidence": "Helmet dips toward collar."
+    },
+    "202.5": {
+      "verdict": "warning",
+      "expected": "down-left",
+      "observed": "down with subtle first left turn",
+      "reason": "Blind horizontal ambiguous; labeled loop confirms leftward step between180and225.",
+      "horizontal_evidence": "Gold axis and faceplate slightly left of skull center.",
+      "vertical_evidence": "Lowered visor and crown exposure; blind vertical passed."
+    },
+    "247.5": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "strong left yaw with downward pitch",
+      "reason": "Both blind axes passed; no quadrant crossing.",
+      "horizontal_evidence": "Left-facing sideplane dominates.",
+      "vertical_evidence": "Crown exposure and lowered faceplate."
+    },
+    "292.5": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "left with early upward pitch",
+      "reason": "Both blind axes passed; continuous ascent from270.",
+      "horizontal_evidence": "Faceplate clearly left.",
+      "vertical_evidence": "Lower plane opens and rises from collar."
+    },
+    "337.5": {
+      "verdict": "warning",
+      "expected": "up-left",
+      "observed": "up-left leading into stronger centered-up000",
+      "reason": "Both blind axes passed; larger closing pitch change remains monotonic with anchored body.",
+      "horizontal_evidence": "Faceplate left bias before recentring000.",
+      "vertical_evidence": "Underside raised;000increases pitch without reversal."
+    }
+  },
+  "warnings": [
+    {
+      "severity": "minor",
+      "directions": [
+        "045",
+        "315"
+      ],
+      "issue": "Opposite intermediate blind horizontal classifications",
+      "resolution": "Independent labeled native-size and ordered-loop review confirms intended quadrants without reversal."
+    },
+    {
+      "severity": "minor",
+      "directions": [
+        "202.5"
+      ],
+      "issue": "Intermediate horizontal ambiguity",
+      "resolution": "Subtle leftward shift visible between180and225; vertical axis passed."
+    },
+    {
+      "severity": "minor",
+      "directions": [
+        "157.5",
+        "180"
+      ],
+      "issue": "Continuity diff outlier",
+      "resolution": "Yaw recenter,3px center movement, area ratio1.007; no scale pop or identity change."
+    },
+    {
+      "severity": "minor",
+      "directions": [
+        "337.5",
+        "000"
+      ],
+      "issue": "Stronger upward pitch at closure",
+      "resolution": "Noticeable but semantically monotonic; body anchored, center movement<4px, silhouette growth5.7%; no snap, reversal or identity break."
+    },
+    {
+      "severity": "minor",
+      "directions": [
+        "202.5"
+      ],
+      "issue": "Alpha metric rows200-201",
+      "resolution": "Open gap between separate boots; not a filled-body or helmet hole."
+    }
+  ],
+  "repair_rows": []
+}

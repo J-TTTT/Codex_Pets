@@ -1,0 +1,75 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "ambiguous",
+      "B": "screen-left"
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right"
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right"
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left"
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right"
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right"
+    },
+    {
+      "pair": "vertical-1",
+      "A": "ambiguous",
+      "B": "ambiguous"
+    },
+    {
+      "pair": "vertical-2",
+      "A": "screen-down",
+      "B": "screen-up"
+    },
+    {
+      "pair": "vertical-3",
+      "A": "screen-down",
+      "B": "ambiguous"
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "ambiguous"
+    },
+    {
+      "pair": "vertical-5",
+      "A": "screen-up",
+      "B": "screen-down"
+    },
+    {
+      "pair": "vertical-6",
+      "A": "ambiguous",
+      "B": "ambiguous"
+    },
+    {
+      "pair": "vertical-7",
+      "A": "screen-down",
+      "B": "ambiguous"
+    }
+  ],
+  "note": "Exact classifications transcribed from isolated worker response; full landmark reasoning preserved in conversation."
+}

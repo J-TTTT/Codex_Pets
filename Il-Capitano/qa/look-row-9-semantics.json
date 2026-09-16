@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "edge_gate": "deterministic registration passed",
+  "directions": {
+    "000": {
+      "verdict": "pass",
+      "reason": "Strong rigidhelmet backpitch exposes broad opaque underside, beak/frontplane aims upward, crown recedes; unmistakable UP."
+    },
+    "022.5": {
+      "verdict": "pass",
+      "reason": "Raised broad lowerhelmet plane and goldaxis slightly screen-right."
+    },
+    "045": {
+      "verdict": "pass",
+      "reason": "Broad underside visible with rightward frontaxis."
+    },
+    "067.5": {
+      "verdict": "pass",
+      "reason": "Strong right yaw, slightly raised lower plate."
+    },
+    "090": {
+      "verdict": "pass",
+      "reason": "Gold front axis and beak point screen-right; near side plate broad."
+    },
+    "112.5": {
+      "verdict": "pass",
+      "reason": "Right yaw and slight crown exposure/downward beak."
+    },
+    "135": {
+      "verdict": "pass",
+      "reason": "Rightward axis plus crown expanded and beak lowered."
+    },
+    "157.5": {
+      "verdict": "warning",
+      "reason": "Clear down-right, stronger residual yaw than near-vertical ideal but no reversal."
+    }
+  },
+  "continuity": "8fullfigures edgepass, stableboots/sourceheight; continuous pitch UP toward RIGHT andDOWN-RIGHT with rigidstructure. StrongerUP repair."
+}

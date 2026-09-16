@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's pointed bronze frontplate projects left of the helmet dome, while B's projects right; the rounded rear planes and plume mass trail on the opposite sides."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's sharp visor/beak end and forward crown cluster sit on the right edge of the rounded dome; B mirrors those concrete landmarks on the left edge."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-right",
+      "reason": "In both figures the pointed frontplate and forward crown spikes extend to the right of the head center, with the smoother dome and hair volume behind them to the left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has the forward spikes and beak on the left side of the dome; B has the same forward landmarks on the right side."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's sharp frontplate lies at the helmet's leftmost edge with the rounded crown continuing right; B's frontplate lies at the rightmost edge with the crown continuing left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's beak and forward crown points project right beyond the head center, while B's project left; each rear hair mass falls behind the indicated side."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "ambiguous",
+      "reason": "A shows a clear rightward beak with the rounded dome extending left; B presents a centered crown mask and nearly balanced side planes without a reliable lateral projection."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A exposes a broad dark underside beneath the raised frontplate, whereas B shows the crown/front plane facing the viewer and its central beak descending toward the chest."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's crown plane is exposed and the pointed frontplate falls below the head center; B's beak is lifted and the dark underside band is more exposed."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A carries the visor/beak high with visible dark underside, while B presents more top crown surface and a frontplate angled downward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A's forward plate drops below the dome center with crown surface exposed; B raises the forward plate and opens the dark underside toward the viewer."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A is strongly bowed, with the central crown plate and downward beak dominating; B lifts the beak and reveals more of the dark lower face plane."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A's forward plate sits raised with a broader visible underside, while B's crown top is more exposed and its beak slopes lower toward the chest."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows a lowered forward crown cluster and more top-plane exposure; B holds the beak higher and exposes the underside band beneath it."
+    }
+  ]
+}

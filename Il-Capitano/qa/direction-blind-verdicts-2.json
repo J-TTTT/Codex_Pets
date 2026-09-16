@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's pointed visor projects left of the head center with the far plume trailing right; B mirrors this, with the visor projecting right and plume mass trailing left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows the pointed frontplate and nearer cheek plane on the left side of the crown; B places those same forward landmarks on the right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's beak-like brow extends toward the left image edge while the rounded rear helmet and hair sit right; B has the reverse arrangement."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's sharp faceplate sits left of head center and the rear hair volume falls right; B's faceplate sits right with the rear volume left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's crown point and projecting visor occupy the leftmost helmet edge, with hair sweeping behind to the right; B mirrors those landmarks."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's pointed frontplate projects to the right of the rounded helmet while the long hair trails left; B's frontplate projects left and hair trails right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "ambiguous",
+      "reason": "A's beak and near sideplane are displaced to the right of head center with the plume mass behind on the left; B is nearly frontal, with a centered crown, balanced sideplanes, and no reliable horizontal projection."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A exposes a broad visor underside/open face plane beneath a high crown, indicating the helmet is tipped back; B presents the crown and beak frontally with the point aimed downward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's crown and pointed beak roll forward and downward, hiding the lower visor plane; B lifts the frontplate, exposing more of the dark underside beneath the visor band."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A carries the visor ridge high with a visible lower face plane and raised beak; B's crown rotates toward the viewer and its pointed frontplate drops toward the chest."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A's beak and near cheek plane angle down toward the fur collar; B's visor projects higher and shows more underside below the brow, consistent with an upward pitch."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A is bowed, with the crown face dominant and the central beak pointing toward the chest; B shows a raised side profile with the visor underside visible."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "up",
+      "B": "down",
+      "reason": "A's visor band sits higher and the lower helmet plane opens away from the collar; B's pointed frontplate settles lower toward the fur and shows more crown-facing surface."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's frontplate and cheek frame pitch toward the collar with little underside exposure; B lifts the beak and exposes a broader dark plane beneath the visor ridge."
+    }
+  ]
+}

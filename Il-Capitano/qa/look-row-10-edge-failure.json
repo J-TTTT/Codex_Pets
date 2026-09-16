@@ -1,0 +1,1 @@
+{"ok":false,"error":"202.5 edge pixels 669","diagnosis":"Source components reveal poses2/3 touching: width553 instead of ~270, plus 9x9 detached speck; not character height enlargement.","row9_heights":[410,413,417,422,427,414,402,392],"repair":"Whole-row redraw maintaining heights, cape/hair closer to body for at least25px puregreen interpose corridors."}

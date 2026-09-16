@@ -1,0 +1,10 @@
+{
+  "repair_rows": [],
+  "warnings": [
+    "Precleanupchroma fringe excluded"
+  ],
+  "reviewed_by": "independent capitano_standard_qa",
+  "notes": "Lookrows notyetreviewed",
+  "visual_qa": "pass",
+  "evidence": "All9framecounts and192x208dimensions correct, review.json no errors/warnings. ConsistentopaqueBLACKhelmet/no humanfeatures, goldcrest/chains/hair/fur/cape/outfit proportions. Idlebreath, correctalternatinggaits, jumpheight, failedlowhelmetrecover, wavepalm, waitingpalmsup, workinghandnearhelmet, reviewlowforwardscan distinct. No crop/overlap/snap/detached effects/handpenetration."
+}

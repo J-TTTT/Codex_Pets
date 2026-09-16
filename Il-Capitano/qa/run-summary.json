@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "package": "C:\\Users\\56180\\.codex\\pets\\il-capitano",
+  "installed_at": "2026-09-16T12:03:35.6840651Z",
+  "hash_verified": true,
+  "spritesheet_sha256": "380CFE1D8315F5164270413603A3A205827B2EF8FEE024484D386CFC96D31F9F",
+  "run_dir": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\il-capitano",
+  "spritesheet": "final/spritesheet-extended.webp",
+  "validation": "final/validation-extended.json",
+  "chroma_despill": "qa/chroma-despill-extended.json",
+  "direction_semantics": "qa/direction-semantics.json",
+  "blind_direction_validation": "qa/direction-blind-validation.json",
+  "blind_review_resolution": "qa/blind-review-resolution.json",
+  "continuity": "qa/look-continuity.json",
+  "review": "qa/review.json",
+  "contact_sheet": "qa/contact-sheet-extended.png",
+  "direction_sheet": "qa/look-directions.png"
+}
