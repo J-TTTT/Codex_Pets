@@ -1,10 +1,10 @@
-# 八重神子生成提示词
+# Yae-Miko生成提示词
 生成方式：内置 imagegen。所有素材按 hatch-pet v2 管线合成与验收。
 
 ## base-pet
-Create one clean full-body reference sprite for Codex pet Yae_Miko.
+Create one clean full-body reference sprite for Codex pet Yae-Miko.
 
-Pet identity: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. Idle breathing blink ears and hair sway; playful wave; small-step directional running; happy jump; waiting expectant head tilt; task running thoughtful hand near chin; review focused observation; failed gently drooping ears and slight chagrin..
+Pet identity: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. Idle breathing blink ears and hair sway; playful wave; small-step directional running; happy jump; waiting expectant head tilt; task running thoughtful hand near chin; review focused observation; failed gently drooping ears and slight chagrin..
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 
 
@@ -12,13 +12,13 @@ Place a single centered pose on a perfectly flat pure cyan #00FFFF chroma-key ba
 
 
 ## failed
-Create one horizontal animation strip for Codex pet `Yae_Miko`, state `failed`.
+Create one horizontal animation strip for Codex pet `Yae-Miko`, state `failed`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 8 full-body frames in one left-to-right row on flat pure cyan #00FFFF. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -34,13 +34,13 @@ Persona-specific action: Gently drooping fox ears and a little chagrin, no tears
 
 
 ## idle
-Create one horizontal animation strip for Codex pet `Yae_Miko`, state `idle`.
+Create one horizontal animation strip for Codex pet `Yae-Miko`, state `idle`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure cyan #00FFFF. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -60,13 +60,13 @@ Persona-specific action: Tiny visible breathing, one blink, gentle hair and fox-
 
 
 ## jumping
-Create one horizontal animation strip for Codex pet `Yae_Miko`, state `jumping`.
+Create one horizontal animation strip for Codex pet `Yae-Miko`, state `jumping`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 5 full-body frames in one left-to-right row on flat pure cyan #00FFFF. Treat the row as 5 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -82,7 +82,7 @@ Persona-specific action: Lighthearted happy small jump, compact limbs.
 
 
 ## look-row-10
-Create ONE horizontal strip of exactly EIGHT separated full-body 小神子 chibi poses, looking DOWN then toward the VIEWER'S LEFT then UP-LEFT. This is eye attention around a screen, NOT a turntable rotation. NEVER show her back. Never point her nose to the image's right in this strip.
+Create ONE horizontal strip of exactly EIGHT separated full-body Yae-Miko chibi poses, looking DOWN then toward the VIEWER'S LEFT then UP-LEFT. This is eye attention around a screen, NOT a turntable rotation. NEVER show her back. Never point her nose to the image's right in this strip.
 
 Use canonical-base for face, hair, gold-purple ornaments and white-red shrine-maiden clothing. The approved cardinal strip is ordered UP, RIGHT, DOWN, LEFT: its FOURTH pose is the LEFT head family this row must use. The FOURTH pose of that approved cardinal strip is the authoritative LEFT-facing head and eye reference. Its THIRD pose is the DOWN reference. Completed row9 is supplied ONLY for size, art style and the two loop endpoints: do NOT copy its right-facing gaze direction.
 
@@ -99,7 +99,7 @@ Eight left-to-right slots:
 These correspond to clockwise attention targets 180,202.5,225,247.5,270,292.5,315,337.5, not body rotation angles. Head yaw stays restrained (roughly 0 to35 degrees); feet and torso remain planted. Follow qa/look-mechanics.md. Interpolate one coherent family with stable face proportions, head size, baseline, costume and attachments. Keep each COMPLETE silhouette INCLUDING HAIR at most70% of its invisible equal-width slot. Wide uninterrupted cyan gutters between every complete pose, no touching hair. Flat pure cyan #00FFFF background, matching attached layout guide spacing only. No labels, grid, text, effects, shadows, props, rear views or whole-body rotations. Draw all8 poses together, never stitch independently generated cells.
 
 ## look-row-9
-Create one horizontal look-direction strip for Codex pet `Yae_Miko`, atlas row 9.
+Create one horizontal look-direction strip for Codex pet `Yae-Miko`, atlas row 9.
 
 Use the attached canonical base, completed standard contact sheet, layout guide, and approved four-cardinal strip for identity, scale, registration, spacing, direction semantics, and cross-row continuity. Read `qa/look-mechanics.md` and follow its pet-specific movement and eye/prop mechanics. The approved cardinal strip is authoritative for the up, screen-right, down, and screen-left pose families. Interpolate the intermediate directions as even 22.5-degree steps between those anchors.
 
@@ -138,13 +138,13 @@ Do not rotate, skew, or tilt the whole sprite to fake gaze. Do not add replaceme
 
 
 ## review
-Create one horizontal animation strip for Codex pet `Yae_Miko`, state `review`.
+Create one horizontal animation strip for Codex pet `Yae-Miko`, state `review`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure cyan #00FFFF. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -159,13 +159,13 @@ Persona-specific action: Focused observation through slight forward lean and nar
 
 
 ## running-left
-Create one horizontal animation strip for Codex pet `Yae_Miko`, state `running-left`.
+Create one horizontal animation strip for Codex pet `Yae-Miko`, state `running-left`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 8 full-body frames in one left-to-right row on flat pure cyan #00FFFF. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -181,13 +181,13 @@ Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide mark
 
 
 ## running-right
-Create one horizontal animation strip for Codex pet `Yae_Miko`, state `running-right`.
+Create one horizontal animation strip for Codex pet `Yae-Miko`, state `running-right`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 8 full-body frames in one left-to-right row on flat pure cyan #00FFFF. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -203,13 +203,13 @@ Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide mark
 
 
 ## running
-Create one horizontal animation strip for Codex pet `Yae_Miko`, state `running`.
+Create one horizontal animation strip for Codex pet `Yae-Miko`, state `running`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure cyan #00FFFF. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -224,13 +224,13 @@ Persona-specific action: Serious thoughtful expression, hand near chin, feet pla
 
 
 ## waiting
-Create one horizontal animation strip for Codex pet `Yae_Miko`, state `waiting`.
+Create one horizontal animation strip for Codex pet `Yae-Miko`, state `waiting`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 6 full-body frames in one left-to-right row on flat pure cyan #00FFFF. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -247,13 +247,13 @@ REPAIR: Previous six poses overlapped through the long hair. Make each COMPLETE 
 
 
 ## waving
-Create one horizontal animation strip for Codex pet `Yae_Miko`, state `waving`.
+Create one horizontal animation strip for Codex pet `Yae-Miko`, state `waving`.
 
 Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
 
 Output exactly 4 full-body frames in one left-to-right row on flat pure cyan #00FFFF. Treat the row as 4 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
 
-Identity: same pet in every frame: Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Identity: same pet in every frame: Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. . Preserve silhouette, face, proportions, markings, palette, material, style, and props.
 Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..
 Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
 
@@ -268,7 +268,7 @@ Persona-specific action: Playful friendly hand wave with a gentle sly smile.
 
 
 ## look-cardinals
-Create one horizontal four-cardinal anchor strip for Codex pet `Yae_Miko`.
+Create one horizontal four-cardinal anchor strip for Codex pet `Yae-Miko`.
 
 Use the attached canonical base, completed standard contact sheet, and layout guide for exact identity, style, scale, baseline, face construction, materials, palette, markings, props, and spacing. Read `qa/look-mechanics.md` and use the pet's natural gaze mechanism.
 

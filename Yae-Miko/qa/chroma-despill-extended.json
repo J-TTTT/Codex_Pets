@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "input": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\final\\spritesheet-extended.png",
-  "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\final\\spritesheet-extended.png",
+  "input": "work/Yae-Miko/final/spritesheet-extended.png",
+  "output": "work/Yae-Miko/final/spritesheet-extended.png",
   "chroma_key": "#00FFFF",
   "algorithm": "edge-local-chroma-spill-suppression",
   "strength": 1,

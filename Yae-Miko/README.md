@@ -1,8 +1,8 @@
-# 八重神子
+# Yae-Miko
 
-本地安装路径：`C:\Users\NAMES\.codex\pets\Yae_Miko`。
+本地安装路径：`C:\Users\NAMES\.codex\pets\Yae-Miko`。
 
-以提供的八重神子插画为参考，使用内置 imagegen 制作，按 hatch-pet v2 规范合成。
+以提供的Yae-Miko插画为参考，使用内置 imagegen 制作，按 hatch-pet v2 规范合成。
 
 ## 文件
 

@@ -2,13 +2,13 @@
 
 让六位熟悉的 Q 版角色，陪你一起写代码。
 
-本仓库收录 **6 款日系 Q 版桌面拍档**，使用 `hatch-pet` 制作：**Yae Miko、Miku、Raiden Shogun、La Signora、Arlecchino、Il Capitano**。每款均包含真正透明的动画图集、**9 个标准动画状态**与 **16 个注视方向**，可安装到支持自定义 v2 拍档的 Codex 桌面应用中。
+本仓库收录 **6 款日系 Q 版桌面拍档**，使用 `hatch-pet` 制作：**Yae-Miko、Miku、Raiden Shogun、La Signora、Arlecchino、Il Capitano**。每款均包含真正透明的动画图集、**9 个标准动画状态**与 **16 个注视方向**，可安装到支持自定义 v2 拍档的 Codex 桌面应用中。
 
 ## 认识你的拍档
 
-| 八重神子 · Yae Miko | 初音未来 · Miku | 雷电将军 · Raiden Shogun |
+| Yae-Miko · Yae-Miko | 初音未来 · Miku | 雷电将军 · Raiden Shogun |
 | :---: | :---: | :---: |
-| ![小神子待机](Yae-Miko/previews/idle.gif) | ![Miku 待机](Miku/previews/idle.gif) | ![Raiden_Shogun 待机](Raiden-Shogun/previews/idle.gif) |
+| ![Yae-Miko待机](Yae-Miko/previews/idle.gif) | ![Miku 待机](Miku/previews/idle.gif) | ![Raiden_Shogun 待机](Raiden-Shogun/previews/idle.gif) |
 | 樱粉长发、狐耳与白红巫女服。温柔聪慧，带一点狡黠的笑意。 | 青绿色长双马尾与经典灰黑服装。安静乖巧，带一点天然呆。 | 深紫长辫、紫花金饰与和风服装。沉静端庄，动作温柔克制。 |
 | [全部动画](Yae-Miko/previews/) · [角色说明](Yae-Miko/README.md) | [全部动画](Miku/previews/) · [角色说明](Miku/README.md) | [全部动画](Raiden-Shogun/previews/) · [角色说明](Raiden-Shogun/README.md) |
 
@@ -24,7 +24,7 @@
 
 | 角色 | 当前仓库文件夹 | 设置中的名称 |
 | --- | --- | --- |
-| 八重神子 | [Yae-Miko](Yae-Miko/) | 小神子 |
+| Yae-Miko | [Yae-Miko](Yae-Miko/) | Yae-Miko |
 | 初音未来 | [Miku](Miku/) | Miku |
 | 雷电将军 | [Raiden-Shogun](Raiden-Shogun/) | Raiden_Shogun |
 | 女士 | [La-Signora](La-Signora/) | La Signora |
@@ -186,7 +186,7 @@ Il-Capitano/
 
 ### 文件夹名和设置里的名字不一样
 
-这是目录名与显示名称的区别。例如，仓库中的 `Yae-Miko/` 对应 **小神子**。按“角色目录”和“本地子目录”两张表操作即可，无需修改配置来匹配仓库文件夹名称。
+这是目录名与显示名称的区别。例如，仓库中的 `Yae-Miko/` 对应 **Yae-Miko**。按“角色目录”和“本地子目录”两张表操作即可，无需修改配置来匹配仓库文件夹名称。
 
 ### GitHub 上图片或目录链接打不开
 

@@ -1,7 +1,7 @@
 {
-  "pet_id": "Yae_Miko",
-  "display_name": "\u5c0f\u795e\u5b50",
-  "description": "\u6e29\u67d4\u806a\u6167\u3001\u5e26\u4e00\u70b9\u72e1\u9ee0\u7b11\u610f\u7684\u6a31\u7c89\u72d0\u8033\u5deb\u5973\u667a\u80fd\u62cd\u6863\u3002.",
+  "pet_id": "Yae-Miko",
+  "display_name": "Yae-Miko",
+  "description": "温柔聪慧、带一点狡黠笑意的樱粉狐耳巫女智能拍档。.",
   "created_at": "2026-09-15T05:39:26.287168+00:00",
   "sprite_version_number": 2,
   "atlas": {
@@ -248,13 +248,13 @@
   ],
   "references": [
     {
-      "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\references\\reference-01.png",
+      "path": "work/Yae-Miko/references/reference-01.png",
       "width": 1144,
       "height": 1375,
       "mode": "RGBA",
       "format": "PNG",
-      "source_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\reference.png",
-      "copied_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\references\\reference-01.png"
+      "source_path": "references/reference.png",
+      "copied_path": "work/Yae-Miko/references/reference-01.png"
     }
   ],
   "chroma_key": {
@@ -268,7 +268,7 @@
     "selection": "auto",
     "score": 225.28
   },
-  "pet_notes": "Reference-inspired Yae Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. Idle breathing blink ears and hair sway; playful wave; small-step directional running; happy jump; waiting expectant head tilt; task running thoughtful hand near chin; review focused observation; failed gently drooping ears and slight chagrin.",
+  "pet_notes": "Reference-inspired Yae-Miko chibi, 2 to 2.5 heads tall, big head tiny body, long cherry pink hair, fox ears, violet eyes, gold and purple ornaments, white and red shrine maiden outfit. Gentle intelligent slightly sly smile. Whole body modest compact proportions. No new props or floating effects in any state. Idle breathing blink ears and hair sway; playful wave; small-step directional running; happy jump; waiting expectant head tilt; task running thoughtful hand near chin; review focused observation; failed gently drooping ears and slight chagrin.",
   "style_preset": "auto",
   "style_notes": "Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout.",
   "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Refined Japanese anime chibi illustration, crisp outlines, simplify hair strands and fabric patterns for small desktop size, consistent face costume proportions throughout..",

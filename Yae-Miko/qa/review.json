@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames",
+  "frames_root": "work/Yae-Miko/frames",
   "states": [
     "idle",
     "running-right",
@@ -26,7 +26,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\idle\\00.png",
+          "file": "work/Yae-Miko/frames/idle/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18943,
@@ -41,7 +41,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\idle\\01.png",
+          "file": "work/Yae-Miko/frames/idle/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18583,
@@ -56,7 +56,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\idle\\02.png",
+          "file": "work/Yae-Miko/frames/idle/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18796,
@@ -71,7 +71,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\idle\\03.png",
+          "file": "work/Yae-Miko/frames/idle/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18566,
@@ -86,7 +86,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\idle\\04.png",
+          "file": "work/Yae-Miko/frames/idle/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18609,
@@ -101,7 +101,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\idle\\05.png",
+          "file": "work/Yae-Miko/frames/idle/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18787,
@@ -127,7 +127,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-right\\00.png",
+          "file": "work/Yae-Miko/frames/running-right/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16758,
@@ -142,7 +142,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-right\\01.png",
+          "file": "work/Yae-Miko/frames/running-right/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16578,
@@ -157,7 +157,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-right\\02.png",
+          "file": "work/Yae-Miko/frames/running-right/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15975,
@@ -172,7 +172,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-right\\03.png",
+          "file": "work/Yae-Miko/frames/running-right/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17661,
@@ -187,7 +187,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-right\\04.png",
+          "file": "work/Yae-Miko/frames/running-right/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16430,
@@ -202,7 +202,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-right\\05.png",
+          "file": "work/Yae-Miko/frames/running-right/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16386,
@@ -217,7 +217,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-right\\06.png",
+          "file": "work/Yae-Miko/frames/running-right/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16359,
@@ -232,7 +232,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-right\\07.png",
+          "file": "work/Yae-Miko/frames/running-right/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15839,
@@ -258,7 +258,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-left\\00.png",
+          "file": "work/Yae-Miko/frames/running-left/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16913,
@@ -273,7 +273,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-left\\01.png",
+          "file": "work/Yae-Miko/frames/running-left/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16571,
@@ -288,7 +288,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-left\\02.png",
+          "file": "work/Yae-Miko/frames/running-left/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16338,
@@ -303,7 +303,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-left\\03.png",
+          "file": "work/Yae-Miko/frames/running-left/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16194,
@@ -318,7 +318,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-left\\04.png",
+          "file": "work/Yae-Miko/frames/running-left/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16590,
@@ -333,7 +333,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-left\\05.png",
+          "file": "work/Yae-Miko/frames/running-left/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16806,
@@ -348,7 +348,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-left\\06.png",
+          "file": "work/Yae-Miko/frames/running-left/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15834,
@@ -363,7 +363,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running-left\\07.png",
+          "file": "work/Yae-Miko/frames/running-left/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 16656,
@@ -389,7 +389,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waving\\00.png",
+          "file": "work/Yae-Miko/frames/waving/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19889,
@@ -404,7 +404,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waving\\01.png",
+          "file": "work/Yae-Miko/frames/waving/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20335,
@@ -419,7 +419,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waving\\02.png",
+          "file": "work/Yae-Miko/frames/waving/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20020,
@@ -434,7 +434,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waving\\03.png",
+          "file": "work/Yae-Miko/frames/waving/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20047,
@@ -460,7 +460,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\jumping\\00.png",
+          "file": "work/Yae-Miko/frames/jumping/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21807,
@@ -475,7 +475,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\jumping\\01.png",
+          "file": "work/Yae-Miko/frames/jumping/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19319,
@@ -490,7 +490,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\jumping\\02.png",
+          "file": "work/Yae-Miko/frames/jumping/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 21122,
@@ -505,7 +505,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\jumping\\03.png",
+          "file": "work/Yae-Miko/frames/jumping/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19699,
@@ -520,7 +520,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\jumping\\04.png",
+          "file": "work/Yae-Miko/frames/jumping/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20495,
@@ -546,7 +546,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\failed\\00.png",
+          "file": "work/Yae-Miko/frames/failed/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19363,
@@ -561,7 +561,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\failed\\01.png",
+          "file": "work/Yae-Miko/frames/failed/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19473,
@@ -576,7 +576,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\failed\\02.png",
+          "file": "work/Yae-Miko/frames/failed/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20433,
@@ -591,7 +591,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\failed\\03.png",
+          "file": "work/Yae-Miko/frames/failed/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 22694,
@@ -606,7 +606,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\failed\\04.png",
+          "file": "work/Yae-Miko/frames/failed/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19528,
@@ -621,7 +621,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\failed\\05.png",
+          "file": "work/Yae-Miko/frames/failed/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19006,
@@ -636,7 +636,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\failed\\06.png",
+          "file": "work/Yae-Miko/frames/failed/06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18855,
@@ -651,7 +651,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\failed\\07.png",
+          "file": "work/Yae-Miko/frames/failed/07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19006,
@@ -677,7 +677,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waiting\\00.png",
+          "file": "work/Yae-Miko/frames/waiting/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19014,
@@ -692,7 +692,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waiting\\01.png",
+          "file": "work/Yae-Miko/frames/waiting/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18667,
@@ -707,7 +707,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waiting\\02.png",
+          "file": "work/Yae-Miko/frames/waiting/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18760,
@@ -722,7 +722,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waiting\\03.png",
+          "file": "work/Yae-Miko/frames/waiting/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17563,
@@ -737,7 +737,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waiting\\04.png",
+          "file": "work/Yae-Miko/frames/waiting/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18730,
@@ -752,7 +752,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\waiting\\05.png",
+          "file": "work/Yae-Miko/frames/waiting/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18534,
@@ -778,7 +778,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running\\00.png",
+          "file": "work/Yae-Miko/frames/running/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17940,
@@ -793,7 +793,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running\\01.png",
+          "file": "work/Yae-Miko/frames/running/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17891,
@@ -808,7 +808,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running\\02.png",
+          "file": "work/Yae-Miko/frames/running/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17987,
@@ -823,7 +823,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running\\03.png",
+          "file": "work/Yae-Miko/frames/running/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17880,
@@ -838,7 +838,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running\\04.png",
+          "file": "work/Yae-Miko/frames/running/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17885,
@@ -853,7 +853,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\running\\05.png",
+          "file": "work/Yae-Miko/frames/running/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18009,
@@ -879,7 +879,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\review\\00.png",
+          "file": "work/Yae-Miko/frames/review/00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18942,
@@ -894,7 +894,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\review\\01.png",
+          "file": "work/Yae-Miko/frames/review/01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18203,
@@ -909,7 +909,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\review\\02.png",
+          "file": "work/Yae-Miko/frames/review/02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19058,
@@ -924,7 +924,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\review\\03.png",
+          "file": "work/Yae-Miko/frames/review/03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19533,
@@ -939,7 +939,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\review\\04.png",
+          "file": "work/Yae-Miko/frames/review/04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19325,
@@ -954,7 +954,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\xiaoshenzi\\frames\\review\\05.png",
+          "file": "work/Yae-Miko/frames/review/05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18862,
