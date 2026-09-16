@@ -1,0 +1,9 @@
+{
+  "evidence": "All9counts correct; review.json oktrue errors/warnings empty. Consistentidentity silverblackhair redXpupils blackhandsredtips outfitproportions connectedlimbs/tails cleanseparation. Idlemicrovariation, correctalternatingdirectionalgaits, wave, jumprise/apex/landing, waitingpalmup, workinghandchin, reviewlowforwardscan, failedrestrained allreadable.",
+  "warnings": [
+    "Precleanup chroma fringe excluded from visual scope"
+  ],
+  "visual_qa": "pass",
+  "reviewed_by": "independent arlecchino_standard_qa",
+  "repair_rows": []
+}

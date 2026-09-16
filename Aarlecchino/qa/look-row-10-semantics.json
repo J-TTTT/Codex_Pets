@@ -1,0 +1,9 @@
+{
+  "verdict": "pass",
+  "evidence": "8leftarcposes remaincoherent withrightarc atnative192x208; immutable0.4125registration passedafterwhole-strip sizeedit. Leftheadfamily andredXeyeconstruction maintained, completeedges.",
+  "reviewed_by": "parent andindependentgeometryreview",
+  "warnings": [
+    "Sourcecanvaswidth1pxdiff accepted bycomponent-basedregistration, no pixelgeometryassumption.",
+    "Pose-driven boundaryarea differences accepted byindependentnative-size review; finalfullQA pending."
+  ]
+}

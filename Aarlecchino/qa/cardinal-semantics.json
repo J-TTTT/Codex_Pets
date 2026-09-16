@@ -1,0 +1,14 @@
+{
+  "directions": {
+    "270": "ScreenLEFT: fourthhead nose/visibleface towardimageleft, backheadhair towardright",
+    "000": "Up: raisedeye line, frontalface withliftedchin",
+    "180": "Down: loweredchin/eyelids and redXeyesdownward",
+    "090": "ScreenRIGHT: source secondhead has facial surface and protrudingnose/mouth towardright edge ofhead; left imagehair/backhead more visible"
+  },
+  "verdict": "pass",
+  "reviewed_by": "parent",
+  "identity": "Original redXeyeconstruction, originalhairpartitions, referenceoutfit, fulltips",
+  "warnings": [
+    "Single optionalpilot reviewer reversed both horizontal labels despite explicit screen-coordinate instruction. Parent nativeview confirms secondnose/face projects imageRIGHT and fourthnose/face imageLEFT. Mandatory final three-workerblind gate remains pending and cannot be overridden."
+  ]
+}

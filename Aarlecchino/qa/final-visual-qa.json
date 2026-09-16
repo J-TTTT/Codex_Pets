@@ -1,0 +1,141 @@
+{
+  "visual_qa": "pass",
+  "reviewed_by": "independent arlecchino_final_qa",
+  "evidence": "Extended contact sheet and native direction pages show consistent Arlecchino identity, silver-black hair, red X eyes, black hands with red tips, outfit, props, complete silhouettes, clean transparency, correct standard row semantics, and all 16 ordered gazes. Cardinal directions are readable and the ordered loop has no visible identity change, reversal, crop, or face warp. Alpha gaps at y181-189 are intentional negative spaces between boots and coat tails.",
+  "warnings": [
+    "Continuity metrics show accepted pose-driven boundary outliers at 157.5->180 and 337.5->000; native-size review shows no conspicuous snap or pop.",
+    "Intermediate diagonal gaze cues are subtler than cardinals but remain coherent in the labeled ordered loop.",
+    "Pre-cleanup chroma fringe is excluded; final despill and strict v2 validation passed."
+  ],
+  "repair_notes": "none",
+  "directions": {
+    "135": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Stronger downward pitch while retaining rightward turn.",
+      "horizontal_evidence": "Face/nose remain right of head center.",
+      "vertical_evidence": "Lowered chin and eyelids clearly indicate downward aim.",
+      "reason": "Coherent down-right progression."
+    },
+    "180": {
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "Head lowered with eyes directed downward.",
+      "horizontal_evidence": "Face is centered with balanced side framing.",
+      "vertical_evidence": "Chin is lowest and eyelids/eyes aim below head center.",
+      "reason": "Unmistakable down cardinal."
+    },
+    "225": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Clear image-left turn with downward head pitch.",
+      "horizontal_evidence": "Nose/face project image-left; back hair is more visible on image-right.",
+      "vertical_evidence": "Eyes and chin remain lowered.",
+      "reason": "Readable down-left diagonal."
+    },
+    "270": {
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "Face and nose aim clearly toward image-left.",
+      "horizontal_evidence": "Nose tip projects left; back hair is more visible on image-right.",
+      "vertical_evidence": "Head is approximately level.",
+      "reason": "Unmistakable left cardinal."
+    },
+    "315": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Stronger image-left turn with elevated gaze.",
+      "horizontal_evidence": "Face/nose remain left of head center.",
+      "vertical_evidence": "Raised chin and eye line indicate upward aim.",
+      "reason": "Coherent up-left progression."
+    },
+    "000": {
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "Raised chin and eye line; frontal face aims above image center.",
+      "horizontal_evidence": "Face remains centered with balanced left/right hair framing.",
+      "vertical_evidence": "Chin lifts and pupils/eye line sit high relative to head center.",
+      "reason": "Unmistakable upward gaze."
+    },
+    "022.5": {
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Slight turn toward image-right while retaining raised chin.",
+      "horizontal_evidence": "Nose and facial plane shift slightly toward image-right.",
+      "vertical_evidence": "Eye line remains above neutral with raised chin.",
+      "reason": "Coherent first intermediate step from up toward right."
+    },
+    "045": {
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Clearer image-right face turn with elevated gaze.",
+      "horizontal_evidence": "Nose tip and visible face project image-right of head center.",
+      "vertical_evidence": "Chin and pupils remain above neutral level.",
+      "reason": "Readable up-right diagonal."
+    },
+    "067.5": {
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "Near-right profile with slight upward head pitch.",
+      "horizontal_evidence": "Nose/face surface is distinctly on image-right.",
+      "vertical_evidence": "Head pitch remains slightly elevated relative to 090.",
+      "reason": "Natural transition into right cardinal."
+    },
+    "090": {
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "Face and nose aim clearly toward image-right.",
+      "horizontal_evidence": "Nose tip projects toward the right edge; back hair is more visible on image-left.",
+      "vertical_evidence": "Head is approximately level.",
+      "reason": "Unmistakable right cardinal."
+    },
+    "112.5": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Right-facing head with lowered eyes and chin.",
+      "horizontal_evidence": "Nose and facial plane remain image-right.",
+      "vertical_evidence": "Eye line and chin drop below the 090 level.",
+      "reason": "Readable down-right diagonal."
+    },
+    "157.5": {
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "Near-down pose with residual image-right orientation.",
+      "horizontal_evidence": "Nose and visible face remain slightly image-right.",
+      "vertical_evidence": "Chin and eyes are strongly lowered.",
+      "reason": "Natural approach to down cardinal."
+    },
+    "202.5": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Slight image-left turn from down with lowered gaze.",
+      "horizontal_evidence": "Nose and facial plane shift image-left of center.",
+      "vertical_evidence": "Chin remains below neutral.",
+      "reason": "Coherent first step into down-left arc."
+    },
+    "247.5": {
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "Near-left profile with residual downward pitch.",
+      "horizontal_evidence": "Face and nose are distinctly image-left.",
+      "vertical_evidence": "Head remains slightly lowered relative to 270.",
+      "reason": "Natural transition into left cardinal."
+    },
+    "292.5": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Left-facing head with slight upward pitch.",
+      "horizontal_evidence": "Nose and facial plane remain image-left.",
+      "vertical_evidence": "Chin lifts slightly from 270 and eye line rises.",
+      "reason": "Readable up-left diagonal."
+    },
+    "337.5": {
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "Near-frontal pose with slight image-left turn and raised gaze.",
+      "horizontal_evidence": "Nose and facial plane sit slightly image-left of center.",
+      "vertical_evidence": "Chin and eyes are elevated approaching 000.",
+      "reason": "Natural closure back to up cardinal."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-09-16T09:16:49.9685458Z",
+  "stage": "Complete: Arlecchino v2 packaged and installed, hashesverified",
+  "reference": "User approved attachment only",
+  "passed_standard_rows": 9,
+  "time_target_minutes": 30,
+  "checklist": [
+    "Getting ready: complete",
+    "Main look: complete",
+    "All poses: complete",
+    "Hatching andinstallation: complete"
+  ],
+  "retries": [
+    "Running: connected hairtips merge two figures; stable-slot component groups also fail. Whole-strip uniform25percent reduction for puregreen gutters.",
+    "Failed: touching silhouettes form one largecomponent and outerrightedge touchescanvas. Whole-strip uniform25percent reduction for clear separation andsafeedges.",
+    "Row10 firstsource497-504px vsrow9max480 atimmutable0.4125; finaledge180 fails52pixels. Whole-strip size-only builtin5percent edit preservingacceptedleftfaces."
+  ],
+  "updated_at": "2026-09-16T10:21:30.5809865Z",
+  "elapsed_minutes": 64.7,
+  "checkpoint": "All9standardstates and16directions; strictv2/transparency pass,3blindhardcardinals unanimouspass, independentfinalvisualpass; minor diagonalpitch/continuitywarnings accepted with evidence."
+}

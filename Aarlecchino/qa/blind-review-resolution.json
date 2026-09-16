@@ -1,0 +1,20 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "failed_checks": [
+    "vertical-6 A315 up axis ambiguous",
+    "vertical-6 B225 down axis ambiguous",
+    "vertical-7 B292.5 up axis ambiguous"
+  ],
+  "evidence": "Independent final native-size labeled review confirms lowered eyes/chin at225 and raised eyes/chin at292.5/315; subtle diagonal pitch remains coherent in ordered loop. All four hard cardinals unanimously correct in three isolated blind reviews; all horizontal pairs confirmed by majority. Separate independent geometry review plus final QA accepts pose-driven boundary metrics without conspicuous snap/pop or reversal. Alpha flags at y181-189 are intentional boot/coat-tail spaces, not interior holes.",
+  "retained_evidence": [
+    "direction-blind-validation.json",
+    "direction-blind-verdicts.json",
+    "direction-semantics.json",
+    "look-continuity.json",
+    "look-geometry-review.json",
+    "final-visual-qa.json"
+  ],
+  "parent_note": "Final reviewer uses generic word props to refer to attached costume details; pet has empty hands, no weapons or added props. Cardinal180 is judged on vertical axis; minor residual headyaw does not change downward interpretation."
+}

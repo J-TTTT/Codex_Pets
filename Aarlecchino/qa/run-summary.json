@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "package": "C:\\Users\\56180\\.codex\\pets\\arlecchino",
+  "installed_at": "2026-09-16T10:20:16.0148548Z",
+  "hash_verified": true,
+  "spritesheet_sha256": "CA8AA7A2FDCC39F0FBB03C6CE0090D8EF85127CE6323E01314CD8C57EDBA2278",
+  "run_dir": "C:\\Users\\56180\\Documents\\Codex\\2026-09-15\\hatch-pet-c-users-56180-codex-2\\work\\arlecchino",
+  "spritesheet": "final/spritesheet-extended.webp",
+  "validation": "final/validation-extended.json",
+  "chroma_despill": "qa/chroma-despill-extended.json",
+  "direction_semantics": "qa/direction-semantics.json",
+  "blind_direction_validation": "qa/direction-blind-validation.json",
+  "blind_review_resolution": "qa/blind-review-resolution.json",
+  "continuity": "qa/look-continuity.json",
+  "review": "qa/review.json",
+  "contact_sheet": "qa/contact-sheet-extended.png",
+  "direction_sheet": "qa/look-directions.png"
+}

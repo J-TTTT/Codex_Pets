@@ -1,0 +1,27 @@
+{
+  "cells": [
+    {
+      "index": 1,
+      "evidence": "Elevatedeyes relative tonose",
+      "direction": "up"
+    },
+    {
+      "index": 2,
+      "evidence": "Worker describednose/chinleft",
+      "direction": "left"
+    },
+    {
+      "index": 3,
+      "evidence": "Loweredeyelids/pupils",
+      "direction": "down"
+    },
+    {
+      "index": 4,
+      "evidence": "Worker describednose/cheekright",
+      "direction": "right"
+    }
+  ],
+  "redX": "consistent",
+  "reviewed_by": "independent arlecchino_anchor_qa",
+  "damage": "none"
+}
