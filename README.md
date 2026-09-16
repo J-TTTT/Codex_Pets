@@ -6,7 +6,7 @@
 
 ## 认识你的拍档
 
-| 八重神子 · 小神子 | 初音未来 · Miku | 雷电将军 · Raiden_Shogun |
+| 八重神子 · Yae-Miko | 初音未来 · Miku | 雷电将军 · Raiden_Shogun |
 | :---: | :---: | :---: |
 | ![小神子待机](Yae-Miko/previews/idle.gif) | ![Miku 待机](Miku/previews/idle.gif) | ![Raiden_Shogun 待机](Raiden-Shogun/previews/idle.gif) |
 | 樱粉长发、狐耳与白红巫女服。温柔聪慧，带一点狡黠的笑意。 | 青绿色长双马尾与经典灰黑服装。安静乖巧，带一点天然呆。 | 深紫长辫、紫花金饰与和风服装。沉静端庄，动作温柔克制。 |
