@@ -6,13 +6,13 @@
 
 ## 认识你的拍档
 
-| 八重神子 · 小神子 | 初音未来 · Miku | 雷电将军 · Raiden_Shogun |
+| 八重神子 · Yae_Miko | 初音未来 · Miku | 雷电将军 · Raiden_Shogun |
 | :---: | :---: | :---: |
-| ![小神子待机](Yae_Miko/previews/idle.gif) | ![Miku 待机](miku/previews/idle.gif) | ![Raiden_Shogun 待机](raiden-shogun/previews/idle.gif) |
+| ![Yae_Miko待机](Yae_Miko/previews/idle.gif) | ![Miku 待机](miku/previews/idle.gif) | ![Raiden_Shogun 待机](raiden-shogun/previews/idle.gif) |
 | 樱粉长发、狐耳与白红巫女服。温柔聪慧，带一点狡黠的笑意。 | 青绿色长双马尾与经典灰黑服装。安静乖巧，带一点天然呆。 | 深紫长辫、紫花金饰与和风服装。沉静端庄，动作温柔克制。 |
 | [动画预览](Yae_Miko/previews/) · [下载素材包](Yae_Miko.zip) | [动画预览](miku/previews/) · [下载素材包](miku.zip) | [动画预览](raiden-shogun/previews/) · [下载素材包](raiden-shogun.zip) |
 
-> 设置中的角色名称由 `pet.json` 的 `displayName` 决定。目前八重神子显示为 **小神子**，其余两款显示为 **Miku** 和 **Raiden_Shogun**。
+> 设置中的角色名称由 `pet.json` 的 `displayName` 决定。目前八重神子显示为 **Yae_Miko**，其余两款显示为 **Miku** 和 **Raiden_Shogun**。
 
 ## 特点
 
