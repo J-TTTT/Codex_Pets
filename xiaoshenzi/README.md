@@ -1,4 +1,4 @@
-# 小神子
+# 八重神子
 
 本地安装路径：`C:\Users\NAMES\.codex\pets\Yae_Miko`。
 
