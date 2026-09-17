@@ -1,0 +1,3 @@
+visual_qa=pass
+qa_note=Independent review inspected canonical and original clean references, contact sheet, review.json, and all 57 GIF frames as temporal strips at 192x208. All nine states distinct, correct facing and alternating toe/hem gait, actual jump lift and settle, consistent original costume and props. No repair rows.
+review_warnings=Jump uses stable-slots to preserve intentional lift; accepted visually.

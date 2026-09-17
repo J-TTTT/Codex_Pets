@@ -1,0 +1,109 @@
+{
+  "generation_mode": "built-in imagegen",
+  "record_scope": "Selected final jobs from the original production manifest; not a complete retry history",
+  "jobs": [
+    {
+      "id": "base",
+      "kind": "base-pet",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aead-b176-7d73-a291-03a3db04d9bc\\exec-777e13fe-f227-41dd-a7f7-058ecec5137a.png",
+      "output_path": "decoded/base.png"
+    },
+    {
+      "id": "idle",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aeb2-ae3c-79c2-afb8-e32744638674\\exec-8279b8ba-0127-494e-a70a-e5f8d91e5ff1.png",
+      "completed_at": "2026-09-17T09:41:28.1897465Z",
+      "output_path": "decoded/idle.png"
+    },
+    {
+      "id": "running-right",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aeb2-d2f2-78d1-81a4-e085aae653be\\exec-858fd3a9-fb95-49ba-82c2-e5711e8c3c91.png",
+      "completed_at": "2026-09-17T09:36:13.4805254Z",
+      "output_path": "decoded/running-right.png"
+    },
+    {
+      "id": "running-left",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aeb9-730e-7ec3-9a32-21f303b0987a\\exec-5963d2ce-67be-4e59-ae03-6857d4f0b47e.png",
+      "completed_at": "2026-09-17T09:40:25.1538116Z",
+      "output_path": "decoded/running-left.png"
+    },
+    {
+      "id": "waving",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aeb2-fd22-7b42-8abf-43395a0965fd\\exec-63ce1892-d018-44fc-941f-b7dbe989229e.png",
+      "completed_at": "2026-09-17T09:33:47.6489237Z",
+      "output_path": "decoded/waving.png"
+    },
+    {
+      "id": "jumping",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aeb6-5052-7c01-b212-14354345ae56\\exec-305438b4-d490-4de2-94cc-3ee31c0ba53e.png",
+      "completed_at": "2026-09-17T09:39:27.3537936Z",
+      "output_path": "decoded/jumping.png"
+    },
+    {
+      "id": "failed",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aebb-e055-70b3-af1f-16fa1f04fadb\\exec-0675a2b5-54a8-4bb3-a55f-6e62248dd620.png",
+      "completed_at": "2026-09-17T09:46:11.3237485Z",
+      "output_path": "decoded/failed.png"
+    },
+    {
+      "id": "waiting",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aebc-c2a8-7883-94f5-5a8213df5c24\\exec-78ac70a8-2686-4504-9b4f-24f53c272609.png",
+      "completed_at": "2026-09-17T09:46:11.2526621Z",
+      "output_path": "decoded/waiting.png"
+    },
+    {
+      "id": "running",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aebd-e46d-7c80-b7a1-b9dba1beed37\\exec-e0267eaf-19af-4527-86ae-d2330ef0200e.png",
+      "completed_at": "2026-09-17T09:46:11.3423284Z",
+      "output_path": "decoded/running.png"
+    },
+    {
+      "id": "review",
+      "kind": "row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aec0-b076-7313-9c0c-cf0cc5c8c2bb\\exec-be99bb02-7ca3-4a0b-a086-67de961f8aa8.png",
+      "completed_at": "2026-09-17T09:48:04.5495741Z",
+      "output_path": "decoded/review.png"
+    },
+    {
+      "id": "look-cardinals",
+      "kind": "look-cardinal-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aec8-0e76-7fa2-8b36-4420869634c4\\exec-259cd8b7-ef54-4489-bbc9-9f0d571eb4a3.png",
+      "completed_at": "2026-09-17T10:31:37.5336047Z",
+      "output_path": "decoded/look-cardinals.png"
+    },
+    {
+      "id": "look-row-9",
+      "kind": "look-row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aed3-ad6a-7de3-a447-b55f45267785\\exec-500dc0f6-b3b0-47e9-a1b5-90de68493051.png",
+      "completed_at": "2026-09-17T10:13:47.1703181Z",
+      "output_path": "decoded/look-row-9.png"
+    },
+    {
+      "id": "look-row-10",
+      "kind": "look-row-strip",
+      "status": "complete",
+      "source_path": "C:\\Users\\56180\\.codex\\generated_images\\01a0aedb-dd33-7c40-a5bf-3fd36fdf7ef5\\exec-a5c58e15-e4e3-4204-aaf8-935cab5e4df3.png",
+      "completed_at": "2026-09-17T10:25:51.9306654Z",
+      "output_path": "decoded/look-row-10.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "reviewer": "Independent standard_qa worker, registered normal-size directions and continuity review",
+  "ok": true,
+  "directions": [
+    {"degree":"000","verdict":"pass","expected":"up","observed":"up","horizontal":"Centered nose and balanced eyes","vertical":"Pupils high; nose and chin lifted","reason":"Unmistakable upward face pitch with stable lower body"},
+    {"degree":"022.5","verdict":"pass","expected":"up-right","observed":"up-right","horizontal":"Nose and pupils begin turning screen-right","vertical":"Pupils remain high with raised chin","reason":"Even first step toward screen-right from up"},
+    {"degree":"045","verdict":"pass","expected":"up-right","observed":"up-right","horizontal":"Rightward nose projection and pupil aim","vertical":"Upward eye aim and lifted face","reason":"Both axes read within coherent head family"},
+    {"degree":"067.5","verdict":"pass","expected":"up-right","observed":"up-right","horizontal":"Clear rightward face turn","vertical":"Slight upward eye aim and chin lift","reason":"Subtle upward component remains at near-horizontal diagonal"},
+    {"degree":"090","verdict":"pass","expected":"screen-right","observed":"screen-right","horizontal":"Nose projects right of skull center and both pupils aim right","vertical":"Eyes and chin approximately horizontal","reason":"Unmistakable right cardinal without whole-body rotation"},
+    {"degree":"112.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal":"Rightward face orientation persists","vertical":"Lowered eyelids, pupils and chin","reason":"Begins downward pitch while retaining rightward aim"},
+    {"degree":"135","verdict":"pass","expected":"down-right","observed":"down-right","horizontal":"Pupils and nose retain rightward aim","vertical":"Lowered face and gaze","reason":"Clear down-right pose in continuing arc"},
+    {"degree":"157.5","verdict":"pass","expected":"down-right","observed":"down-right","horizontal":"Slight rightward pupil and nose offset","vertical":"Downward pitch dominates with lowered chin and lids","reason":"Near-down secondary horizontal cue remains subtle but coherent"},
+    {"degree":"180","verdict":"pass","expected":"down","observed":"down","horizontal":"Nose centered","vertical":"Head bowed, forehead prominent, chin and lids lower","reason":"Unmistakable downward face and gaze"},
+    {"degree":"202.5","verdict":"pass","expected":"down-left","observed":"down-left","horizontal":"Nose and eyes shift slightly screen-left","vertical":"Bowed head and low lids","reason":"First continuous leftward step from down"},
+    {"degree":"225","verdict":"pass","expected":"down-left","observed":"down-left","horizontal":"Visible leftward nose projection and pupil aim","vertical":"Chin and gaze lowered","reason":"Both axes visible with preserved face proportions"},
+    {"degree":"247.5","verdict":"pass","expected":"down-left","observed":"down-left","horizontal":"Pronounced screen-left face turn","vertical":"Slight residual downward pitch","reason":"Near-horizontal diagonal retains downward component"},
+    {"degree":"270","verdict":"pass","expected":"screen-left","observed":"screen-left","horizontal":"Nose projects left of skull center and pupils aim left","vertical":"Face approximately level","reason":"Unmistakable left cardinal, redrawn head not mirrored body"},
+    {"degree":"292.5","verdict":"pass","expected":"up-left","observed":"up-left","horizontal":"Leftward face and pupil aim persists","vertical":"Pupils rise and chin lifts","reason":"Natural upward transition in left-facing family"},
+    {"degree":"315","verdict":"pass","expected":"up-left","observed":"up-left","horizontal":"Leftward nose and pupils","vertical":"Raised eyes and lifted face","reason":"Clear up-left direction without deformation"},
+    {"degree":"337.5","verdict":"pass","expected":"up-left","observed":"up-left","horizontal":"Slight leftward aim remains","vertical":"Upward pupils and chin lift dominate","reason":"Ends one step before centered up, coherent wraparound"}
+  ],
+  "continuity":"Pass: identity, attached veil, fixed anatomical shoulder and microphone sides, long-skirt continuity, scale and baseline remain coherent across all adjacent poses and row boundaries.",
+  "reviewed_warnings":["000→022.5 and 157.5→180 pixel-difference outliers reflect head/face changes without conspicuous registration or scale jumps.","Secondary-axis cues near cardinal directions are subtle, but ordered labeled review confirms intended quadrants and no reversal."]
+}

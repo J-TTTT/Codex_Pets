@@ -1,0 +1,12 @@
+row9_qa=pass
+000: H centered; V pupils high, lifted nose/chin.
+022.5: H slight right; V raised pupils/chin.
+045: H rightward nose/pupils; V upward eyes/face.
+067.5: H clear right head; V residual upward gaze/chin.
+090: H nose/pupils right; V horizontal eye/chin.
+112.5: H right persists; V lower eyes/chin.
+135: H right nose/pupils; V down face/gaze.
+157.5: H slight right; V down pitch dominates.
+continuity=pass. No jumps, identity/veil/shoulder/microphone/gown/baseline preserved.
+warning=Near intermediate angles remain cohesive and in correct quadrant.
+reviewer=standard_qa independent worker

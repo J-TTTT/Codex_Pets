@@ -1,0 +1,50 @@
+[
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\arlecchino\\pet.json",
+    "Hash": "310F9BDE19854A8E5779E0B408F2051F4388CFBE901D5102216617CFE3C165A7"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\arlecchino\\spritesheet.webp",
+    "Hash": "CA8AA7A2FDCC39F0FBB03C6CE0090D8EF85127CE6323E01314CD8C57EDBA2278"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\il-capitano\\pet.json",
+    "Hash": "1F53F7FA754679600C22550E267E95479C081DD95D15A57E8CF977A0606D2189"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\il-capitano\\spritesheet.webp",
+    "Hash": "380CFE1D8315F5164270413603A3A205827B2EF8FEE024484D386CFC96D31F9F"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\la-signora\\pet.json",
+    "Hash": "6056BAB4DFD5D78A31DE90E5505B8DEB4BDBF55A399ADCBF7AEC75B6D606B09F"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\la-signora\\spritesheet.webp",
+    "Hash": "2C52E4851A4918EDF6B1141308B2FD6776D63B374AB8C981A11B944A207A7E88"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\miku\\pet.json",
+    "Hash": "64569E4207BB1421EF7A40C21FD5AF88ABE32DC35BF565E13A4FEBEC799A9284"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\miku\\spritesheet.webp",
+    "Hash": "9657F53876B53CA53DB959C62851462F70CC08D5699DBD270C69EB5770477D01"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\raiden-shogun\\pet.json",
+    "Hash": "1D549FD8C3504D3731A79CDADE7805C8BD7AEAE136A0B9BF4C5866D51C680C4B"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\raiden-shogun\\spritesheet.webp",
+    "Hash": "53D2E65D572F6EE53BEF7971DB961EBC4D9B2FF28FBE9E3ED196197766C15736"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\xiaoshenzi\\pet.json",
+    "Hash": "ED969D42B544D75FA1A896473C2076B7FBD26A4FD8F565E63ED0AC11A86D39D2"
+  },
+  {
+    "Path": "C:\\Users\\56180\\.codex\\pets\\xiaoshenzi\\spritesheet.webp",
+    "Hash": "35363B17A918F0CB5FDD19197B28F074330656196514EC619F7DA3CD69B7163C"
+  }
+]

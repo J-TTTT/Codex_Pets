@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\gem-bridal",
+  "spritesheet": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\outputs\\gem-bridal\\spritesheet.webp",
+  "validation": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\outputs\\gem-bridal-qa\\validation-extended.json",
+  "chroma_despill": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\outputs\\gem-bridal-qa\\chroma-despill-extended.json",
+  "contact_sheet": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\outputs\\gem-bridal-qa\\contact-sheet-extended.png",
+  "direction_sheet": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\outputs\\gem-bridal-qa\\look-directions.png",
+  "direction_semantics": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\outputs\\gem-bridal-qa\\direction-semantics.json",
+  "blind_direction_validation": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\outputs\\gem-bridal-qa\\direction-blind-validation.json",
+  "continuity": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\outputs\\gem-bridal-qa\\look-continuity.json",
+  "package": "C:\\Users\\56180\\.codex\\pets\\gem-bridal",
+  "installed": true,
+  "standard_animation_frames": 57,
+  "look_directions": 16,
+  "neutral_cell": true,
+  "visual_qa": "pass",
+  "blind_axes": "28/28 unanimous across three isolated reviewers",
+  "existing_pets_unchanged": true,
+  "intermediates_retained": "Automatic approval rejected optional recursive cleanup; retained safely."
+}

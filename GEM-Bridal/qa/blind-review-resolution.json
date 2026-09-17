@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "decision": "pass",
+  "override_used": false,
+  "reason": "All three isolated reviewers agreed on all 28 horizontal/vertical axis classifications; no blind-review override was needed.",
+  "blind_validation": "direction-blind-validation.json",
+  "accepted_continuity_warnings": [
+    {
+      "pair": "000→022.5",
+      "reason": "Pixel-difference outlier reviewed as head/face change without conspicuous scale or body-registration jump."
+    },
+    {
+      "pair": "157.5→180",
+      "reason": "Pixel-difference outlier reviewed as natural transition into bowed cardinal without conspicuous scale or body-registration jump."
+    }
+  ],
+  "evidence": [
+    "direction-semantics.json",
+    "look-continuity.json",
+    "final-visual-qa.json"
+  ]
+}

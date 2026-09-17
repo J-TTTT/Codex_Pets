@@ -1,0 +1,6 @@
+visual_qa=pass
+qa_note=Independent final worker inspected both contact sheets and all73 GIF frames through temporal contacts. Nine state motions and16 gaze poses preserve reference identity, fixed microphone hand, asymmetric neckline, connected veil, long skirt and intentional scorch details, without clipping, accidental transparent seams, conspicuous scale pops or direction reversals.
+direction_semantics=000 pass centered nose,raised pupils/chin;022.5 pass slight right nose/pupils,lifted gaze;045 pass right face/up pupils;067.5 pass right nose/slight up gaze;090 pass nose/pupils screen-right,level face;112.5 pass right face/lowered gaze;135 pass right nose/eyes/down pitch;157.5 pass subtle right nose/eyes,bowed gaze;180 pass centered nose,bowed head/lowered lids;202.5 pass slight left nose/eyes,down pitch;225 pass left nose/pupils,lower chin;247.5 pass left face,slight down gaze;270 pass nose/pupils screen-left,level face;292.5 pass left face/pupils,rising chin;315 pass left nose/pupils,raised gaze;337.5 pass subtle left aim,strong up gaze.
+review_warnings=Accepted000->022.5 and157.5->180 diff outliers as natural head changes without scale/registration jumps. Near-cardinal axes subtle but coherent, confirmed unanimously by blind review. Jump stable-slots verified compact unclipped crouch-rise-land motion.
+repair_rows=none
+repair_notes=none
