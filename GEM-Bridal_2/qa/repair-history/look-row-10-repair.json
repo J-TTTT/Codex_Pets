@@ -1,0 +1,19 @@
+{
+  "classification": [
+    "visual semantics",
+    "source geometry",
+    "scale"
+  ],
+  "attempt1": {
+    "source": "C:\\Users\\56180\\.codex\\generated_images\\01a0b5e8-50a9-70f1-a799-4ca8b3fd2f80\\exec-15ed624b-9534-44a1-8a82-a49786b7529a.png",
+    "rejected": true,
+    "reason": "315/337.5 pointed up-right; 8 figures joined, height472 vs approved426, rightedgecropped"
+  },
+  "repair_strategy": "Moved completedrow9 to firstreference forscale only, approvedcardinals to lastreference asdirectionauthority; reinforced LEFTfacefamily and reducedsourcefullbodyheight target420 without changingbodyproportions/costume",
+  "attempt2": {
+    "source": "C:\\Users\\56180\\.codex\\generated_images\\01a0b5e8-50a9-70f1-a799-4ca8b3fd2f80\\exec-9a62230e-319b-436b-9514-bde79759d43c.png",
+    "source_geometry": "8 separate fullfigures, allwithin2170x725canvas, heights417-419",
+    "registration": "Passed unchanged persistedrow9scale0.4647887323943662 andfinal-cell edgegates",
+    "semantic_review": "pending"
+  }
+}

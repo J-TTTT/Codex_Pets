@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "strip": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-cardinals-registered.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        192,
+        208
+      ],
+      "used_pixels": 19569,
+      "edge_pixels": 0,
+      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        192,
+        0,
+        384,
+        208
+      ],
+      "used_pixels": 19011,
+      "edge_pixels": 0,
+      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        384,
+        0,
+        576,
+        208
+      ],
+      "used_pixels": 19043,
+      "edge_pixels": 0,
+      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        576,
+        0,
+        768,
+        208
+      ],
+      "used_pixels": 19538,
+      "edge_pixels": 0,
+      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

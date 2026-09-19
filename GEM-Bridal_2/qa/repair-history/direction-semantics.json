@@ -1,0 +1,161 @@
+{
+  "ok": true,
+  "reviewer": "quiet_standard_qa independent worker, registered native-size labeled review",
+  "directions": [
+    {
+      "degree": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "horizontal": "鼻尖居中、双眼平衡",
+      "vertical": "瞳孔上移、下巴轻抬",
+      "reason": "明确向上，区别于中性站姿"
+    },
+    {
+      "degree": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "鼻尖、瞳孔和下巴稍向屏幕右侧",
+      "vertical": "下巴和视线仍抬起",
+      "reason": "正确右上象限"
+    },
+    {
+      "degree": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "面部透视和眼神朝右",
+      "vertical": "眼睛上望、下巴轻抬",
+      "reason": "右上注视连贯"
+    },
+    {
+      "degree": "067.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "鼻尖及双眼透视明显朝右",
+      "vertical": "瞳孔略有向上倾向",
+      "reason": "以右向为主，保留向上分量"
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "right",
+      "horizontal": "鼻尖向右突出、远侧眼睛变窄、视线朝右",
+      "vertical": "视线及下巴近水平",
+      "reason": "正右方向明确"
+    },
+    {
+      "degree": "112.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "右向面部透视保持",
+      "vertical": "下巴与瞳孔下降",
+      "reason": "自然进入右下象限"
+    },
+    {
+      "degree": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "鼻尖和面部仍朝右",
+      "vertical": "下巴降低，眼睑接近闭合并朝下",
+      "reason": "头部几何关系表达右下方向"
+    },
+    {
+      "degree": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down with slight right component",
+      "horizontal": "面部回向中间时保留少量右向偏转",
+      "vertical": "明显低头，眼睛接近闭合",
+      "reason": "顺畅接近向下方向，没有象限反转"
+    },
+    {
+      "degree": "180",
+      "expected": "down",
+      "observed": "down",
+      "horizontal": "面部与鼻尖居中",
+      "vertical": "下巴降低，视线朝下、眼睑下垂",
+      "reason": "正下方向明确，与前一格右下衔接",
+      "verdict": "pass"
+    },
+    {
+      "degree": "202.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "horizontal": "鼻尖和下巴略朝屏幕左侧",
+      "vertical": "明显低头、眼睑下降",
+      "reason": "向下为主，保留可见左向偏转",
+      "verdict": "pass"
+    },
+    {
+      "degree": "225",
+      "expected": "down-left",
+      "observed": "down-left",
+      "horizontal": "鼻尖朝左，双眼透视不对称",
+      "vertical": "下巴与视线降低",
+      "reason": "正确左下象限",
+      "verdict": "pass"
+    },
+    {
+      "degree": "247.5",
+      "expected": "down-left",
+      "observed": "down-left",
+      "horizontal": "面部和瞳孔明显朝屏幕左侧",
+      "vertical": "视线稍向下",
+      "reason": "左向为主，保留向下分量",
+      "verdict": "pass"
+    },
+    {
+      "degree": "270",
+      "expected": "left",
+      "observed": "left",
+      "horizontal": "鼻尖、下巴和瞳孔朝屏幕左侧",
+      "vertical": "视线接近水平",
+      "reason": "正左方向明确",
+      "verdict": "pass"
+    },
+    {
+      "degree": "292.5",
+      "expected": "up-left",
+      "observed": "up-left",
+      "horizontal": "面部仍向左突出",
+      "vertical": "瞳孔上移，下巴开始抬起",
+      "reason": "正确左上象限",
+      "verdict": "pass"
+    },
+    {
+      "degree": "315",
+      "expected": "up-left",
+      "observed": "up-left",
+      "horizontal": "鼻尖和双眼透视仍偏左",
+      "vertical": "下巴抬起、瞳孔向上",
+      "reason": "明确左上注视",
+      "verdict": "pass"
+    },
+    {
+      "degree": "337.5",
+      "expected": "up-left",
+      "observed": "up with slight left component",
+      "horizontal": "头部回向中央时保持少量左向面部与眼神偏转",
+      "vertical": "瞳孔及下巴明显上抬",
+      "reason": "以向上为主，接近000，未反转朝右",
+      "verdict": "pass"
+    }
+  ],
+  "continuity": [
+    "通过：按上→右→右下顺序变化，无反向。面部、躯干、着地裙摆、持麦手和头纱连接连贯，无裁切或整身旋转。",
+    "通过：157.5→180及337.5→000连续，按下→左→上顺序变化，无象限反转。少量高度差异没有造成明显大小突变或基线跳动。面部、右手麦克风、左肩领口及头纱连接一致，下半身稳定。"
+  ],
+  "reviewed_warnings": [
+    "022.5、045、067.5 的姿态强度接近，但方向均在正确的右上象限。",
+    "135 和157.5 的眼睛接近闭合，向下头部角度和面部不对称关系提供主要方向证据。",
+    "202.5眼睑低垂，由鼻尖和下巴提供左向证据。",
+    "337.5接近正上方向，横向分量克制。",
+    "两排间小幅高度与细褶差异在仔细对照时可见，但不影响实际尺寸连续性。"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "ok": false,
+  "strip": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-cardinals.png",
+  "directions": [
+    "000",
+    "090",
+    "180",
+    "270"
+  ],
+  "errors": [
+    "090 has 70 non-transparent pixels near its source slot edge",
+    "180 has 80 non-transparent pixels near its source slot edge"
+  ],
+  "anchors": [
+    {
+      "direction": "000",
+      "source_box": [
+        0,
+        0,
+        542,
+        725
+      ],
+      "used_pixels": 227625,
+      "edge_pixels": 23,
+      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-anchors\\000.png"
+    },
+    {
+      "direction": "090",
+      "source_box": [
+        542,
+        0,
+        1085,
+        725
+      ],
+      "used_pixels": 223861,
+      "edge_pixels": 70,
+      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-anchors\\090.png"
+    },
+    {
+      "direction": "180",
+      "source_box": [
+        1085,
+        0,
+        1628,
+        725
+      ],
+      "used_pixels": 221971,
+      "edge_pixels": 80,
+      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-anchors\\180.png"
+    },
+    {
+      "direction": "270",
+      "source_box": [
+        1628,
+        0,
+        2170,
+        725
+      ],
+      "used_pixels": 229191,
+      "edge_pixels": 18,
+      "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\decoded\\look-anchors\\270.png"
+    }
+  ]
+}

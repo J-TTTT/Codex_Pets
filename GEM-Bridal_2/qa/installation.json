@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "id": "GEM-bridal_2",
+  "display_name": "G.E.M. 文静婚纱版",
+  "installed_at": "2026-09-19T13:21:11.023314+00:00",
+  "path": "C:\\Users\\56180\\.codex\\pets\\GEM-bridal_2",
+  "assets": {
+    "pet.json": "4e9ea26cfc3764b97e6dd208d4f29ba5e663db309b8819a58f1aca0e59d0dc73",
+    "spritesheet.webp": "7e58f515772eb965495827b6f51118ab0f51b47448a829e38f92365edfa92eb9"
+  },
+  "existing_files_verified_unchanged": 14,
+  "existing_pets_overwritten": false
+}

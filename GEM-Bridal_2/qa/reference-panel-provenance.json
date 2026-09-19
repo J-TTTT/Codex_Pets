@@ -1,0 +1,13 @@
+{
+  "operation": "lossless native-size side-by-side composition only; no character pixels edited",
+  "inputs": [
+    "references/reference-01.png",
+    "references/canonical-base.png"
+  ],
+  "output": "references/original-and-canonical.png",
+  "reason": "The built-in image generator accepts maximum5referencepaths; row10needs6identity/layout/continuityimages, combined original+canonical into1panel",
+  "size": [
+    2328,
+    1375
+  ]
+}

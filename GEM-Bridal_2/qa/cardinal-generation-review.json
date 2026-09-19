@@ -1,0 +1,8 @@
+{
+  "selected_source": "C:\\Users\\56180\\.codex\\generated_images\\01a0b5dc-43b9-7ac1-adce-418d06969752\\exec-f18ce503-ebb8-4f60-aa9f-40e3004b8871.png",
+  "rejected_source": "C:\\Users\\56180\\.codex\\generated_images\\01a0b5dc-43b9-7ac1-adce-418d06969752\\exec-5f0c8abf-f716-48d1-8ba8-cc34e1c53f1c.png",
+  "rejection_reason": "Fourthpose270 lookedright; noseandpupilswrongside",
+  "repair": "One imagegen edit of fourcardinalstrip, fourthhead/gaze corrected toscreenLEFT; otherposes andcostume preserved",
+  "worker_check": "UPchin/pupilsup, RIGHTnose/pupilsright, DOWNbow/loweyes, LEFTnose/pupilsleft",
+  "independent_semantics": "pending"
+}

@@ -1,0 +1,5 @@
+visual_qa=pass
+reviewer=quiet_standard_qa independent worker
+qa_note=Original/canonical identity, all57 standardframes, native-size GIFsequences, order/timing/loopboundaries reviewed. Identity, proportions, leftshoulder, rightmic, attachedveil, longskirt andmainholepattern consistent. No clipping, framefragments, accidentalalphabands, detachedprops, sizepops orbaselinejitter. Groundedjoy, restrainedsmallsteps, visibleidleblink, compactgreeting, focusedworkhandatwaist, reviewscan/confirmation, quietregret allpassed.
+review_warnings=Minor finefold/hair/weathering differences acceptable at native scale; work/wait/review differences intentionally subtle butvisible. Finalv2look/chroma checksremain.
+repair_rows=none

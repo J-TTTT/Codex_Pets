@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "independent_visual_reviewer": "quiet_final_visual",
+  "failed_checks": [
+    "horizontal-1 A:337.5 horizontal ambiguous",
+    "horizontal-7 A:157.5 horizontal ambiguous",
+    "horizontal-7 B:202.5 horizontal ambiguous",
+    "157.5->180 local diff outlier"
+  ],
+  "evidence": [
+    {
+      "degree": "157.5",
+      "reason": "低头为主，鼻脸保留轻微右偏，承接135并趋近居中的180。孤立盲审水平轴模糊，序列中没有左向反转。"
+    },
+    {
+      "degree": "202.5",
+      "reason": "低头延续，脸与鼻尖轻微转向左侧，是从180向225的微小过渡；无右向反转。"
+    },
+    {
+      "degree": "337.5",
+      "reason": "上望明显，脸部回到接近正面仍保留轻微左偏；衔接315与000时方向连续，无右向反转。"
+    }
+  ],
+  "continuity": [
+    {
+      "boundary": "157.5->180",
+      "verdict": "pass",
+      "severity": "minor",
+      "reason": "3039像素差异告警主要来自低头时向正面回转、发纱轮廓与姿态变化。正常尺寸未见整身突然缩小、裙摆离地、头纱脱接或明显基线跳动。"
+    },
+    {
+      "boundary": "337.5->000",
+      "verdict": "pass",
+      "severity": "minor",
+      "reason": "左上回到正上，头部趋中并轻微抬高；脸部与裙纱有小幅绘制差异，但无显著规模跳变或方向逆转。"
+    }
+  ],
+  "cardinals": "All four current cardinal directions unanimouslyconfirmed3/3. No majorfailureoverridden.",
+  "prior_failure": "Originalambiguous000andconspicuousscalejumpwereactuallyrepairedthroughcompletecoherentrows; priorcandidate archived."
+}

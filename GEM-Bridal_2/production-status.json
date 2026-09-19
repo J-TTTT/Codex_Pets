@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "status": "complete",
+  "generated": true,
+  "qa_passed": true,
+  "installed": true,
+  "id": "GEM-bridal_2",
+  "display_name": "G.E.M. 文静婚纱版",
+  "completed_at": "2026-09-19T13:21:11.028430+00:00",
+  "installation": "qa/installation.json"
+}

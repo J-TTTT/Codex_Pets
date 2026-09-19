@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "pet_id": "GEM-bridal_2",
+  "display_name": "G.E.M. 文静婚纱版",
+  "assembled_at": "2026-09-19T13:20:47.977941+00:00",
+  "spritesheet_sha256": "7e58f515772eb965495827b6f51118ab0f51b47448a829e38f92365edfa92eb9",
+  "validation": "validation-extended.json",
+  "blind_review": "direction-blind-validation.json",
+  "directions": "direction-semantics.json",
+  "installation": "installation.json",
+  "generation_mode": "built-in imagegen"
+}

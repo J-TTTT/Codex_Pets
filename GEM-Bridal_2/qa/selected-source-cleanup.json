@@ -1,0 +1,19 @@
+{
+  "scope": "Only selected generated originals with byte-identical decoded copies; no recursive deletion",
+  "removed": [
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5c9-3cdb-7223-a17e-f41a74566859\\exec-d9bfb95e-e47f-4363-a41e-5504f135faa7.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5cc-0681-7571-96d1-3836384619fd\\exec-4a779198-1c09-4820-b0a5-4b7858483772.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5cc-2db9-7583-a01d-85de9ec0a5c2\\exec-b7251632-53cb-4f67-9436-1cd23acab9c4.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5cf-3765-7a22-ad0b-5a9049055115\\exec-5f1f6182-db34-44a3-b814-652ea0a5ab1d.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5cc-53c5-7c21-ae1b-777197d16887\\exec-3d86e3e1-70c1-4a45-b517-07acd21503f1.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5cf-5e28-7d53-a289-7aa7e20cf867\\exec-ca3416f9-365c-4d2f-a6d1-8de2d0777d77.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5d2-828e-7201-9594-8a1acfe814d5\\exec-d7732dfe-7a15-4d56-8afd-6d676dc8027c.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5d1-1acf-7ad0-a288-e0f2bf9b0f78\\exec-07771fad-1f32-494d-b0f9-fd0bbef66fbe.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5d2-59ad-7673-8f41-1e3cc3a28c0b\\exec-fbf40542-16f5-4ee3-aae4-4a010087e9d9.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5d4-f9c0-7520-b39a-8e4a085c983a\\exec-811c967f-1ee5-48ff-9d99-3d22dcffe4fc.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b5dc-43b9-7ac1-adce-418d06969752\\exec-f18ce503-ebb8-4f60-aa9f-40e3004b8871.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b9bd-6e28-7331-8ea1-578a3c727809\\exec-bb944f72-71c7-48c8-b229-da9b56456d35.png",
+    "C:\\Users\\56180\\.codex\\generated_images\\01a0b9c2-5e76-7750-accf-1b6fa58505aa\\exec-0ba140d2-6929-49b7-84aa-94ff09e321cf.png"
+  ],
+  "ok": true
+}

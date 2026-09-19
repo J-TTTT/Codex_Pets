@@ -1,0 +1,295 @@
+{
+  "pet_id": "GEM-bridal_2",
+  "display_name": "G.E.M. 文静婚纱版",
+  "description": "文静温柔的白色舞台长裙歌者，缓步移动，以眼神和轻柔点头陪伴工作。",
+  "created_at": "2026-09-19T02:17:58.335141+08:00",
+  "sprite_version_number": 2,
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 2288
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "Quiet breathing with one slow gentle blink and tiny attached veil/curl sway. Soft closed-mouth smile. Anatomical right hand holds microphone below chest, left hand lightly holds skirt throughout. No singing/waving. Frame sequence: neutral, inhale, half blink, closed blink, reopen, return near neutral. Micro-variation visible but calm."
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "Slow tiny walking steps facing and moving screen RIGHT. Not running. Free anatomical LEFT hand slightly lifts the long skirt; anatomical RIGHT hand holds microphone steadily. Eight phases with alternating tiny toe/hem changes and gentle lag of attached veil and curls. Torso almost level, no bouncing, no high knees. Preserve full-length skirt and asymmetry, never mirror identity."
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "Slow tiny walking steps facing and moving screen LEFT. Not running. Free anatomical LEFT hand slightly lifts the long skirt; anatomical RIGHT hand holds microphone steadily. Eight phases with alternating tiny toe/hem changes and gentle lag of attached veil and curls. Torso almost level, no bouncing, no high knees. Preserve full-length skirt and asymmetry, independently redraw LEFT facing, never mirror identity."
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "Quiet familiar greeting: small eye lift and little nod, free LEFT hand rises only near front of torso, makes one tiny gentle sway, and returns beside skirt. Four phases: rest, small lift/nod, small hand sway, soft return. Never raise hand above shoulders. RIGHT hand holds microphone steady."
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "System name jumping ONLY: grounded gentle joy, absolutely NO physical jump, hop, tiptoe, bounce, airborne pose or vertical translation. Five phases: soft neutral smile, slight chin lift, deeper small smile and gently open shoulders with LEFT hand softly near chest, hand lowers, return to neutral. Feet always grounded and hem baseline perfectly stable. RIGHT-hand microphone never changes hands."
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "Restrained regret and renewed thought: eyes gently lower, tiny smile recedes, hold a quiet thoughtful pause, then slowly lift gaze with restored composure. No crying, tears, exaggerated sigh, head shaking, effects or body slump. Keep lower body planted."
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "Patient quiet attentive waiting: slight soft head tilt, calm direct gaze, natural right-hand microphone and left hand at skirt. Small slow blink then attentive reopen. Do not look impatient or demanding. No broad gesture. Gentle held posture distinct from idle."
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "Quiet task processing, never locomotion or singing. Right-hand microphone slightly lowered. Eyes gently lower, pause in concentration, small slow nod, return to thoughtful focus. Free left hand naturally rests in front near waist; no repeated gestures and no hand at chin. Planted lower body."
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "Review completed results: small head dip, eyes slowly scan a small range, pause, lift eyes, slight confirming nod and very faint reassured smile. Free hand at skirt, right-hand microphone steady. Distinct from downward thinking and idle."
+    },
+    {
+      "state": "look-row-9",
+      "row": 9,
+      "frames": 8,
+      "directions": [
+        "000",
+        "022.5",
+        "045",
+        "067.5",
+        "090",
+        "112.5",
+        "135",
+        "157.5"
+      ],
+      "purpose": "clockwise look directions from up through down-right"
+    },
+    {
+      "state": "look-row-10",
+      "row": 10,
+      "frames": 8,
+      "directions": [
+        "180",
+        "202.5",
+        "225",
+        "247.5",
+        "270",
+        "292.5",
+        "315",
+        "337.5"
+      ],
+      "purpose": "clockwise look directions from down through up-left"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references\\layout-guides\\idle.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references\\layout-guides\\running-right.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references\\layout-guides\\running-left.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 38,
+      "safe_margin_y": 175,
+      "usage": "Source-generation spacing guide only; final atlas cells remain192x208"
+    },
+    {
+      "state": "waving",
+      "path": "references\\layout-guides\\waving.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references\\layout-guides\\jumping.png",
+      "width": 960,
+      "height": 208,
+      "frames": 5,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references\\layout-guides\\failed.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 38,
+      "safe_margin_y": 175,
+      "usage": "Source-generation spacing guide only; final atlas cells remain192x208"
+    },
+    {
+      "state": "waiting",
+      "path": "references\\layout-guides\\waiting.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references\\layout-guides\\running.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references\\layout-guides\\review.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-row-9",
+      "path": "references\\layout-guides\\look-row-9.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 38,
+      "safe_margin_y": 175,
+      "usage": "Source-generation spacing guide only; final atlas cells remain192x208"
+    },
+    {
+      "state": "look-row-10",
+      "path": "references\\layout-guides\\look-row-10.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 38,
+      "safe_margin_y": 175,
+      "usage": "Source-generation spacing guide only; final atlas cells remain192x208"
+    },
+    {
+      "state": "look-cardinals",
+      "path": "references\\layout-guides\\look-cardinals.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [
+    {
+      "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\references\\reference-01.png",
+      "width": 1144,
+      "height": 1375,
+      "mode": "RGBA",
+      "format": "PNG",
+      "source_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\gem-bridal\\references\\reference-01-clean.png",
+      "copied_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\references\\reference-01.png"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#0000FF",
+    "rgb": [
+      0,
+      0,
+      255
+    ],
+    "name": "user-selected",
+    "selection": "manual"
+  },
+  "pet_notes": "Only appearance authority is supplied reference. Anatomical RIGHT hand holds gold microphone with black bands (viewer LEFT front), anatomical LEFT shoulder covered by single shoulder neckline (viewer RIGHT). Preserve copper-brown lower corset weathering, full length pleated gown, attached long veil, existing scorched holes and inner cloth. Quiet restrained personality. All motion gentle and small. No jumping, running, toe-rise or broad gestures: jumping name means grounded joyful response; movement means slow tiny walking steps. No extra props, effects, text, floor shadows. Lower microphone below chest for neutral small closed-mouth smile.",
+  "style_preset": "auto",
+  "style_notes": "Exactly preserve attached refined Japanese anime chibi style, original head-body ratio, delicate linework, soft cel shading, brown curled hair and eyes, gold earrings, white/lavender-gray gown folds and hand-painted silver corset.",
+  "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Exactly preserve attached refined Japanese anime chibi style, original head-body ratio, delicate linework, soft cel shading, brown curled hair and eyes, gold earrings, white/lavender-gray gown folds and hand-painted silver corset..",
+  "brand_name": "",
+  "brand_brief": "",
+  "brand_sources": [],
+  "pet_safe_style": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction.",
+  "primary_generation_skill": "$imagegen",
+  "actions": {
+    "idle": "Quiet breathing with one slow gentle blink and tiny attached veil/curl sway. Soft closed-mouth smile. Anatomical right hand holds microphone below chest, left hand lightly holds skirt throughout. No singing/waving. Frame sequence: neutral, inhale, half blink, closed blink, reopen, return near neutral. Micro-variation visible but calm.",
+    "waving": "Quiet familiar greeting: small eye lift and little nod, free LEFT hand rises only near front of torso, makes one tiny gentle sway, and returns beside skirt. Four phases: rest, small lift/nod, small hand sway, soft return. Never raise hand above shoulders. RIGHT hand holds microphone steady.",
+    "running-right": "Slow tiny walking steps facing and moving screen RIGHT. Not running. Free anatomical LEFT hand slightly lifts the long skirt; anatomical RIGHT hand holds microphone steadily. Eight phases with alternating tiny toe/hem changes and gentle lag of attached veil and curls. Torso almost level, no bouncing, no high knees. Preserve full-length skirt and asymmetry, never mirror identity.",
+    "running-left": "Slow tiny walking steps facing and moving screen LEFT. Not running. Free anatomical LEFT hand slightly lifts the long skirt; anatomical RIGHT hand holds microphone steadily. Eight phases with alternating tiny toe/hem changes and gentle lag of attached veil and curls. Torso almost level, no bouncing, no high knees. Preserve full-length skirt and asymmetry, independently redraw LEFT facing, never mirror identity.",
+    "jumping": "System name jumping ONLY: grounded gentle joy, absolutely NO physical jump, hop, tiptoe, bounce, airborne pose or vertical translation. Five phases: soft neutral smile, slight chin lift, deeper small smile and gently open shoulders with LEFT hand softly near chest, hand lowers, return to neutral. Feet always grounded and hem baseline perfectly stable. RIGHT-hand microphone never changes hands.",
+    "waiting": "Patient quiet attentive waiting: slight soft head tilt, calm direct gaze, natural right-hand microphone and left hand at skirt. Small slow blink then attentive reopen. Do not look impatient or demanding. No broad gesture. Gentle held posture distinct from idle.",
+    "running": "Quiet task processing, never locomotion or singing. Right-hand microphone slightly lowered. Eyes gently lower, pause in concentration, small slow nod, return to thoughtful focus. Free left hand naturally rests in front near waist; no repeated gestures and no hand at chin. Planted lower body.",
+    "review": "Review completed results: small head dip, eyes slowly scan a small range, pause, lift eyes, slight confirming nod and very faint reassured smile. Free hand at skirt, right-hand microphone steady. Distinct from downward thinking and idle.",
+    "failed": "Restrained regret and renewed thought: eyes gently lower, tiny smile recedes, hold a quiet thoughtful pause, then slowly lift gaze with restored composure. No crying, tears, exaggerated sigh, head shaking, effects or body slump. Keep lower body planted."
+  },
+  "user_overrides": {
+    "jumping": "grounded joy, no vertical motion",
+    "running-left/right": "slow tiny walking, no running",
+    "all": "quiet, restrained, no large waves"
+  }
+}

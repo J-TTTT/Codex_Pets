@@ -1,0 +1,1 @@
+{"ok":false,"severity":"major","reviewer":"quiet_repair_semantics","evidence":{"157.5_to_180":"Character visiblycontracts, smallerhead/face, crownlower, samehembaseline","337.5_to_000":"Head anduppersilhouette visiblyenlarge, hairmasswider/largerface"},"decision":"regenerate coherent row10 matching repairedrow9scale"}

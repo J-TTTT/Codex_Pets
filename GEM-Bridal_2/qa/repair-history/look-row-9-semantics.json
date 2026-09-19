@@ -1,0 +1,83 @@
+{
+  "ok": true,
+  "reviewer": "quiet_standard_qa independent worker",
+  "directions": [
+    {
+      "degree": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "horizontal": "鼻尖居中、双眼平衡",
+      "vertical": "瞳孔上移、下巴轻抬",
+      "reason": "明确向上，区别于中性站姿"
+    },
+    {
+      "degree": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "鼻尖、瞳孔和下巴稍向屏幕右侧",
+      "vertical": "下巴和视线仍抬起",
+      "reason": "正确右上象限"
+    },
+    {
+      "degree": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "面部透视和眼神朝右",
+      "vertical": "眼睛上望、下巴轻抬",
+      "reason": "右上注视连贯"
+    },
+    {
+      "degree": "067.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "鼻尖及双眼透视明显朝右",
+      "vertical": "瞳孔略有向上倾向",
+      "reason": "以右向为主，保留向上分量"
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "right",
+      "horizontal": "鼻尖向右突出、远侧眼睛变窄、视线朝右",
+      "vertical": "视线及下巴近水平",
+      "reason": "正右方向明确"
+    },
+    {
+      "degree": "112.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "右向面部透视保持",
+      "vertical": "下巴与瞳孔下降",
+      "reason": "自然进入右下象限"
+    },
+    {
+      "degree": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "鼻尖和面部仍朝右",
+      "vertical": "下巴降低，眼睑接近闭合并朝下",
+      "reason": "头部几何关系表达右下方向"
+    },
+    {
+      "degree": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down with slight right component",
+      "horizontal": "面部回向中间时保留少量右向偏转",
+      "vertical": "明显低头，眼睛接近闭合",
+      "reason": "顺畅接近向下方向，没有象限反转"
+    }
+  ],
+  "continuity": "通过：按上→右→右下顺序变化，无反向。面部、躯干、着地裙摆、持麦手和头纱连接连贯，无裁切或整身旋转。",
+  "reviewed_warnings": [
+    "022.5、045、067.5 的姿态强度接近，但方向均在正确的右上象限。",
+    "135 和157.5 的眼睛接近闭合，向下头部角度和面部不对称关系提供主要方向证据。"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "state": "running-left",
+  "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-17\\hatch-pet-c-users-56180-codex-2\\work\\GEM-bridal_2\\references\\layout-guides\\running-left.png",
+  "width": 2176,
+  "height": 724,
+  "frames": 8,
+  "cell_width": 272,
+  "cell_height": 724,
+  "safe_margin_x": 38,
+  "safe_margin_y": 175,
+  "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+}

@@ -1,0 +1,172 @@
+{
+  "ok": true,
+  "reviewer": "quiet_final_visual",
+  "directions": [
+    {
+      "degree": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "horizontal": "centered",
+      "vertical": "up",
+      "reason": "双眼上望、下巴明显抬起，正面保持居中，明确区别于中性视线。"
+    },
+    {
+      "degree": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "screen-right",
+      "vertical": "up",
+      "reason": "上望延续，脸和瞳孔开始向画面右侧偏移。"
+    },
+    {
+      "degree": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "screen-right",
+      "vertical": "up",
+      "reason": "鼻尖与脸部转向右侧，瞳孔朝右上，抬颏保持上向分量。"
+    },
+    {
+      "degree": "067.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "screen-right",
+      "vertical": "up",
+      "reason": "右转更明显，保留轻微上望，向正右方向自然过渡。"
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "right",
+      "horizontal": "screen-right",
+      "vertical": "level",
+      "reason": "鼻尖、近侧眼与视线明确指向画面右方，四正方向盲审一致通过。"
+    },
+    {
+      "degree": "112.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "screen-right",
+      "vertical": "down",
+      "reason": "保留右侧脸，眼睑和视线开始下移，下巴略收。"
+    },
+    {
+      "degree": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "screen-right",
+      "vertical": "down",
+      "reason": "右转头部配合明显垂眼和低头；眼睛接近闭合但右向鼻脸轮廓仍可辨。"
+    },
+    {
+      "degree": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right; down-dominant",
+      "horizontal": "screen-right",
+      "vertical": "down",
+      "reason": "低头为主，鼻脸保留轻微右偏，承接135并趋近居中的180。孤立盲审水平轴模糊，序列中没有左向反转。",
+      "warning": "minor: horizontal component weak"
+    },
+    {
+      "degree": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "down",
+      "horizontal": "centered",
+      "vertical": "down",
+      "reason": "脸部居中低垂，双眼向下、下巴收低，正下方向明确。"
+    },
+    {
+      "degree": "202.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left; down-dominant",
+      "horizontal": "screen-left",
+      "vertical": "down",
+      "reason": "低头延续，脸与鼻尖轻微转向左侧，是从180向225的微小过渡；无右向反转。",
+      "warning": "minor: horizontal component weak"
+    },
+    {
+      "degree": "225",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "horizontal": "screen-left",
+      "vertical": "down",
+      "reason": "左向鼻脸和瞳孔清楚，下视眼睑与收颏保留向下分量。"
+    },
+    {
+      "degree": "247.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "horizontal": "screen-left",
+      "vertical": "down",
+      "reason": "以左转为主并略向下看，向正左自然靠近。"
+    },
+    {
+      "degree": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "left",
+      "horizontal": "screen-left",
+      "vertical": "level",
+      "reason": "鼻尖、眼睛与头部明确指向画面左方，正左盲审一致通过。"
+    },
+    {
+      "degree": "292.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "horizontal": "screen-left",
+      "vertical": "up",
+      "reason": "左向脸部保留，眼睛与下巴开始抬起。"
+    },
+    {
+      "degree": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "horizontal": "screen-left",
+      "vertical": "up",
+      "reason": "左上瞳孔、抬颏与左向脸部共同表达左上。"
+    },
+    {
+      "degree": "337.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left; up-dominant",
+      "horizontal": "screen-left",
+      "vertical": "up",
+      "reason": "上望明显，脸部回到接近正面仍保留轻微左偏；衔接315与000时方向连续，无右向反转。",
+      "warning": "minor: horizontal component weak"
+    }
+  ],
+  "continuities": [
+    {
+      "boundary": "157.5->180",
+      "verdict": "pass",
+      "severity": "minor",
+      "reason": "3039像素差异告警主要来自低头时向正面回转、发纱轮廓与姿态变化。正常尺寸未见整身突然缩小、裙摆离地、头纱脱接或明显基线跳动。"
+    },
+    {
+      "boundary": "337.5->000",
+      "verdict": "pass",
+      "severity": "minor",
+      "reason": "左上回到正上，头部趋中并轻微抬高；脸部与裙纱有小幅绘制差异，但无显著规模跳变或方向逆转。"
+    }
+  ],
+  "identity_and_attachment": "pass",
+  "transparent_edges_and_gown_continuity": "pass",
+  "quiet_grounded_motion": "pass",
+  "all_cardinals_confirmed": true,
+  "blind_validation_current_candidate_ok": true
+}
