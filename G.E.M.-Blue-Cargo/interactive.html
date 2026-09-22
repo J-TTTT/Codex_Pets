@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>G.E.M. 浅蓝版 · 动画预览</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,"Microsoft YaHei",sans-serif}body{margin:0;background:#181b24;color:#eef0f5}main{max-width:1040px;margin:40px auto;padding:24px}h1{font-size:28px;font-weight:600}p{color:#aeb6c9;line-height:1.7}.layout{display:grid;grid-template-columns:1fr 1fr;gap:28px}.stage{min-height:420px;display:grid;place-items:center;border:1px solid #394052;border-radius:20px;background:#282d3b}.stage.light{background:#f4f2ef}.stage.check{background-color:#ddd;background-image:linear-gradient(45deg,#bbb 25%,transparent 25%),linear-gradient(-45deg,#bbb 25%,transparent 25%),linear-gradient(45deg,transparent 75%,#bbb 75%),linear-gradient(-45deg,transparent 75%,#bbb 75%);background-size:24px 24px;background-position:0 0,0 12px,12px -12px,-12px 0}canvas{width:384px;height:416px;max-width:100%;object-fit:contain}button{border:1px solid #50576b;background:#272d3c;color:#edf0f7;padding:11px 15px;border-radius:10px;cursor:pointer;font-size:14px}button[aria-pressed=true]{background:#696087;border-color:#a59abd}.buttons{display:flex;flex-wrap:wrap;gap:9px;margin:12px 0 24px}small{color:#aeb6c9}.dir{font-variant-numeric:tabular-nums}footer{margin-top:28px;color:#8e98af;font-size:13px}@media(max-width:720px){.layout{grid-template-columns:1fr}main{margin:0;padding:20px}}
+</style>
+<main><small>CODEX 智能拍档 · G.E.M.-Blue-Cargo · V2</small><h1>G.E.M. 浅蓝版</h1><p>高马尾、浅蓝工装裤与金色麦克风。九种动作和十六个注视方向，清爽、活泼、亲切。</p>
+<div class="layout"><div id="stage" class="stage"><canvas id="pet" width="192" height="208" aria-label="拍档动画预览"></canvas></div><div>
+<strong>动作</strong><div id="states" class="buttons"></div><strong>注视方向</strong><div id="directions" class="buttons"></div>
+<strong>透明边缘检查</strong><div class="buttons"><button data-bg="">深色</button><button data-bg="light">浅色</button><button data-bg="check">棋盘格</button></div>
+<p id="status" class="dir" aria-live="polite">加载素材…</p><button id="pause">暂停</button> <button id="cycle">循环注视方向</button>
+</div></div><footer><a href="README.md">完整说明</a> · <a href="preview.html">动画合集</a> · 可切换背景检查透明边缘。</footer></main>
+<script>
+const states=[['idle','待机',6,[280,110,110,140,140,320]],['running-right','向右移动',8,[120,120,120,120,120,120,120,220]],['running-left','向左移动',8,[120,120,120,120,120,120,120,220]],['waving','招呼',4,[140,140,140,280]],['jumping','跳跃',5,[140,140,140,140,280]],['failed','失落',8,[140,140,140,140,140,140,140,240]],['waiting','等待回应',6,[150,150,150,150,150,260]],['running','工作思考',6,[120,120,120,120,120,220]],['review','检查结果',6,[150,150,150,150,150,280]]];
+const labels=['上','右上','右上','右上','右','右下','右下','右下','下','左下','左下','左下','左','左上','左上','左上'];
+const canvas=document.querySelector('canvas'),ctx=canvas.getContext('2d'),img=new Image();let state=0,frame=0,gaze=-1,last=0,paused=false,cycle=false;
+function draw(){ctx.clearRect(0,0,192,208);let r=gaze<0?state:9+Math.floor(gaze/8),c=gaze<0?frame:gaze%8;ctx.drawImage(img,c*192,r*208,192,208,0,0,192,208);document.querySelector('#status').textContent=gaze<0?`${states[state][1]} · ${frame+1}/${states[state][2]}`:`${(gaze*22.5).toFixed(1)}° · 看向${labels[gaze]}`;document.querySelectorAll('#states button').forEach((b,i)=>b.setAttribute('aria-pressed',gaze<0&&i===state));document.querySelectorAll('#directions button').forEach((b,i)=>b.setAttribute('aria-pressed',i===gaze))}
+states.forEach((s,i)=>{let b=document.createElement('button');b.textContent=s[1];b.onclick=()=>{state=i;gaze=-1;frame=0;cycle=false;last=0;draw()};document.querySelector('#states').append(b)});
+labels.forEach((s,i)=>{let b=document.createElement('button');b.textContent=`${i*22.5}°`;b.title=s;b.onclick=()=>{gaze=i;cycle=false;draw()};document.querySelector('#directions').append(b)});
+document.querySelectorAll('[data-bg]').forEach(b=>b.onclick=()=>document.querySelector('#stage').className='stage '+b.dataset.bg);
+document.querySelector('#pause').onclick=()=>{paused=!paused;document.querySelector('#pause').textContent=paused?'播放':'暂停'};
+document.querySelector('#cycle').onclick=()=>{cycle=true;gaze=0;paused=false;last=0;document.querySelector('#pause').textContent='暂停';draw()};
+function tick(t){if(!paused&&img.complete&&img.naturalWidth){if(t-last>(cycle?220:gaze<0?states[state][3][frame]:Infinity)){last=t;if(cycle)gaze=(gaze+1)%16;else frame=(frame+1)%states[state][2];draw()}}requestAnimationFrame(tick)}
+img.onload=()=>{draw();requestAnimationFrame(tick)};img.onerror=()=>document.querySelector('#status').textContent='无法加载素材，请保持此 HTML 与 spritesheet.webp 位于同一目录。';img.src='spritesheet.webp';
+</script></html>

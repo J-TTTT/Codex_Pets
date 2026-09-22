@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "pixel_identical": true,
+  "operation": "Lossless PNG re-encoding only; no art changes",
+  "source": "C:\\Users\\56180\\Documents\\Codex\\2026-09-22\\G.E.M.-Blue-Cargo\\work\\references\\canonical-base.png",
+  "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-22\\G.E.M.-Blue-Cargo\\work\\references\\canonical-base-safe.png",
+  "source_sha256": "40fc49515f6bd50ceb16e621bd3d7857baa7873139a9eb85285bd3d53ca11fc2",
+  "output_sha256": "3cbe46741cd9ae5b26fa528cda08b040e7063037f443fc8e7b4afc3a9142944a"
+}

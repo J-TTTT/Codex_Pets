@@ -1,0 +1,8 @@
+# G.E.M. 浅蓝版 · 注视机制
+
+Preserve the exact anime skull, cheeks, jaw, eye construction, brown irises and highlights. Feet and lower body stay planted. Eyes lead, the head turns naturally at the neck, and shoulders follow slightly. Never rotate the whole sprite or stretch the face. The high ponytail root, braid, silver clips, earrings and ear monitor retain their original attachment side. Curled ponytail tips follow gently without changing length. The RIGHT hand keeps the GOLD microphone below the face, clear of hair and clothing. The LEFT hand rests naturally. Keep shirt print, TWO separated belts, cargo pockets and rhinestone placement stable.
+UP (000): face centered horizontally, pupils visibly high, chin gently raised, some underside of chin visible; looking overhead, not straight ahead.
+SCREEN-RIGHT (090): nose and pupils visibly to viewer RIGHT of head center, natural head yaw with correct far-eye foreshortening.
+DOWN (180): centered bowed head, lowered eyelids and pupils, chin closer to collar, more crown visible.
+SCREEN-LEFT (270): nose and pupils visibly to viewer LEFT of head center, opposite face plane to RIGHT, without mirroring hair, microphone or outfit.
+Intermediate directions move smoothly clockwise in even 22.5-degree steps. Maintain shoe baseline, body scale and microphone position. Cross-row boundaries 157.5 to 180 and 337.5 to 000 must be small natural head steps, with no body resizing or relocation. True alpha transparency; no guide marks, shadows, extra text or effects.

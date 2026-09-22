@@ -1,0 +1,86 @@
+{
+  "ok": true,
+  "reviewer": "/root/blue_standard_qa",
+  "directions": [
+    {
+      "degree": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "horizontal": "Nose and facial plane centered.",
+      "vertical": "Raised pupils, lifted chin, open neck.",
+      "reason": "Clear upward head pitch."
+    },
+    {
+      "degree": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "Nose/gaze slightly right.",
+      "vertical": "Lifted face and upward eyes.",
+      "reason": "Up gains small rightward component."
+    },
+    {
+      "degree": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "Nose right of head center, pupils right.",
+      "vertical": "Lifted chin and high pupils.",
+      "reason": "Both axes readable."
+    },
+    {
+      "degree": "067.5",
+      "verdict": "warning",
+      "expected": "right-up",
+      "observed": "right-up",
+      "horizontal": "Nose/face strongly right.",
+      "vertical": "Slight raised chin/gaze.",
+      "reason": "Correct quadrant; subtle distinction from045."
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "right",
+      "horizontal": "Clearly right nose and face plane.",
+      "vertical": "Approximately level.",
+      "reason": "Unambiguous right cardinal."
+    },
+    {
+      "degree": "112.5",
+      "verdict": "pass",
+      "expected": "right-down",
+      "observed": "right-down",
+      "horizontal": "Eyes/nose remain strongly right.",
+      "vertical": "Lower gaze, chin begins tuck.",
+      "reason": "Right gaze transitions downward."
+    },
+    {
+      "degree": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "Face/nose remain right.",
+      "vertical": "More crown, chin nearer shirt.",
+      "reason": "Both axes clear."
+    },
+    {
+      "degree": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "Bowed face/nose retain right offset.",
+      "vertical": "Strong bow, lowered lids, tucked chin.",
+      "reason": "Downward dominant with right component."
+    }
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "Up through right to down-right without reversal; stable body, shoes, microphone attachment and complete ponytail."
+  },
+  "warnings": [
+    "045 and067.5 close but correct quadrant and ordered progression.",
+    "Pre-cleanup fringe excluded."
+  ]
+}

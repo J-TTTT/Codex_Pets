@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "id": "G.E.M.-Blue-Cargo",
+  "display_name": "G.E.M. 浅蓝版",
+  "installed_at": "2026-09-22T04:27:01.459933+00:00",
+  "path": "C:\\Users\\56180\\.codex\\pets\\G.E.M.-Blue-Cargo",
+  "assets": {
+    "pet.json": "fb2961b53a5414c5c1980984ad99f9b56c9330579b74fd0a5bdf0a16a19b44be",
+    "spritesheet.webp": "928befa5a3eef29d7de14ed8effbcd483d9902ec14213d3fc2d38f03d283e035"
+  },
+  "existing_files_verified_unchanged": 18,
+  "existing_pets_overwritten": false
+}

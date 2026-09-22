@@ -1,0 +1,290 @@
+{
+  "pet_id": "G.E.M.-Blue-Cargo",
+  "display_name": "G.E.M. 浅蓝版",
+  "description": "高马尾、浅蓝工装裤与金色麦克风的活泼温柔歌者。",
+  "created_at": "2026-09-22T10:44:04.784183+08:00",
+  "sprite_version_number": 2,
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 2288
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "6 phases: relaxed quiet breath, slight inhale, half blink, slow closed blink, open eyes, return. Small smile, RIGHT mic below chest, LEFT hand relaxed. Tiny ponytail tip and shirt hem sway. Feet planted, no singing/waving/dancing. Visible subtle variation."
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "8 successive small light running gait phases toward SCREEN RIGHT: right contact, compression, passing, lift, left contact, compression, passing, lift. Alternate legs clearly, slight body bob. Wide trouser volume and platform shoe lift/contact readable, ponytail gently lags. RIGHT mic secure, LEFT arm natural. Face travel direction."
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "8 successive light running phases toward SCREEN LEFT, alternating legs with slight bob; wide cargo legs and platform shoe contacts readable. Independently redraw, NEVERmirror: keep RIGHT gold mic, correct print/hair braid/belts/earpiece. Ponytail lags naturally. Face travel direction."
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "4 phases: left hand begins relaxed, gently raises, small friendly wave with small head tilt and bright smile, softly returns. RIGHT mic held steady below chest. Ponytail softly follows, no wave marks."
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "5 phases: tiny knee bend, takeoff, low joyful airborne apex with both feet off ground, soft bent-knee landing, recover. Keep same head/body scale. Ponytail rises then settles; preserve cargo volume and shoes. RIGHT mic never leaves hand. No ground/landing effects."
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "8 phases: smile softens away, eyes lower, lips gently pressed or tiny cheek puff, mild cute regret, brief pause, head lifts, confidence returns, soft smile. Restrained expression, stable feet, no crying or effects."
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "6 phases: slight head tilt, free LEFT palm softly opens, patient bright expectant eyes, calm blink, reopen, warm attentive held asking pose. RIGHT mic low and steady. Friendly playful but not impatient. Distinct from idle and chin thinking."
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "6 phases of TASK WORK not locomotion: lower RIGHT mic slightly, free LEFT fingertips lightly at chin, focused eyes, thoughtful pause, gentle nod, refocus. Feet planted. No running or singing. Avoid mic over face."
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "6 phases: slight forward head lean, eyes observe one side, other side, thoughtful pause, small confirming nod, tiny approving free-LEFT-hand gesture with satisfied smile. RIGHT mic secure below face. Distinct from chin-thinking and idle."
+    },
+    {
+      "state": "look-row-9",
+      "row": 9,
+      "frames": 8,
+      "directions": [
+        "000",
+        "022.5",
+        "045",
+        "067.5",
+        "090",
+        "112.5",
+        "135",
+        "157.5"
+      ],
+      "purpose": "clockwise look directions from up through down-right"
+    },
+    {
+      "state": "look-row-10",
+      "row": 10,
+      "frames": 8,
+      "directions": [
+        "180",
+        "202.5",
+        "225",
+        "247.5",
+        "270",
+        "292.5",
+        "315",
+        "337.5"
+      ],
+      "purpose": "clockwise look directions from down through up-left"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references\\layout-guides\\idle.png",
+      "width": 2172,
+      "height": 724,
+      "frames": 6,
+      "cell_width": 362,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 90,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references\\layout-guides\\running-right.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 155,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references\\layout-guides\\running-left.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 155,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waving",
+      "path": "references\\layout-guides\\waving.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 4,
+      "cell_width": 544,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 90,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references\\layout-guides\\jumping.png",
+      "width": 2175,
+      "height": 724,
+      "frames": 5,
+      "cell_width": 435,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 90,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references\\layout-guides\\failed.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 155,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waiting",
+      "path": "references\\layout-guides\\waiting.png",
+      "width": 2172,
+      "height": 724,
+      "frames": 6,
+      "cell_width": 362,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 90,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references\\layout-guides\\running.png",
+      "width": 2172,
+      "height": 724,
+      "frames": 6,
+      "cell_width": 362,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 90,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references\\layout-guides\\review.png",
+      "width": 2172,
+      "height": 724,
+      "frames": 6,
+      "cell_width": 362,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 90,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-row-9",
+      "path": "references\\layout-guides\\look-row-9.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 155,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-row-10",
+      "path": "references\\layout-guides\\look-row-10.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 15,
+      "safe_margin_y": 106,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "look-cardinals",
+      "path": "references\\layout-guides\\look-cardinals.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 4,
+      "cell_width": 544,
+      "cell_height": 724,
+      "safe_margin_x": 25,
+      "safe_margin_y": 90,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [
+    {
+      "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-22\\G.E.M.-Blue-Cargo\\work\\references\\reference-01.png",
+      "width": 1144,
+      "height": 1375,
+      "mode": "RGBA",
+      "format": "PNG",
+      "source_path": "C:\\Users\\56180\\AppData\\Local\\Temp\\codex-clipboard-d455e2e1-9578-472b-93dc-d580a20146e9.png",
+      "copied_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-22\\G.E.M.-Blue-Cargo\\work\\references\\reference-01.png"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "name": "user-selected",
+    "selection": "manual"
+  },
+  "pet_notes": "Exact user-approved Japanese anime chibi reference ONLY. Preserve high brown ponytail with golden-brown curled tips, side braid/silver clips, eyes and face proportions, loose white cropped short-sleeve T shirt with stable pale-blue GLORIA WORLD TOUR print, TWO separated silver-blue buckled waist belts, wide pale-blue cargo trousers with large flap pockets/vertical zippers/fixed rhinestone dots, silverwhite platform shoes with white serrated soles. Golden microphone black bands/dark tail in anatomical RIGHT hand viewerLEFT. No mirroring. Neutral stablefeet allowed, no clothing/proportion redesign. All9states+16gaze, transparent, noaddedprops or effects.",
+  "style_preset": "auto",
+  "style_notes": "",
+  "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row.",
+  "brand_name": "",
+  "brand_brief": "",
+  "brand_sources": [],
+  "pet_safe_style": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction.",
+  "primary_generation_skill": "$imagegen",
+  "actions": {
+    "idle": "6 phases: relaxed quiet breath, slight inhale, half blink, slow closed blink, open eyes, return. Small smile, RIGHT mic below chest, LEFT hand relaxed. Tiny ponytail tip and shirt hem sway. Feet planted, no singing/waving/dancing. Visible subtle variation.",
+    "running-right": "8 successive small light running gait phases toward SCREEN RIGHT: right contact, compression, passing, lift, left contact, compression, passing, lift. Alternate legs clearly, slight body bob. Wide trouser volume and platform shoe lift/contact readable, ponytail gently lags. RIGHT mic secure, LEFT arm natural. Face travel direction.",
+    "running-left": "8 successive light running phases toward SCREEN LEFT, alternating legs with slight bob; wide cargo legs and platform shoe contacts readable. Independently redraw, NEVERmirror: keep RIGHT gold mic, correct print/hair braid/belts/earpiece. Ponytail lags naturally. Face travel direction.",
+    "waving": "4 phases: left hand begins relaxed, gently raises, small friendly wave with small head tilt and bright smile, softly returns. RIGHT mic held steady below chest. Ponytail softly follows, no wave marks.",
+    "jumping": "5 phases: tiny knee bend, takeoff, low joyful airborne apex with both feet off ground, soft bent-knee landing, recover. Keep same head/body scale. Ponytail rises then settles; preserve cargo volume and shoes. RIGHT mic never leaves hand. No ground/landing effects.",
+    "failed": "8 phases: smile softens away, eyes lower, lips gently pressed or tiny cheek puff, mild cute regret, brief pause, head lifts, confidence returns, soft smile. Restrained expression, stable feet, no crying or effects.",
+    "waiting": "6 phases: slight head tilt, free LEFT palm softly opens, patient bright expectant eyes, calm blink, reopen, warm attentive held asking pose. RIGHT mic low and steady. Friendly playful but not impatient. Distinct from idle and chin thinking.",
+    "running": "6 phases of TASK WORK not locomotion: lower RIGHT mic slightly, free LEFT fingertips lightly at chin, focused eyes, thoughtful pause, gentle nod, refocus. Feet planted. No running or singing. Avoid mic over face.",
+    "review": "6 phases: slight forward head lean, eyes observe one side, other side, thoughtful pause, small confirming nod, tiny approving free-LEFT-hand gesture with satisfied smile. RIGHT mic secure below face. Distinct from chin-thinking and idle."
+  }
+}

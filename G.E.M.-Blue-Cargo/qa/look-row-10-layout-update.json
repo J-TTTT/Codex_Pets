@@ -1,0 +1,14 @@
+{
+  "layout_only": true,
+  "reason": "Old414pxguide conflicted with approved row9 figureheight512. Rebuilt using skill guide function so512pxsafeheight directly matches approved row9. No artwork transformed.",
+  "state": "look-row-10",
+  "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-22\\G.E.M.-Blue-Cargo\\work\\references\\layout-guides\\look-row-10.png",
+  "width": 2176,
+  "height": 724,
+  "frames": 8,
+  "cell_width": 272,
+  "cell_height": 724,
+  "safe_margin_x": 15,
+  "safe_margin_y": 106,
+  "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+}

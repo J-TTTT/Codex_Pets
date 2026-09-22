@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "source": "decoded/look-cardinals.png",
+  "method": "skill extract_state components, four-count mapping only; no artwork redrawing",
+  "reason": "All four source figure components are whole and clear of outer borders. Original fixed-slot inspection found sparse stray pixels at slot edges, not clipped anatomy. Components extraction removes unrelated sparse pixels. Standard anchors revalidated with unchanged thresholds.",
+  "raw_geometry": {
+    "size": [
+      2172,
+      724
+    ],
+    "main_components": [
+      {
+        "bbox": [
+          1185,
+          11,
+          1472,
+          712
+        ],
+        "area": 141704
+      },
+      {
+        "bbox": [
+          1701,
+          17,
+          2022,
+          712
+        ],
+        "area": 150433
+      },
+      {
+        "bbox": [
+          614,
+          22,
+          953,
+          712
+        ],
+        "area": 149432
+      },
+      {
+        "bbox": [
+          147,
+          37,
+          475,
+          712
+        ],
+        "area": 149804
+      }
+    ],
+    "outer_source_clipping": false
+  }
+}

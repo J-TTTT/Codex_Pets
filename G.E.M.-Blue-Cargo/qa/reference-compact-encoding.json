@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "pixel_identical": true,
+  "operation": "Lossless WEBP reference encoding, exact RGBA including hidden pixels",
+  "source": "C:\\Users\\56180\\Documents\\Codex\\2026-09-22\\G.E.M.-Blue-Cargo\\work\\references\\canonical-base.png",
+  "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-22\\G.E.M.-Blue-Cargo\\work\\references\\canonical-reference-lossless.webp",
+  "source_bytes": 1961091,
+  "output_bytes": 1272610,
+  "sha256": "f511db33a87949de2f1ecb541dc8fcc2b2ea02122f22dc0af5bf930115a0c3de"
+}

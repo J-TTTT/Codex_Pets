@@ -1,0 +1,7 @@
+visual_qa=pass
+reviewer=/root/blue_standard_qa
+qa_note=Final cleaned contact sheet and all 73 refreshed GIF frames pass: consistent identity, complete silhouettes, intact garments and microphone attachments, distinct state motions, correct ordered gazes, and no conspicuous scale pop or accidental transparent body holes.
+direction_semantics=000 pass centered upward pitch; 022.5 pass up slight right; 045 pass up-right; 067.5 warning correct up-right close to045; 090 pass right; 112.5 pass right lowered gaze; 135 pass down-right; 157.5 pass bowed down-right; 180 pass centered downward bow; 202.5 pass down slight left; 225 warning correct down-left close to202.5; 247.5 pass left lowered gaze; 270 pass left; 292.5 warning left subtle up; 315 pass up-left; 337.5 pass up slight left.
+review_warnings=Minor intermediate-pose similarity accepted; directional gait cadence stylized but both legs exchange; fine lettering and rhinestones soften at pet size without conspicuous flicker; stable-slots motion and both direction-row boundaries visually pass; blind majority and deterministic cleanup/validation pass.
+repair_rows=none
+repair_notes=none

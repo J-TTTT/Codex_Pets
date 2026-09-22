@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "reviewer": "/root/blue_standard_qa",
+  "directions": [
+    {
+      "degree": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "horizontal": "Face and nose centered.",
+      "vertical": "High pupils, raised chin, open neck.",
+      "reason": "Clearly upward pitched face at pet size; upright torso and feet."
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "expected": "screen-right",
+      "observed": "screen-right",
+      "horizontal": "Nose right of head center; pupils and face plane turn right.",
+      "vertical": "Approximately level.",
+      "reason": "Unambiguous rightward head turn without whole-body rotation."
+    },
+    {
+      "degree": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "down",
+      "horizontal": "Bowed face centered.",
+      "vertical": "More crown visible; lowered lids; chin toward shirt.",
+      "reason": "Clear downward head pitch despite lowered/closed lids."
+    },
+    {
+      "degree": "270",
+      "verdict": "pass",
+      "expected": "screen-left",
+      "observed": "screen-left",
+      "horizontal": "Nose left of head center; pupils and face plane turn left.",
+      "vertical": "Approximately level.",
+      "reason": "Unambiguous left head turn, upright torso and planted feet."
+    }
+  ],
+  "warnings": []
+}

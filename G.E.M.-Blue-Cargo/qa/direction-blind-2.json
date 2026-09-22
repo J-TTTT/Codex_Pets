@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose and mouth angle right; B nose and mouth angle left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A face turns left with the right ear exposed; B nose projects right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose projects right beyond the nearer eye; B facial features angle left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose and chin point left; B nose and chin point right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lowered face angles right; B lowered nose and chin angle left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A bowed face exposes the left ear and points right; B bowed face points left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A closed eyes and lowered chin angle right; B lowered nose and pupils angle left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A raised chin exposes the face upward; B eyelids and chin lower toward the chest."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A head bows with closed eyelids; B chin lifts with eyes directed upward."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A pupils and chin lower beneath the brow; B eyes and nose tilt upward with a raised chin."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A chin is tucked and pupils sit low; B chin lifts and pupils look upward."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A forehead dominates above the lowered eyes and chin; B face lifts with raised eyes."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes and nose slope downward with a tucked chin; B eyes and chin lift."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "ambiguous",
+      "reason": "A chin and eyes tilt upward; B looks mostly sideways without a clear vertical tilt."
+    }
+  ]
+}

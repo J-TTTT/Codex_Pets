@@ -1,0 +1,162 @@
+{
+  "ok": true,
+  "reviewer": "/root/blue_standard_qa",
+  "directions": [
+    {
+      "degree": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "horizontal": "Nose and facial plane centered.",
+      "vertical": "Raised pupils, lifted chin, open neck.",
+      "reason": "Clear upward head pitch."
+    },
+    {
+      "degree": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "Nose/gaze slightly right.",
+      "vertical": "Lifted face and upward eyes.",
+      "reason": "Up gains small rightward component."
+    },
+    {
+      "degree": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "horizontal": "Nose right of head center, pupils right.",
+      "vertical": "Lifted chin and high pupils.",
+      "reason": "Both axes readable."
+    },
+    {
+      "degree": "067.5",
+      "verdict": "warning",
+      "expected": "right-up",
+      "observed": "right-up",
+      "horizontal": "Nose/face strongly right.",
+      "vertical": "Slight raised chin/gaze.",
+      "reason": "Correct quadrant; subtle distinction from045."
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "right",
+      "horizontal": "Clearly right nose and face plane.",
+      "vertical": "Approximately level.",
+      "reason": "Unambiguous right cardinal."
+    },
+    {
+      "degree": "112.5",
+      "verdict": "pass",
+      "expected": "right-down",
+      "observed": "right-down",
+      "horizontal": "Eyes/nose remain strongly right.",
+      "vertical": "Lower gaze, chin begins tuck.",
+      "reason": "Right gaze transitions downward."
+    },
+    {
+      "degree": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "Face/nose remain right.",
+      "vertical": "More crown, chin nearer shirt.",
+      "reason": "Both axes clear."
+    },
+    {
+      "degree": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "horizontal": "Bowed face/nose retain right offset.",
+      "vertical": "Strong bow, lowered lids, tucked chin.",
+      "reason": "Downward dominant with right component."
+    },
+    {
+      "degree": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "down",
+      "horizontal": "Centered nose and bowed face.",
+      "vertical": "Prominent crown, lowered lids, tucked chin.",
+      "reason": "Unambiguous down."
+    },
+    {
+      "degree": "202.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "horizontal": "Nose and pupils slightly left.",
+      "vertical": "Lowered gaze, tucked chin.",
+      "reason": "Downward dominant, readable left axis."
+    },
+    {
+      "degree": "225",
+      "verdict": "warning",
+      "expected": "down-left",
+      "observed": "down-left",
+      "horizontal": "Face and pupils left.",
+      "vertical": "Bowed head, lowered chin.",
+      "reason": "Correct quadrant; close to202.5 atpet size."
+    },
+    {
+      "degree": "247.5",
+      "verdict": "pass",
+      "expected": "left-down",
+      "observed": "left-down",
+      "horizontal": "Left-projecting nose/pupils.",
+      "vertical": "Slightly down chin/gaze.",
+      "reason": "Coherent left-dominant diagonal."
+    },
+    {
+      "degree": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "left",
+      "horizontal": "Face, nose, pupils screen-left.",
+      "vertical": "Approximately level.",
+      "reason": "Readable left cardinal, upright body."
+    },
+    {
+      "degree": "292.5",
+      "verdict": "warning",
+      "expected": "left-up",
+      "observed": "left-up",
+      "horizontal": "Nose/gaze remain left.",
+      "vertical": "Chin lifts, gaze begins rising.",
+      "reason": "Correct quadrant, subtle up axis."
+    },
+    {
+      "degree": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "horizontal": "Left eyes/nose offset.",
+      "vertical": "Lifted chin, raised pupils.",
+      "reason": "Both axes visible."
+    },
+    {
+      "degree": "337.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "horizontal": "Face nearing center, slight left gaze.",
+      "vertical": "Elevated chin/pupils.",
+      "reason": "Upward dominant approaches000."
+    }
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "reason": "All16 actual GIF frames inspected atnormalpet size. Previous shrink/expansion resolved: comparable head/torso/trousers/shoes across157.5to180 and337.5to000; planted feet, no conspicuous scale/registration pop. Complete ponytails/shoes/rightmic attachments intact."
+  },
+  "warnings": [
+    "045 and067.5 close but correct quadrant and ordered progression.",
+    "Pre-cleanup fringe excluded.",
+    "202.5/225 close but correct quadrant.",
+    "292.5 upward component subtle.",
+    "157.5to180 metric outlier is head turn toward center, not body-size discontinuity.",
+    "Pre-cleanup fringe excluded."
+  ]
+}

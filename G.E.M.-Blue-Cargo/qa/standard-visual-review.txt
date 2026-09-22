@@ -1,0 +1,6 @@
+visual_qa=pass
+qa_note=Independent visual worker inspected all 57 standard frames; seven original states passed, and repaired directional loops now show bilateral exchange, correct facing, full ponytails and shoes, stable scale and identity.
+row_evidence=running-right: foreground leg ahead in 0, passing in 1/3, lifting ahead in 2, behind in 4 while opposite supports ahead, then returning toward opening stride. running-left: foreground ahead in 0, passes under in 1, lifts in 2/3, behind in 4 as opposite advances; 5–7 continue exchange.
+review_warnings=Directional cadence is stylized and slightly uneven, but both legs exchange and loops read as running at normal size. No extracted cutoff or unintended size/baseline pop. Fine shirt letters/rhinestones soften at pet size without conspicuous flicker. Jump has a somewhat deeper crouch but retains visible airtime and soft landing. Chroma fringe awaits the one final deterministic cleanup.
+repair_rows=none
+reviewer=/root/blue_standard_qa

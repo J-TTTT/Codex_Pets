@@ -1,0 +1,28 @@
+{
+  "source": "decoded/look-row-10.png",
+  "status": "rejected",
+  "source_heights": [
+    469,
+    473,
+    468,
+    475,
+    474,
+    472,
+    474,
+    474
+  ],
+  "approved_row9_heights": [
+    510,
+    511,
+    514,
+    511,
+    510,
+    513,
+    513,
+    512
+  ],
+  "frozen_scale": 0.3852140077821012,
+  "failure": "Independent visual review confirms8-9% wholebody shrink at157.5to180 and expansion337.5to000; complete row regeneration required, scale/threshold unchanged",
+  "reference_panel": "references/look-scale-comparison.webp",
+  "composition": "Top native row9,24transparentgap,bottom native rejectedrow10; no resampling"
+}

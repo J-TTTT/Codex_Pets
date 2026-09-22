@@ -1,0 +1,6 @@
+{
+  "operation": "Lossless side-by-side layout only; originalLEFT canonicalRIGHT,24transparentgap. No rescaling or art changes.",
+  "original": "references/reference-01.png",
+  "canonical": "references/canonical-reference-lossless.webp",
+  "output": "references/identity-panel.webp"
+}

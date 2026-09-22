@@ -1,0 +1,5 @@
+visual_qa=pass
+reviewer=parent
+scope=Final cleaned extended contact sheet inspected once after all independent state and direction gates.
+observed=Consistent anime identity and palette, high curled ponytail, two waist belts, wide cargo legs, platform shoes and gold microphone; whole silhouettes stay within cells. Distinct standard-state poses, readable clockwise gaze family, transparent unused cells. No visible accidental interior strip or missing white clothing edge.
+limitations=Detailed motion and each direction confirmed separately by independent worker; this is the parent contact-sheet check only.
