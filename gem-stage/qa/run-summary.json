@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "pet_id": "gem-stage",
+  "display_name": "G.E.M.",
+  "assembled_at": "2026-09-19T16:40:41.345155+00:00",
+  "spritesheet_sha256": "5fc32c94a456e2da0ebb9ee52f3112860c15c32947a15135767bd1ae38e86257",
+  "validation": "validation-extended.json",
+  "blind_review": "direction-blind-validation.json",
+  "directions": "direction-semantics.json",
+  "installation": "installation.json"
+}

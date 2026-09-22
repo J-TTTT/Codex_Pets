@@ -1,0 +1,290 @@
+{
+  "pet_id": "gem-stage",
+  "display_name": "G.E.M.",
+  "description": "明亮亲切的黑色舞台装歌者，轻盈有活力，陪伴专注工作。",
+  "created_at": "2026-09-19T15:27:56.684281+00:00",
+  "sprite_version_number": 2,
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 2288
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "Quiet breathing and one gentle slow blink, tiny attached curl sway. Mic in anatomical RIGHT hand below chest, LEFT freehand relaxed. 6phases: rest, inhale, halfblink, closedblink, reopen, rest. No waving, singing, footsteps or broad gesture. Visible microvariation with stablefeet."
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "Light compact running toward SCREEN RIGHT with clearly alternating legs and tiny body rise/fall. 8gait phases: rightfootcontact, down, pass, up, leftfootcontact, down, pass, up. Face and torso screenRIGHT, blackmic steady in anatomical RIGHT hand, freeLEFTarm naturalcounterbalance. Curls and attachedsilverstraps lag softly. No longstride, highkicks, dust orspeedlines."
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "Light compact running toward SCREEN LEFT with clearly alternating legs and tinybodyrise/fall. 8alternatinggaitphases. Face and torso screenLEFT. Independently redraw, NEVERmirror rightrow: same anatomical RIGHT-hand blackmic, samehairpart, jacketzipper, belthangingstraps andearrings. FreeLEFTarm naturalcounterbalance. Smallcurl/accessorylag. No dust/speedlines."
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "4phase friendly gentlewave using anatomical LEFT freehand: rest, smallhandlift, smallsidewavewithslightheadtilt andbrightsmile, softreturn. RIGHT hand keepsmicbelowchest. No wavingmarks/effects. No broadoverheadwave."
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "5phase compactjoyfuljump: slightkneebend preparation, smallupwardtakeoff, lowairborneapex, softbentkneelanding, relaxedstand. Samebody/headscale; preservevisibleverticalmotion. Micneverleaves anatomicalRIGHT hand. Curls softlyliftandsettle. Entirehead/hair/boots stayinsideframe. No groundshadow/dust/landingmarks."
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "8phase mildregret: normal, eyeslower, smilebrieflysoftensaway, littleheadtilt, smallthoughtfulpause, gaze lifts, softsmilerestores, return. No tears/crying, exaggeratedslump, sigh, symbols/effects. Stablefeet, micsteady."
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "6phase patientlyawaitinguser: slightheadtilt, freeLEFT palm gentlyopens atwaist, warmexpectantface, calmblink, attentiveopeneyes, softheldaskingpose. RIGHThandmicbelowchest. Distinctfromidleandchin-thinking; noimpatientgesture."
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "Taskprocessing ONLY, notlocomotion orsinging. 6phases: micRIGHThandlowbelowchest, freeLEFThandgentlytoucheschin, eyesfocusdown, thoughtfulpause, smallnod, refocus. Feetplanted andstill. Do not obstructfacewithmic orletmiccrosshair/body."
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "6phase checkingresults: smallheadforwardlean, eyeslookslightlyleft, slightlyright, pauseobserving, smallconfirmingnod, satisfiedsmallsmile. FreeLEFThandrelaxed, RIGHTmicstablelow. Distinctfromhand-at-chinwork andidle. No newpapers/magnifier/effects."
+    },
+    {
+      "state": "look-row-9",
+      "row": 9,
+      "frames": 8,
+      "directions": [
+        "000",
+        "022.5",
+        "045",
+        "067.5",
+        "090",
+        "112.5",
+        "135",
+        "157.5"
+      ],
+      "purpose": "clockwise look directions from up through down-right"
+    },
+    {
+      "state": "look-row-10",
+      "row": 10,
+      "frames": 8,
+      "directions": [
+        "180",
+        "202.5",
+        "225",
+        "247.5",
+        "270",
+        "292.5",
+        "315",
+        "337.5"
+      ],
+      "purpose": "clockwise look directions from down through up-left"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references\\layout-guides\\idle.png",
+      "width": 2172,
+      "height": 724,
+      "frames": 6,
+      "cell_width": 362,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 145,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "running-right",
+      "path": "references\\layout-guides\\running-right.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 165,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "running-left",
+      "path": "references\\layout-guides\\running-left.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 165,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "waving",
+      "path": "references\\layout-guides\\waving.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 4,
+      "cell_width": 544,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 145,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "jumping",
+      "path": "references\\layout-guides\\jumping.png",
+      "width": 2175,
+      "height": 724,
+      "frames": 5,
+      "cell_width": 435,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 145,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "failed",
+      "path": "references\\layout-guides\\failed.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 165,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "waiting",
+      "path": "references\\layout-guides\\waiting.png",
+      "width": 2172,
+      "height": 724,
+      "frames": 6,
+      "cell_width": 362,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 145,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "running",
+      "path": "references\\layout-guides\\running.png",
+      "width": 2172,
+      "height": 724,
+      "frames": 6,
+      "cell_width": 362,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 145,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "review",
+      "path": "references\\layout-guides\\review.png",
+      "width": 2172,
+      "height": 724,
+      "frames": 6,
+      "cell_width": 362,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 145,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "look-row-9",
+      "path": "references\\layout-guides\\look-row-9.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 165,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "look-row-10",
+      "path": "references\\layout-guides\\look-row-10.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 8,
+      "cell_width": 272,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 165,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    },
+    {
+      "state": "look-cardinals",
+      "path": "references\\layout-guides\\look-cardinals.png",
+      "width": 2176,
+      "height": 724,
+      "frames": 4,
+      "cell_width": 544,
+      "cell_height": 724,
+      "safe_margin_x": 30,
+      "safe_margin_y": 145,
+      "usage": "Source spacing guide only; finalcells remain192x208."
+    }
+  ],
+  "references": [
+    {
+      "path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-19\\gem-stage\\work\\gem-stage\\references\\reference-01.png",
+      "width": 1144,
+      "height": 1375,
+      "mode": "RGBA",
+      "format": "PNG",
+      "source_path": "C:\\Users\\56180\\AppData\\Local\\Temp\\codex-clipboard-f3b892e7-72ee-41b9-99b0-45f79e931500.png",
+      "copied_path": "C:\\Users\\56180\\Documents\\Codex\\2026-09-19\\gem-stage\\work\\gem-stage\\references\\reference-01.png"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "name": "user-selected",
+    "selection": "manual"
+  },
+  "pet_notes": "Supplied image is sole appearance authority. Preserve exact face, hairstyle partition and clothing asymmetry. Anatomical RIGHT hand holds black wireless mic (viewerLEFT front), left hand free. Neutralpose only lower microphone belowchest and relaxfreehand, plantbothfeet. No new props, shadows,effects,text. Allrows fixedmic side, attachedhair/accessories; nevermirror.",
+  "style_preset": "auto",
+  "style_notes": "Precisely preserve supplied Japanese anime chibi: original head/body ratio, brown large anime eyes, deepbrown long curls, fine linework, soft cel shading, subtle gradients and hair highlights. Black cropped biker stage jacket, dark glitter top, silver hardware/earrings, black long trousers and platform ankleboots. No realistic/plush/3D style.",
+  "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `auto`: Infer the most appropriate pet-safe style from the user request and reference images, then keep that exact style consistent across every row. User style notes: Precisely preserve supplied Japanese anime chibi: original head/body ratio, brown large anime eyes, deepbrown long curls, fine linework, soft cel shading, subtle gradients and hair highlights. Black cropped biker stage jacket, dark glitter top, silver hardware/earrings, black long trousers and platform ankleboots. No realistic/plush/3D style..",
+  "brand_name": "",
+  "brand_brief": "",
+  "brand_sources": [],
+  "pet_safe_style": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction.",
+  "primary_generation_skill": "$imagegen",
+  "actions": {
+    "idle": "Quiet breathing and one gentle slow blink, tiny attached curl sway. Mic in anatomical RIGHT hand below chest, LEFT freehand relaxed. 6phases: rest, inhale, halfblink, closedblink, reopen, rest. No waving, singing, footsteps or broad gesture. Visible microvariation with stablefeet.",
+    "running-right": "Light compact running toward SCREEN RIGHT with clearly alternating legs and tiny body rise/fall. 8gait phases: rightfootcontact, down, pass, up, leftfootcontact, down, pass, up. Face and torso screenRIGHT, blackmic steady in anatomical RIGHT hand, freeLEFTarm naturalcounterbalance. Curls and attachedsilverstraps lag softly. No longstride, highkicks, dust orspeedlines.",
+    "running-left": "Light compact running toward SCREEN LEFT with clearly alternating legs and tinybodyrise/fall. 8alternatinggaitphases. Face and torso screenLEFT. Independently redraw, NEVERmirror rightrow: same anatomical RIGHT-hand blackmic, samehairpart, jacketzipper, belthangingstraps andearrings. FreeLEFTarm naturalcounterbalance. Smallcurl/accessorylag. No dust/speedlines.",
+    "waving": "4phase friendly gentlewave using anatomical LEFT freehand: rest, smallhandlift, smallsidewavewithslightheadtilt andbrightsmile, softreturn. RIGHT hand keepsmicbelowchest. No wavingmarks/effects. No broadoverheadwave.",
+    "jumping": "5phase compactjoyfuljump: slightkneebend preparation, smallupwardtakeoff, lowairborneapex, softbentkneelanding, relaxedstand. Samebody/headscale; preservevisibleverticalmotion. Micneverleaves anatomicalRIGHT hand. Curls softlyliftandsettle. Entirehead/hair/boots stayinsideframe. No groundshadow/dust/landingmarks.",
+    "failed": "8phase mildregret: normal, eyeslower, smilebrieflysoftensaway, littleheadtilt, smallthoughtfulpause, gaze lifts, softsmilerestores, return. No tears/crying, exaggeratedslump, sigh, symbols/effects. Stablefeet, micsteady.",
+    "waiting": "6phase patientlyawaitinguser: slightheadtilt, freeLEFT palm gentlyopens atwaist, warmexpectantface, calmblink, attentiveopeneyes, softheldaskingpose. RIGHThandmicbelowchest. Distinctfromidleandchin-thinking; noimpatientgesture.",
+    "running": "Taskprocessing ONLY, notlocomotion orsinging. 6phases: micRIGHThandlowbelowchest, freeLEFThandgentlytoucheschin, eyesfocusdown, thoughtfulpause, smallnod, refocus. Feetplanted andstill. Do not obstructfacewithmic orletmiccrosshair/body.",
+    "review": "6phase checkingresults: smallheadforwardlean, eyeslookslightlyleft, slightlyright, pauseobserving, smallconfirmingnod, satisfiedsmallsmile. FreeLEFThandrelaxed, RIGHTmicstablelow. Distinctfromhand-at-chinwork andidle. No newpapers/magnifier/effects."
+  }
+}

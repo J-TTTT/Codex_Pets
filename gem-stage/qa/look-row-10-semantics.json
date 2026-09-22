@@ -1,0 +1,79 @@
+{
+  "ok": true,
+  "reviewer": "stage_standard_qa",
+  "directions": [
+    {
+      "degree": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "下，略带左偏",
+      "horizontal": "鼻尖轻微左偏，整体以正面俯视为主",
+      "vertical": "眼睑下压、瞳孔下看，下巴靠近领口",
+      "reason": "方向符合预期。"
+    },
+    {
+      "degree": "202.5",
+      "verdict": "warning",
+      "expected": "down-left",
+      "observed": "左下，左向较轻",
+      "horizontal": "鼻尖及瞳孔开始偏左",
+      "vertical": "低头与下压眼睑清楚",
+      "reason": "接近轴向分量较轻，顺序中方向正确，无反向，独立复核接受。"
+    },
+    {
+      "degree": "225",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "左下",
+      "horizontal": "面部左转，鼻尖与视线偏左",
+      "vertical": "下巴收低，视线保持下倾",
+      "reason": "方向符合预期。"
+    },
+    {
+      "degree": "247.5",
+      "verdict": "warning",
+      "expected": "down-left",
+      "observed": "左下，下向较轻",
+      "horizontal": "左转及左看明确",
+      "vertical": "相比270，下巴略低、眼睑略下压",
+      "reason": "接近轴向分量较轻，顺序中方向正确，无反向，独立复核接受。"
+    },
+    {
+      "degree": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "左",
+      "horizontal": "鼻尖向左突出，瞳孔朝屏幕左侧",
+      "vertical": "下巴近水平，平视明确",
+      "reason": "方向符合预期。"
+    },
+    {
+      "degree": "292.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "左上",
+      "horizontal": "鼻尖和瞳孔保持左偏",
+      "vertical": "下巴抬起，视线开始上扬",
+      "reason": "方向符合预期。"
+    },
+    {
+      "degree": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "左上",
+      "horizontal": "面部左转、视线左偏",
+      "vertical": "上看与抬下巴均清楚",
+      "reason": "方向符合预期。"
+    },
+    {
+      "degree": "337.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "左上",
+      "horizontal": "保留左向面部透视及左偏视线",
+      "vertical": "仰视明显，接近正上方方向",
+      "reason": "方向符合预期。"
+    }
+  ],
+  "continuity": "已复核实际GIF帧；原整体缩放跳变解决。脚底、躯干、腰带及持麦手尺度稳定。两处跨排头部与发量轮廓变化略大但无整体弹跳或缩放突变，正常尺寸下接受。身份及连接通过。"
+}

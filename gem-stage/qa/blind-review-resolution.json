@@ -1,0 +1,17 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "independent_evidence": "stage_standard_qa 对最终候选逐方向和实际GIF帧独立复核；parent仅复核最终contact sheet。",
+  "failed_checks": [
+    "vertical-4 A:112.5 vertical axis ambiguous",
+    "vertical-7 A:247.5 vertical axis ambiguous"
+  ],
+  "evidence": [
+    "全部四个基准方向及所有水平分量在三人盲审中通过，无错误象限。",
+    "112.5的右向面部清晰，较090开始下压眼睑与下巴；俯视分量轻，在顺序中与135向下衔接。",
+    "247.5左向清晰，较270下巴稍低与眼睑略下压；与225顺序向左平视过渡，无反向。",
+    "独立正常尺寸实际GIF复核：两处跨排头部发量轮廓变化略大，但脚底、躯干、腰带及持麦手尺度稳定；无整体弹跳或缩放突变。"
+  ],
+  "hard_failures_overridden": false
+}

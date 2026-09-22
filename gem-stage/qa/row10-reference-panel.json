@@ -1,0 +1,8 @@
+{
+  "operation": "Lossless layout only; no scaling, art changes, or alpha edits",
+  "top": "C:\\Users\\56180\\Documents\\Codex\\2026-09-19\\gem-stage\\work\\gem-stage\\references\\original-and-canonical.png",
+  "bottom": "C:\\Users\\56180\\Documents\\Codex\\2026-09-19\\gem-stage\\work\\gem-stage\\qa\\contact-sheet.png",
+  "gap": 32,
+  "output": "C:\\Users\\56180\\Documents\\Codex\\2026-09-19\\gem-stage\\work\\gem-stage\\references\\identity-and-standard-panel.png",
+  "sha256": "24fc4b797acfb34a62ca2bfebb7e7f57e7c530d5e413a315d3a0172fc6fae857"
+}

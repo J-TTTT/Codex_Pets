@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "id": "gem-stage",
+  "display_name": "G.E.M.",
+  "installed_at": "2026-09-19T16:41:01.397684+00:00",
+  "path": "C:\\Users\\56180\\.codex\\pets\\gem-stage",
+  "assets": {
+    "pet.json": "82cc61ed35df437cf6b0f7286dc250b12b99970844db17aedc11bfdfa451f004",
+    "spritesheet.webp": "5fc32c94a456e2da0ebb9ee52f3112860c15c32947a15135767bd1ae38e86257"
+  },
+  "existing_files_verified_unchanged": 16,
+  "existing_pets_overwritten": false
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "file": "references/original-and-canonical.png",
+    "size": [
+      2320,
+      1375
+    ],
+    "bytes": 2245644,
+    "sha256": "c8a1af63cf1d4e81143170c706d2e1fad7d96335fe4c71dd3e8d06e580a27e5f",
+    "ok": true
+  },
+  {
+    "file": "decoded/look-row-9.png",
+    "size": [
+      2172,
+      724
+    ],
+    "bytes": 1257772,
+    "sha256": "84fafe0d58ad36a00f8b52ca53982bf29e618a925cf7b33550b19073557af1dc",
+    "ok": true
+  },
+  {
+    "file": "references/layout-guides/look-row-10.png",
+    "size": [
+      2176,
+      724
+    ],
+    "bytes": 7882,
+    "sha256": "a68ab4d58c00469126418d56f31b35f910aabf23237b9a448bf0637b09835a8b",
+    "ok": true
+  },
+  {
+    "file": "qa/contact-sheet.png",
+    "size": [
+      768,
+      1134
+    ],
+    "bytes": 561478,
+    "sha256": "177bd2db7cbb9a55ed27c75c031deb65d7a8a33b251121fbf404f0cb14331110",
+    "ok": true
+  },
+  {
+    "file": "decoded/look-anchors-approved.png",
+    "size": [
+      768,
+      208
+    ],
+    "bytes": 163624,
+    "sha256": "7febfdb227e7b3f5bc59e9807a5ed5c0ffb2d0cf7214d65148644c26528fecba",
+    "ok": true
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "operation": "lossless side-by-side reference layout only",
+  "left": "original confirmed art, no resampling",
+  "right": "canonical neutral, no resampling",
+  "gap": 32,
+  "size": [
+    2320,
+    1375
+  ]
+}

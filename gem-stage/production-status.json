@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "status": "complete",
+  "id": "gem-stage",
+  "display_name": "G.E.M.",
+  "generated": true,
+  "qa_passed": true,
+  "installed": true,
+  "completed_at": "2026-09-19T16:41:01.401985+00:00",
+  "installation": "qa/installation.json"
+}

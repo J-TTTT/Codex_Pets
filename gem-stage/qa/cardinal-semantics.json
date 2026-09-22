@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "reviewer": "stage_standard_qa independent normal-size check",
+  "cardinals": [
+    {
+      "degree": "000",
+      "verdict": "pass",
+      "observed": "up",
+      "reason": "瞳孔朝眼眶上方，鼻尖与嘴部抬高，下巴明显上扬、颈部展开；明确仰视。"
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "observed": "right",
+      "reason": "鼻尖向屏幕右侧突出，双眼与瞳孔偏右，右侧面颊收窄。"
+    },
+    {
+      "degree": "180",
+      "verdict": "pass",
+      "observed": "down",
+      "reason": "瞳孔下压，上眼睑降低，鼻尖、嘴与下巴下移，下巴靠近领口。"
+    },
+    {
+      "degree": "270",
+      "verdict": "pass",
+      "observed": "left",
+      "reason": "鼻尖与嘴部偏屏幕左侧，瞳孔朝左，左侧面颊收窄。"
+    }
+  ],
+  "identity": "Matchesidlehair/face/costume/proportions; anatomicalRIGHTblackmicfixed,LEFThandrelaxed;no clipsordrift."
+}

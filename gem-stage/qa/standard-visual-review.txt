@@ -1,0 +1,5 @@
+visual_qa=pass
+reviewer=stage_standard_qa independent worker
+qa_note=已逐帧检查全部57帧：身份、右手持麦和完整轮廓一致；左右跑步方向及交替步态正确；idle有清晰眨眼；跳跃具备腾空、屈膝落地和恢复；waiting摊掌询问、running左手托腮思考、review转头观察与轻微点头可区分，无明显尺度跳变或循环断裂。
+review_warnings=failed情绪与review点头幅度较轻，但正常宠物尺寸仍可辨认；侧身服装细节存在轻微透视简化，可接受；running-right和jumping的stable-slots警告已视觉复核通过。
+repair_rows=none

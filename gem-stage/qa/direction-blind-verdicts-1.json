@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's nose and face plane point left; B's face and pupils turn right."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a rightward face turn and gaze; B's nose and pupils point left."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's nose projects right and eyes follow; B shows a clear leftward face profile."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's face and nose turn left; B's face plane and eyes turn right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's face points right; B's lowered face retains a leftward nose and eye direction."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "Despite lowered lids, A's face points left and B's nose and face point right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's lowered face turns right; B's lowered face turns left, with corresponding nose offsets."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifts the chin and eyes; B bows the head with lowered lids and gaze."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A's face and pupils angle upward; B lowers the chin and eyes beneath heavier lids."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A's face is bowed with lowered lids; B lifts the face and gaze."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "up",
+      "reason": "A reads mainly as a sideways gaze without definite vertical direction; B has a visible upward face tilt and raised gaze."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A's chin and eyes lift; B's head bows and the eyes look downward."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a lowered face and heavy downward lids; B raises the face and pupils."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's chin and gaze angle downward; B's face opens upward with raised eyes."
+    }
+  ]
+}
